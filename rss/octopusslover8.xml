@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-04-07T15:58:38+00:00</updated>
+  <updated>2023-04-08T00:01:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7218809485224135978</id>
-    <title>haven’t even boarded yet </title>
-    <updated>2023-04-06T05:48:07+00:00</updated>
-    <content>haven’t even boarded yet </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7218809485224135978" rel="alternate"/>
-    <published>2023-04-06T05:48:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7218814102108638510</id>
     <title>baby let the games begin</title>
@@ -51,5 +43,13 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@octopusslover8/video/7219337989783063854" rel="alternate"/>
     <published>2023-04-07T15:58:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7219462413760908587</id>
+    <title>berning in puss @hannah_berner </title>
+    <updated>2023-04-08T00:01:28+00:00</updated>
+    <content>berning in puss @hannah_berner </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7219462413760908587" rel="alternate"/>
+    <published>2023-04-08T00:01:28+00:00</published>
   </entry>
 </feed>
