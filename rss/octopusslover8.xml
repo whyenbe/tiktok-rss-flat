@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-04-08T18:30:22+00:00</updated>
+  <updated>2023-04-09T00:22:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7219062061060427051</id>
-    <title>WE’RE JONASING PUSSIES @nickjonas @joejonas @kevinjonas @jimmyfallon </title>
-    <updated>2023-04-06T22:07:58+00:00</updated>
-    <content>WE’RE JONASING PUSSIES @nickjonas @joejonas @kevinjonas @jimmyfallon </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7219062061060427051" rel="alternate"/>
-    <published>2023-04-06T22:07:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7219337989783063854</id>
-    <title>No Title</title>
-    <updated>2023-04-07T15:58:38+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7219337989783063854" rel="alternate"/>
-    <published>2023-04-07T15:58:38+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7219462413760908587</id>
     <title>berning in puss @hannah_berner </title>
@@ -51,5 +35,21 @@
     <content>Replying to @betsyutk don’t even know why I was asked to entertain scott’s idea of a sit down @nickjonas @joejonas @kevinjonas @cocacola </content>
     <link href="https://tiktok.com/@octopusslover8/video/7219748151601745195" rel="alternate"/>
     <published>2023-04-08T18:30:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7219838484113018154</id>
+    <title>how do I deal with this </title>
+    <updated>2023-04-09T00:20:56+00:00</updated>
+    <content>how do I deal with this </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7219838484113018154" rel="alternate"/>
+    <published>2023-04-09T00:20:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7219838968345464107</id>
+    <title>I don’t know what to do with myself</title>
+    <updated>2023-04-09T00:22:44+00:00</updated>
+    <content>I don’t know what to do with myself</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7219838968345464107" rel="alternate"/>
+    <published>2023-04-09T00:22:44+00:00</published>
   </entry>
 </feed>
