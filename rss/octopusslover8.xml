@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-04-09T15:46:09+00:00</updated>
+  <updated>2023-04-09T17:10:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7219748151601745195</id>
-    <title>Replying to @betsyutk don’t even know why I was asked to entertain scott’s idea of a sit down @nickjonas @joejonas @kevinjonas @cocacola </title>
-    <updated>2023-04-08T18:30:22+00:00</updated>
-    <content>Replying to @betsyutk don’t even know why I was asked to entertain scott’s idea of a sit down @nickjonas @joejonas @kevinjonas @cocacola </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7219748151601745195" rel="alternate"/>
-    <published>2023-04-08T18:30:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7219838484113018154</id>
     <title>how do I deal with this </title>
@@ -51,5 +43,13 @@
     <content>happy easter </content>
     <link href="https://tiktok.com/@octopusslover8/video/7220076910380846382" rel="alternate"/>
     <published>2023-04-09T15:46:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7220098770858495274</id>
+    <title>Replying to @ataewvm222 </title>
+    <updated>2023-04-09T17:10:59+00:00</updated>
+    <content>Replying to @ataewvm222 </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7220098770858495274" rel="alternate"/>
+    <published>2023-04-09T17:10:59+00:00</published>
   </entry>
 </feed>
