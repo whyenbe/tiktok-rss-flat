@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-04-11T16:33:37+00:00</updated>
+  <updated>2023-04-11T22:59:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7220516901682793770</id>
-    <title>what is love pussies </title>
-    <updated>2023-04-10T20:13:30+00:00</updated>
-    <content>what is love pussies </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7220516901682793770" rel="alternate"/>
-    <published>2023-04-10T20:13:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7220536265685372202</id>
     <title>Replying to @kisses_from_katie </title>
@@ -51,5 +43,13 @@
     <content>a 🐙 PSA I just rediscovered </content>
     <link href="https://tiktok.com/@octopusslover8/video/7220831286078786862" rel="alternate"/>
     <published>2023-04-11T16:33:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7220930696242662698</id>
+    <title>I can’t handle this information </title>
+    <updated>2023-04-11T22:59:14+00:00</updated>
+    <content>I can’t handle this information </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7220930696242662698" rel="alternate"/>
+    <published>2023-04-11T22:59:14+00:00</published>
   </entry>
 </feed>
