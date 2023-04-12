@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-04-12T17:59:29+00:00</updated>
+  <updated>2023-04-12T20:32:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7220994901738179886</id>
-    <title>#stitch with @madagraviet this made my night but also I’m so sorry I’ve corrupted your child </title>
-    <updated>2023-04-12T03:08:24+00:00</updated>
-    <content>#stitch with @madagraviet this made my night but also I’m so sorry I’ve corrupted your child </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7220994901738179886" rel="alternate"/>
-    <published>2023-04-12T03:08:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7221027609772100907</id>
     <title>written and produced by me</title>
@@ -51,5 +43,13 @@
     <content>dc: me </content>
     <link href="https://tiktok.com/@octopusslover8/video/7221224534530166062" rel="alternate"/>
     <published>2023-04-12T17:59:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7221263975563021610</id>
+    <title>on repeat </title>
+    <updated>2023-04-12T20:32:28+00:00</updated>
+    <content>on repeat </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7221263975563021610" rel="alternate"/>
+    <published>2023-04-12T20:32:28+00:00</published>
   </entry>
 </feed>
