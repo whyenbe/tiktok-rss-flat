@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-04-11T22:59:14+00:00</updated>
+  <updated>2023-04-12T03:08:24+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7220536265685372202</id>
-    <title>Replying to @kisses_from_katie </title>
-    <updated>2023-04-10T21:28:39+00:00</updated>
-    <content>Replying to @kisses_from_katie </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7220536265685372202" rel="alternate"/>
-    <published>2023-04-10T21:28:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7220569627246546219</id>
     <title>Replying to @kweenpaul @idinamenzel literally filmed this earlier before I saw you duetted me! what insane timing </title>
@@ -51,5 +43,13 @@
     <content>I can’t handle this information </content>
     <link href="https://tiktok.com/@octopusslover8/video/7220930696242662698" rel="alternate"/>
     <published>2023-04-11T22:59:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7220994901738179886</id>
+    <title>#stitch with @madagraviet this made my night but also I’m so sorry I’ve corrupted your child </title>
+    <updated>2023-04-12T03:08:24+00:00</updated>
+    <content>#stitch with @madagraviet this made my night but also I’m so sorry I’ve corrupted your child </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7220994901738179886" rel="alternate"/>
+    <published>2023-04-12T03:08:24+00:00</published>
   </entry>
 </feed>
