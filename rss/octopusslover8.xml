@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-04-12T03:08:24+00:00</updated>
+  <updated>2023-04-12T05:22:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7220569627246546219</id>
-    <title>Replying to @kweenpaul @idinamenzel literally filmed this earlier before I saw you duetted me! what insane timing </title>
-    <updated>2023-04-10T23:38:07+00:00</updated>
-    <content>Replying to @kweenpaul @idinamenzel literally filmed this earlier before I saw you duetted me! what insane timing </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7220569627246546219" rel="alternate"/>
-    <published>2023-04-10T23:38:07+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7220670286482591022</id>
-    <title>dreaming of this pasta rn</title>
-    <updated>2023-04-11T06:09:04+00:00</updated>
-    <content>dreaming of this pasta rn</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7220670286482591022" rel="alternate"/>
-    <published>2023-04-11T06:09:04+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7220831286078786862</id>
-    <title>a 🐙 PSA I just rediscovered </title>
-    <updated>2023-04-11T16:33:37+00:00</updated>
-    <content>a 🐙 PSA I just rediscovered </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7220831286078786862" rel="alternate"/>
-    <published>2023-04-11T16:33:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7220930696242662698</id>
     <title>I can’t handle this information </title>
@@ -51,5 +27,29 @@
     <content>#stitch with @madagraviet this made my night but also I’m so sorry I’ve corrupted your child </content>
     <link href="https://tiktok.com/@octopusslover8/video/7220994901738179886" rel="alternate"/>
     <published>2023-04-12T03:08:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7221027609772100907</id>
+    <title>written and produced by me</title>
+    <updated>2023-04-12T05:15:28+00:00</updated>
+    <content>written and produced by me</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7221027609772100907" rel="alternate"/>
+    <published>2023-04-12T05:15:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7221028435752127786</id>
+    <title>gonna call it “train” </title>
+    <updated>2023-04-12T05:18:42+00:00</updated>
+    <content>gonna call it “train” </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7221028435752127786" rel="alternate"/>
+    <published>2023-04-12T05:18:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7221029354019654958</id>
+    <title>ok this part is kinda good</title>
+    <updated>2023-04-12T05:22:21+00:00</updated>
+    <content>ok this part is kinda good</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7221029354019654958" rel="alternate"/>
+    <published>2023-04-12T05:22:21+00:00</published>
   </entry>
 </feed>
