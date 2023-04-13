@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-04-12T21:55:04+00:00</updated>
+  <updated>2023-04-13T00:18:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7221028435752127786</id>
-    <title>gonna call it “train” </title>
-    <updated>2023-04-12T05:18:42+00:00</updated>
-    <content>gonna call it “train” </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7221028435752127786" rel="alternate"/>
-    <published>2023-04-12T05:18:42+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7221029354019654958</id>
-    <title>ok this part is kinda good</title>
-    <updated>2023-04-12T05:22:21+00:00</updated>
-    <content>ok this part is kinda good</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7221029354019654958" rel="alternate"/>
-    <published>2023-04-12T05:22:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7221224534530166062</id>
     <title>dc: me </title>
@@ -51,5 +35,21 @@
     <content>I just wanted to be an ipad pussy</content>
     <link href="https://tiktok.com/@octopusslover8/video/7221285266151968042" rel="alternate"/>
     <published>2023-04-12T21:55:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7221316602229165358</id>
+    <title>she’s never laughed this hard @brettsbites </title>
+    <updated>2023-04-12T23:56:42+00:00</updated>
+    <content>she’s never laughed this hard @brettsbites </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7221316602229165358" rel="alternate"/>
+    <published>2023-04-12T23:56:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7221322114240924970</id>
+    <title>I thougnt I belonged at the met </title>
+    <updated>2023-04-13T00:18:05+00:00</updated>
+    <content>I thougnt I belonged at the met </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7221322114240924970" rel="alternate"/>
+    <published>2023-04-13T00:18:05+00:00</published>
   </entry>
 </feed>
