@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-04-14T13:39:02+00:00</updated>
+  <updated>2023-04-14T16:14:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7221316602229165358</id>
-    <title>she’s never laughed this hard @brettsbites </title>
-    <updated>2023-04-12T23:56:42+00:00</updated>
-    <content>she’s never laughed this hard @brettsbites </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7221316602229165358" rel="alternate"/>
-    <published>2023-04-12T23:56:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7221322114240924970</id>
     <title>I thougnt I belonged at the met </title>
@@ -51,5 +43,13 @@
     <content>none of this would be possible without you pussies. I love you guys so much. thank you for making my dreams come true ❤️ and thank you to @quinnxcii for having me be a part of this incredible song! tents up!! 🐙</content>
     <link href="https://tiktok.com/@octopusslover8/video/7221899595578625323" rel="alternate"/>
     <published>2023-04-14T13:39:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7221939735646833962</id>
+    <title>best place ever </title>
+    <updated>2023-04-14T16:14:49+00:00</updated>
+    <content>best place ever </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7221939735646833962" rel="alternate"/>
+    <published>2023-04-14T16:14:49+00:00</published>
   </entry>
 </feed>
