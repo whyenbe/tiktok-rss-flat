@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-04-16T13:48:34+00:00</updated>
+  <updated>2023-04-16T20:37:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7221966089918352683</id>
-    <title>like grah </title>
-    <updated>2023-04-14T17:57:02+00:00</updated>
-    <content>like grah </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7221966089918352683" rel="alternate"/>
-    <published>2023-04-14T17:57:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7222296235447700782</id>
     <title>listening to Lily Allen in London hits different </title>
@@ -51,5 +43,13 @@
     <content>PUSS FROM LONDON AT TAMARIND @alicegrainge1 </content>
     <link href="https://tiktok.com/@octopusslover8/video/7222644181162855723" rel="alternate"/>
     <published>2023-04-16T13:48:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7222749546122710315</id>
+    <title>Replying to @thickmoranis </title>
+    <updated>2023-04-16T20:37:20+00:00</updated>
+    <content>Replying to @thickmoranis </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7222749546122710315" rel="alternate"/>
+    <published>2023-04-16T20:37:20+00:00</published>
   </entry>
 </feed>
