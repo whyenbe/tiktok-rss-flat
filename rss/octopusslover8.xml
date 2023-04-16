@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-04-16T21:42:35+00:00</updated>
+  <updated>2023-04-16T23:06:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7222308889071521067</id>
-    <title>I was plunging 🐙</title>
-    <updated>2023-04-15T16:07:22+00:00</updated>
-    <content>I was plunging 🐙</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7222308889071521067" rel="alternate"/>
-    <published>2023-04-15T16:07:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7222418944680824107</id>
     <title>letting my body move me</title>
@@ -51,5 +43,13 @@
     <content>what should I call it? @alicegrainge1 </content>
     <link href="https://tiktok.com/@octopusslover8/video/7222766367102061866" rel="alternate"/>
     <published>2023-04-16T21:42:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7222788038877990190</id>
+    <title>#duet with @_madelynwhitemusic #Stitch </title>
+    <updated>2023-04-16T23:06:38+00:00</updated>
+    <content>#duet with @_madelynwhitemusic #Stitch </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7222788038877990190" rel="alternate"/>
+    <published>2023-04-16T23:06:38+00:00</published>
   </entry>
 </feed>
