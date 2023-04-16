@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-04-16T20:37:20+00:00</updated>
+  <updated>2023-04-16T21:42:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7222296235447700782</id>
-    <title>listening to Lily Allen in London hits different </title>
-    <updated>2023-04-15T15:18:13+00:00</updated>
-    <content>listening to Lily Allen in London hits different </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7222296235447700782" rel="alternate"/>
-    <published>2023-04-15T15:18:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7222308889071521067</id>
     <title>I was plunging 🐙</title>
@@ -51,5 +43,13 @@
     <content>Replying to @thickmoranis </content>
     <link href="https://tiktok.com/@octopusslover8/video/7222749546122710315" rel="alternate"/>
     <published>2023-04-16T20:37:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7222766367102061866</id>
+    <title>what should I call it? @alicegrainge1 </title>
+    <updated>2023-04-16T21:42:35+00:00</updated>
+    <content>what should I call it? @alicegrainge1 </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7222766367102061866" rel="alternate"/>
+    <published>2023-04-16T21:42:35+00:00</published>
   </entry>
 </feed>
