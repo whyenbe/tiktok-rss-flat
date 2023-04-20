@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-04-19T15:08:41+00:00</updated>
+  <updated>2023-04-20T21:36:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7223505923287911723</id>
-    <title>ello british </title>
-    <updated>2023-04-18T21:32:26+00:00</updated>
-    <content>ello british </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7223505923287911723" rel="alternate"/>
-    <published>2023-04-18T21:32:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7223507095377677610</id>
     <title>No Title</title>
@@ -51,5 +43,13 @@
     <content>Replying to @its_mace </content>
     <link href="https://tiktok.com/@octopusslover8/video/7223778031318338858" rel="alternate"/>
     <published>2023-04-19T15:08:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7224249080862575915</id>
+    <title>STOP! In the name of puss 🐙 #passthatpuss </title>
+    <updated>2023-04-20T21:36:15+00:00</updated>
+    <content>STOP! In the name of puss 🐙 #passthatpuss </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7224249080862575915" rel="alternate"/>
+    <published>2023-04-20T21:36:15+00:00</published>
   </entry>
 </feed>
