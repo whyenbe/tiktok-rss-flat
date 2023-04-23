@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-04-23T20:35:13+00:00</updated>
+  <updated>2023-04-23T22:22:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7224891243795418411</id>
-    <title>all dressed up 🐙</title>
-    <updated>2023-04-22T15:08:16+00:00</updated>
-    <content>all dressed up 🐙</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7224891243795418411" rel="alternate"/>
-    <published>2023-04-22T15:08:16+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7225292816388230443</id>
-    <title>are your tents up or down this Sunday 🐙</title>
-    <updated>2023-04-23T17:06:30+00:00</updated>
-    <content>are your tents up or down this Sunday 🐙</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7225292816388230443" rel="alternate"/>
-    <published>2023-04-23T17:06:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7225301183026580782</id>
     <title>#helpmechallenge </title>
@@ -51,5 +35,21 @@
     <content>this snippit does more for my mental health than my prozac</content>
     <link href="https://tiktok.com/@octopusslover8/video/7225346605002640682" rel="alternate"/>
     <published>2023-04-23T20:35:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7225364694503001386</id>
+    <title>legit orgasmic </title>
+    <updated>2023-04-23T21:45:26+00:00</updated>
+    <content>legit orgasmic </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7225364694503001386" rel="alternate"/>
+    <published>2023-04-23T21:45:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7225374197361429806</id>
+    <title>it was unreal </title>
+    <updated>2023-04-23T22:22:14+00:00</updated>
+    <content>it was unreal </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7225374197361429806" rel="alternate"/>
+    <published>2023-04-23T22:22:14+00:00</published>
   </entry>
 </feed>
