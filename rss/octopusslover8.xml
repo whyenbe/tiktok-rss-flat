@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-04-24T18:33:50+00:00</updated>
+  <updated>2023-04-25T09:20:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7225346605002640682</id>
-    <title>this snippit does more for my mental health than my prozac</title>
-    <updated>2023-04-23T20:35:13+00:00</updated>
-    <content>this snippit does more for my mental health than my prozac</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7225346605002640682" rel="alternate"/>
-    <published>2023-04-23T20:35:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7225364694503001386</id>
     <title>legit orgasmic </title>
@@ -51,5 +43,13 @@
     <content>Replying to @gq </content>
     <link href="https://tiktok.com/@octopusslover8/video/7225686372944940334" rel="alternate"/>
     <published>2023-04-24T18:33:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7225914290509876526</id>
+    <title>romanticizing my life one Lana song at a time</title>
+    <updated>2023-04-25T09:20:11+00:00</updated>
+    <content>romanticizing my life one Lana song at a time</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7225914290509876526" rel="alternate"/>
+    <published>2023-04-25T09:20:11+00:00</published>
   </entry>
 </feed>
