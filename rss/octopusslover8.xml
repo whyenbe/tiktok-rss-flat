@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-04-25T09:20:11+00:00</updated>
+  <updated>2023-04-26T05:39:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7225364694503001386</id>
-    <title>legit orgasmic </title>
-    <updated>2023-04-23T21:45:26+00:00</updated>
-    <content>legit orgasmic </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7225364694503001386" rel="alternate"/>
-    <published>2023-04-23T21:45:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7225374197361429806</id>
     <title>it was unreal </title>
@@ -51,5 +43,13 @@
     <content>romanticizing my life one Lana song at a time</content>
     <link href="https://tiktok.com/@octopusslover8/video/7225914290509876526" rel="alternate"/>
     <published>2023-04-25T09:20:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7226229149608774958</id>
+    <title>your puss has to be cleaned too! 🐙 #passthatpuss </title>
+    <updated>2023-04-26T05:39:57+00:00</updated>
+    <content>your puss has to be cleaned too! 🐙 #passthatpuss </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7226229149608774958" rel="alternate"/>
+    <published>2023-04-26T05:39:57+00:00</published>
   </entry>
 </feed>
