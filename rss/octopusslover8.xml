@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-04-27T05:52:24+00:00</updated>
+  <updated>2023-04-28T03:08:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7226429409966804267</id>
-    <title>I need inspiration pussies 🐙 also HOW THE F*CK ARE WE ALMOST AT 1.9 MILLION PUSSIES??? IM LOWKEY FREAKING OUT </title>
-    <updated>2023-04-26T18:37:03+00:00</updated>
-    <content>I need inspiration pussies 🐙 also HOW THE F*CK ARE WE ALMOST AT 1.9 MILLION PUSSIES??? IM LOWKEY FREAKING OUT </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7226429409966804267" rel="alternate"/>
-    <published>2023-04-26T18:37:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7226435964930116910</id>
     <title>Replying to @finkstrx </title>
@@ -51,5 +43,13 @@
     <content>Replying to @thelastmelon15 </content>
     <link href="https://tiktok.com/@octopusslover8/video/7226603360303156526" rel="alternate"/>
     <published>2023-04-27T05:52:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7226932318236265774</id>
+    <title>I’m deathly ill but nothing would stop me from dancing for you guys. LET THE ROAD TO 2 MILLION PUSSIES BEGIN! 🐙 I love you guys so much. None of this would be anywhere close to possible without you 🥹</title>
+    <updated>2023-04-28T03:08:41+00:00</updated>
+    <content>I’m deathly ill but nothing would stop me from dancing for you guys. LET THE ROAD TO 2 MILLION PUSSIES BEGIN! 🐙 I love you guys so much. None of this would be anywhere close to possible without you 🥹</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7226932318236265774" rel="alternate"/>
+    <published>2023-04-28T03:08:41+00:00</published>
   </entry>
 </feed>
