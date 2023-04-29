@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-04-29T17:55:29+00:00</updated>
+  <updated>2023-04-29T18:30:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7227206706672045358</id>
-    <title>Replying to @amyknuevenn </title>
-    <updated>2023-04-28T20:53:26+00:00</updated>
-    <content>Replying to @amyknuevenn </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7227206706672045358" rel="alternate"/>
-    <published>2023-04-28T20:53:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7227216836436266283</id>
     <title>Replying to @sweetgreen you guys will never believe it. @sweetgreen #sweetgreenpartner </title>
@@ -51,5 +43,13 @@
     <content>pre cold plunge </content>
     <link href="https://tiktok.com/@octopusslover8/video/7227531960397172014" rel="alternate"/>
     <published>2023-04-29T17:55:29+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7227541058819984686</id>
+    <title>shoutout remedy place</title>
+    <updated>2023-04-29T18:30:49+00:00</updated>
+    <content>shoutout remedy place</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7227541058819984686" rel="alternate"/>
+    <published>2023-04-29T18:30:49+00:00</published>
   </entry>
 </feed>
