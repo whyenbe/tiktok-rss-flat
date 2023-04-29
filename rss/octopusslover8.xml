@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-04-28T21:32:39+00:00</updated>
+  <updated>2023-04-29T00:43:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7226952804949052718</id>
-    <title>Replying to @michaelaisliterate </title>
-    <updated>2023-04-28T04:28:15+00:00</updated>
-    <content>Replying to @michaelaisliterate </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7226952804949052718" rel="alternate"/>
-    <published>2023-04-28T04:28:15+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7227177545811168555</id>
-    <title>Replying to @thecraftychick401 </title>
-    <updated>2023-04-28T19:00:17+00:00</updated>
-    <content>Replying to @thecraftychick401 </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7227177545811168555" rel="alternate"/>
-    <published>2023-04-28T19:00:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7227202685211118891</id>
     <title>No Title</title>
@@ -51,5 +35,21 @@
     <content>Replying to @sweetgreen you guys will never believe it. @sweetgreen #sweetgreenpartner </content>
     <link href="https://tiktok.com/@octopusslover8/video/7227216836436266283" rel="alternate"/>
     <published>2023-04-28T21:32:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7227255806478257454</id>
+    <title>Replying to @.juvina </title>
+    <updated>2023-04-29T00:03:53+00:00</updated>
+    <content>Replying to @.juvina </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7227255806478257454" rel="alternate"/>
+    <published>2023-04-29T00:03:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7227266044237286702</id>
+    <title>dc: me</title>
+    <updated>2023-04-29T00:43:35+00:00</updated>
+    <content>dc: me</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7227266044237286702" rel="alternate"/>
+    <published>2023-04-29T00:43:35+00:00</published>
   </entry>
 </feed>
