@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-04-29T20:34:42+00:00</updated>
+  <updated>2023-04-30T01:24:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7227266044237286702</id>
-    <title>dc: me</title>
-    <updated>2023-04-29T00:43:35+00:00</updated>
-    <content>dc: me</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7227266044237286702" rel="alternate"/>
-    <published>2023-04-29T00:43:35+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7227531960397172014</id>
-    <title>pre cold plunge </title>
-    <updated>2023-04-29T17:55:29+00:00</updated>
-    <content>pre cold plunge </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7227531960397172014" rel="alternate"/>
-    <published>2023-04-29T17:55:29+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7227541058819984686</id>
-    <title>shoutout remedy place</title>
-    <updated>2023-04-29T18:30:49+00:00</updated>
-    <content>shoutout remedy place</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7227541058819984686" rel="alternate"/>
-    <published>2023-04-29T18:30:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7227556371808603438</id>
     <title>Replying to @arianarios83 </title>
@@ -51,5 +27,29 @@
     <content>the way Taylor Swift owns days of the year makes my life @taylorswift </content>
     <link href="https://tiktok.com/@octopusslover8/video/7227572987921173802" rel="alternate"/>
     <published>2023-04-29T20:34:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7227621752900275502</id>
+    <title>inspired by @chris </title>
+    <updated>2023-04-29T23:43:54+00:00</updated>
+    <content>inspired by @chris </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7227621752900275502" rel="alternate"/>
+    <published>2023-04-29T23:43:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7227624407856893226</id>
+    <title>happy birthday to all tiffanys out there </title>
+    <updated>2023-04-29T23:54:14+00:00</updated>
+    <content>happy birthday to all tiffanys out there </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7227624407856893226" rel="alternate"/>
+    <published>2023-04-29T23:54:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7227647742078930222</id>
+    <title>#stitch with @secretnyc_ I NEED IT </title>
+    <updated>2023-04-30T01:24:46+00:00</updated>
+    <content>#stitch with @secretnyc_ I NEED IT </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7227647742078930222" rel="alternate"/>
+    <published>2023-04-30T01:24:46+00:00</published>
   </entry>
 </feed>
