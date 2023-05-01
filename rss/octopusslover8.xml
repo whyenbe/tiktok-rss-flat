@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-05-01T01:23:36+00:00</updated>
+  <updated>2023-05-01T04:50:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7227647742078930222</id>
-    <title>#stitch with @secretnyc_ I NEED IT </title>
-    <updated>2023-04-30T01:24:46+00:00</updated>
-    <content>#stitch with @secretnyc_ I NEED IT </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7227647742078930222" rel="alternate"/>
-    <published>2023-04-30T01:24:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7227714691206892842</id>
     <title>this was my dream when I was younger </title>
@@ -51,5 +43,13 @@
     <content>Replying to @octopusslover8 here’s me reviewing bridesmaids tik tok THIS IS ME AS A KID please don’t take this down 🐙 </content>
     <link href="https://tiktok.com/@octopusslover8/video/7228018523333889326" rel="alternate"/>
     <published>2023-05-01T01:23:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7228071834489523498</id>
+    <title>best Sunday ever </title>
+    <updated>2023-05-01T04:50:38+00:00</updated>
+    <content>best Sunday ever </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7228071834489523498" rel="alternate"/>
+    <published>2023-05-01T04:50:38+00:00</published>
   </entry>
 </feed>
