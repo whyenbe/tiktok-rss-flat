@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-05-03T04:51:17+00:00</updated>
+  <updated>2023-05-04T00:17:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7228645262925909291</id>
-    <title>dc: me</title>
-    <updated>2023-05-02T17:56:00+00:00</updated>
-    <content>dc: me</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7228645262925909291" rel="alternate"/>
-    <published>2023-05-02T17:56:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7228656359296748842</id>
     <title>morning pussies! please comment stuff for me to act out </title>
@@ -51,5 +43,13 @@
     <content>Replying to @Snooki literally been waiting all my life to do this </content>
     <link href="https://tiktok.com/@octopusslover8/video/7228814113785482542" rel="alternate"/>
     <published>2023-05-03T04:51:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7229114728759463211</id>
+    <title>dc: me @Julia Mervis </title>
+    <updated>2023-05-04T00:17:27+00:00</updated>
+    <content>dc: me @Julia Mervis </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7229114728759463211" rel="alternate"/>
+    <published>2023-05-04T00:17:27+00:00</published>
   </entry>
 </feed>
