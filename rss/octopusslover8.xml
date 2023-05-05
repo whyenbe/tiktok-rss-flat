@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-05-05T17:13:47+00:00</updated>
+  <updated>2023-05-05T20:48:27+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7229114728759463211</id>
-    <title>dc: me @Julia Mervis </title>
-    <updated>2023-05-04T00:17:27+00:00</updated>
-    <content>dc: me @Julia Mervis </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7229114728759463211" rel="alternate"/>
-    <published>2023-05-04T00:17:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7229440117587479854</id>
     <title>Replying to @Warby Parker </title>
@@ -51,5 +43,13 @@
     <content>dc: me</content>
     <link href="https://tiktok.com/@octopusslover8/video/7229747730434788651" rel="alternate"/>
     <published>2023-05-05T17:13:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7229803061823278378</id>
+    <title>just an ordinary puss 🐙</title>
+    <updated>2023-05-05T20:48:27+00:00</updated>
+    <content>just an ordinary puss 🐙</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7229803061823278378" rel="alternate"/>
+    <published>2023-05-05T20:48:27+00:00</published>
   </entry>
 </feed>
