@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-05-05T21:22:38+00:00</updated>
+  <updated>2023-05-06T01:46:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7229505738501098795</id>
-    <title>NEXT 8 WITH MY SISTERS</title>
-    <updated>2023-05-05T01:34:44+00:00</updated>
-    <content>NEXT 8 WITH MY SISTERS</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7229505738501098795" rel="alternate"/>
-    <published>2023-05-05T01:34:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7229533213167865131</id>
     <title>dc: me </title>
@@ -51,5 +43,13 @@
     <content>after I asked @Julia Mervis to play mermaids </content>
     <link href="https://tiktok.com/@octopusslover8/video/7229811867588349227" rel="alternate"/>
     <published>2023-05-05T21:22:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7229879949757320491</id>
+    <title>dc: me</title>
+    <updated>2023-05-06T01:46:49+00:00</updated>
+    <content>dc: me</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7229879949757320491" rel="alternate"/>
+    <published>2023-05-06T01:46:49+00:00</published>
   </entry>
 </feed>
