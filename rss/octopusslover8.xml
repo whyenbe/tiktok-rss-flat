@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-05-07T02:31:01+00:00</updated>
+  <updated>2023-05-07T18:37:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7229803061823278378</id>
-    <title>just an ordinary puss 🐙</title>
-    <updated>2023-05-05T20:48:27+00:00</updated>
-    <content>just an ordinary puss 🐙</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7229803061823278378" rel="alternate"/>
-    <published>2023-05-05T20:48:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7229811867588349227</id>
     <title>after I asked @Julia Mervis to play mermaids </title>
@@ -51,5 +43,13 @@
     <content>also my pants were so wrinkled and I don’t have a steamer </content>
     <link href="https://tiktok.com/@octopusslover8/video/7230262401034194219" rel="alternate"/>
     <published>2023-05-07T02:31:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7230511457824197931</id>
+    <title>Wanted to be trendy </title>
+    <updated>2023-05-07T18:37:28+00:00</updated>
+    <content>Wanted to be trendy </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7230511457824197931" rel="alternate"/>
+    <published>2023-05-07T18:37:28+00:00</published>
   </entry>
 </feed>
