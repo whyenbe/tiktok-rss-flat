@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-05-10T04:19:45+00:00</updated>
+  <updated>2023-05-10T04:59:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7231050984980614443</id>
-    <title>like I’m always needing to know why</title>
-    <updated>2023-05-09T05:31:33+00:00</updated>
-    <content>like I’m always needing to know why</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7231050984980614443" rel="alternate"/>
-    <published>2023-05-09T05:31:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7231203704555326763</id>
     <title>let me know pussies </title>
@@ -51,5 +43,13 @@
     <content>plog (puss vlog)</content>
     <link href="https://tiktok.com/@octopusslover8/video/7231403618799291691" rel="alternate"/>
     <published>2023-05-10T04:19:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7231413970672831787</id>
+    <title>No Title</title>
+    <updated>2023-05-10T04:59:49+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7231413970672831787" rel="alternate"/>
+    <published>2023-05-10T04:59:49+00:00</published>
   </entry>
 </feed>
