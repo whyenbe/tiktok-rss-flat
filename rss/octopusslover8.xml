@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-05-11T01:33:03+00:00</updated>
+  <updated>2023-05-11T06:00:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7231403618799291691</id>
-    <title>plog (puss vlog)</title>
-    <updated>2023-05-10T04:19:45+00:00</updated>
-    <content>plog (puss vlog)</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7231403618799291691" rel="alternate"/>
-    <published>2023-05-10T04:19:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7231413970672831787</id>
     <title>No Title</title>
@@ -51,5 +43,13 @@
     <content>Replying to @denn.kitty </content>
     <link href="https://tiktok.com/@octopusslover8/video/7231731813108944171" rel="alternate"/>
     <published>2023-05-11T01:33:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7231800539846167851</id>
+    <title>It took so long to post this because it’s hard to type on a big screen </title>
+    <updated>2023-05-11T06:00:26+00:00</updated>
+    <content>It took so long to post this because it’s hard to type on a big screen </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7231800539846167851" rel="alternate"/>
+    <published>2023-05-11T06:00:26+00:00</published>
   </entry>
 </feed>
