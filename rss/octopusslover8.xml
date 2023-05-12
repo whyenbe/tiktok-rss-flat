@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-05-12T00:06:17+00:00</updated>
+  <updated>2023-05-12T03:23:25+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7231800539846167851</id>
-    <title>It took so long to post this because it’s hard to type on a big screen </title>
-    <updated>2023-05-11T06:00:26+00:00</updated>
-    <content>It took so long to post this because it’s hard to type on a big screen </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7231800539846167851" rel="alternate"/>
-    <published>2023-05-11T06:00:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7232052005819239723</id>
     <title>Pussy PSA! Pussy PSA! @tacobell Sausage Breakfast Crunchwrap slay #tacobellpartner </title>
@@ -51,5 +43,13 @@
     <content>Replying to @Rachel U reuploaded but here is my favorite skit I’ve ever done! a pussy asked me on live so I thought I’d share 🐙</content>
     <link href="https://tiktok.com/@octopusslover8/video/7232080557398576426" rel="alternate"/>
     <published>2023-05-12T00:06:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7232131350092909870</id>
+    <title>my comfort meal 🐙</title>
+    <updated>2023-05-12T03:23:25+00:00</updated>
+    <content>my comfort meal 🐙</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7232131350092909870" rel="alternate"/>
+    <published>2023-05-12T03:23:25+00:00</published>
   </entry>
 </feed>
