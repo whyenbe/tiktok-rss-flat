@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-05-15T21:39:35+00:00</updated>
+  <updated>2023-05-15T22:53:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7233119553667075371</id>
-    <title>sometimes you can’t do anything until 6 PM and that’s ok</title>
-    <updated>2023-05-14T19:18:15+00:00</updated>
-    <content>sometimes you can’t do anything until 6 PM and that’s ok</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7233119553667075371" rel="alternate"/>
-    <published>2023-05-14T19:18:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7233240288767102250</id>
     <title>we tried dc: me</title>
@@ -51,5 +43,13 @@
     <content>hi barbie</content>
     <link href="https://tiktok.com/@octopusslover8/video/7233527100106378538" rel="alternate"/>
     <published>2023-05-15T21:39:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7233546189893897514</id>
+    <title>#duet with @Lillo Alencar #ASMR </title>
+    <updated>2023-05-15T22:53:43+00:00</updated>
+    <content>#duet with @Lillo Alencar #ASMR </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7233546189893897514" rel="alternate"/>
+    <published>2023-05-15T22:53:43+00:00</published>
   </entry>
 </feed>
