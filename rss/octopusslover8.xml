@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-05-17T20:55:47+00:00</updated>
+  <updated>2023-05-17T21:56:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7233908282824461611</id>
-    <title>THIS IS A SPECIAL EDITION PUSSY PSA 🐙 My giveaway post got removed on Tik Tok so I’m choosing 16 winners on Instagram now, enter by 5/18 at 9 PM PST / 12 AM EST</title>
-    <updated>2023-05-16T22:18:49+00:00</updated>
-    <content>THIS IS A SPECIAL EDITION PUSSY PSA 🐙 My giveaway post got removed on Tik Tok so I’m choosing 16 winners on Instagram now, enter by 5/18 at 9 PM PST / 12 AM EST</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7233908282824461611" rel="alternate"/>
-    <published>2023-05-16T22:18:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7233911978840821034</id>
     <title>CAN’T BELIEVE TARGET IS CLOSING</title>
@@ -51,5 +43,13 @@
     <content>Replying to @giana 𓆩❤︎𓆪 </content>
     <link href="https://tiktok.com/@octopusslover8/video/7234257970895310123" rel="alternate"/>
     <published>2023-05-17T20:55:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7234273509508189482</id>
+    <title>it’s pronounced beebleh </title>
+    <updated>2023-05-17T21:56:06+00:00</updated>
+    <content>it’s pronounced beebleh </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7234273509508189482" rel="alternate"/>
+    <published>2023-05-17T21:56:06+00:00</published>
   </entry>
 </feed>
