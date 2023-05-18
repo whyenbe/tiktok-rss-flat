@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-05-18T00:53:40+00:00</updated>
+  <updated>2023-05-18T16:17:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7233942879859723563</id>
-    <title>#duet with @lauren_tuck #tentsup </title>
-    <updated>2023-05-17T00:33:03+00:00</updated>
-    <content>#duet with @lauren_tuck #tentsup </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7233942879859723563" rel="alternate"/>
-    <published>2023-05-17T00:33:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7234200499203869994</id>
     <title>Replying to @Back Market I wish my friends had a 1 year warranty @Back Market #TechReborn #BackMarket #Partner </title>
@@ -51,5 +43,13 @@
     <content>it’s like lowkey a thriller</content>
     <link href="https://tiktok.com/@octopusslover8/video/7234319280043478314" rel="alternate"/>
     <published>2023-05-18T00:53:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7234557450098363694</id>
+    <title>it’s about him getting over the hump of his life 🥚</title>
+    <updated>2023-05-18T16:17:58+00:00</updated>
+    <content>it’s about him getting over the hump of his life 🥚</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7234557450098363694" rel="alternate"/>
+    <published>2023-05-18T16:17:58+00:00</published>
   </entry>
 </feed>
