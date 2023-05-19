@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-05-19T06:22:15+00:00</updated>
+  <updated>2023-05-19T19:48:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7234319280043478314</id>
-    <title>it’s like lowkey a thriller</title>
-    <updated>2023-05-18T00:53:40+00:00</updated>
-    <content>it’s like lowkey a thriller</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7234319280043478314" rel="alternate"/>
-    <published>2023-05-18T00:53:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7234557450098363694</id>
     <title>it’s about him getting over the hump of his life 🥚</title>
@@ -51,5 +43,13 @@
     <content>the actual best candy of all time</content>
     <link href="https://tiktok.com/@octopusslover8/video/7234774988081990954" rel="alternate"/>
     <published>2023-05-19T06:22:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7234982734127500586</id>
+    <title>No Title</title>
+    <updated>2023-05-19T19:48:26+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7234982734127500586" rel="alternate"/>
+    <published>2023-05-19T19:48:26+00:00</published>
   </entry>
 </feed>
