@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-05-19T22:23:45+00:00</updated>
+  <updated>2023-05-20T02:05:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7234616880596602155</id>
-    <title>dc: me </title>
-    <updated>2023-05-18T20:08:33+00:00</updated>
-    <content>dc: me </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7234616880596602155" rel="alternate"/>
-    <published>2023-05-18T20:08:33+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7234637077059685678</id>
-    <title>No Title</title>
-    <updated>2023-05-18T21:26:56+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7234637077059685678" rel="alternate"/>
-    <published>2023-05-18T21:26:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7234774988081990954</id>
     <title>the actual best candy of all time</title>
@@ -51,5 +35,21 @@
     <content>it’s like organic </content>
     <link href="https://tiktok.com/@octopusslover8/video/7235022778800491822" rel="alternate"/>
     <published>2023-05-19T22:23:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7235077474026081579</id>
+    <title>works better than my meds</title>
+    <updated>2023-05-20T01:55:57+00:00</updated>
+    <content>works better than my meds</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7235077474026081579" rel="alternate"/>
+    <published>2023-05-20T01:55:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7235079989106953518</id>
+    <title>dc: me</title>
+    <updated>2023-05-20T02:05:40+00:00</updated>
+    <content>dc: me</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7235079989106953518" rel="alternate"/>
+    <published>2023-05-20T02:05:40+00:00</published>
   </entry>
 </feed>
