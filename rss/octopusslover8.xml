@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-05-22T03:06:19+00:00</updated>
+  <updated>2023-05-23T00:54:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7235302207703289134</id>
-    <title>No Title</title>
-    <updated>2023-05-20T16:28:03+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7235302207703289134" rel="alternate"/>
-    <published>2023-05-20T16:28:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7235457698832125227</id>
     <title>the roomies are back 🐙 dc: me</title>
@@ -51,5 +43,13 @@
     <content>Replying to @Daisy 🌸 </content>
     <link href="https://tiktok.com/@octopusslover8/video/7235837749675445550" rel="alternate"/>
     <published>2023-05-22T03:06:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7236175026469276974</id>
+    <title>#stitch with @zooeydeschanel I AM FREAKING OUT</title>
+    <updated>2023-05-23T00:54:56+00:00</updated>
+    <content>#stitch with @zooeydeschanel I AM FREAKING OUT</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7236175026469276974" rel="alternate"/>
+    <published>2023-05-23T00:54:56+00:00</published>
   </entry>
 </feed>
