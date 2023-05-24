@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-05-24T07:02:59+00:00</updated>
+  <updated>2023-05-24T15:32:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7236435746062732590</id>
-    <title>The most surreal PUSSY PSA I’ve ever done…grew up reading @Rolling Stone and now because of you guys IM IN IT. TENTS THE FUCK UP 🐙</title>
-    <updated>2023-05-23T17:46:43+00:00</updated>
-    <content>The most surreal PUSSY PSA I’ve ever done…grew up reading @Rolling Stone and now because of you guys IM IN IT. TENTS THE FUCK UP 🐙</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7236435746062732590" rel="alternate"/>
-    <published>2023-05-23T17:46:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7236442568580484398</id>
     <title>Replying to @michelleF </title>
@@ -51,5 +43,13 @@
     <content>THE WHIMPER  </content>
     <link href="https://tiktok.com/@octopusslover8/video/7236640699578600750" rel="alternate"/>
     <published>2023-05-24T07:02:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7236772220456963371</id>
+    <title>had to bring the puss reviews back 🐙 #passthatpuss </title>
+    <updated>2023-05-24T15:32:26+00:00</updated>
+    <content>had to bring the puss reviews back 🐙 #passthatpuss </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7236772220456963371" rel="alternate"/>
+    <published>2023-05-24T15:32:26+00:00</published>
   </entry>
 </feed>
