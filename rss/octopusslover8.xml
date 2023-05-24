@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-05-24T03:19:00+00:00</updated>
+  <updated>2023-05-24T07:02:59+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7236175026469276974</id>
-    <title>#stitch with @zooeydeschanel I AM FREAKING OUT</title>
-    <updated>2023-05-23T00:54:56+00:00</updated>
-    <content>#stitch with @zooeydeschanel I AM FREAKING OUT</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7236175026469276974" rel="alternate"/>
-    <published>2023-05-23T00:54:56+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7236257252569550122</id>
-    <title>#duet with @Joemyheck #forge </title>
-    <updated>2023-05-23T06:14:04+00:00</updated>
-    <content>#duet with @Joemyheck #forge </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7236257252569550122" rel="alternate"/>
-    <published>2023-05-23T06:14:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7236435746062732590</id>
     <title>The most surreal PUSSY PSA I’ve ever done…grew up reading @Rolling Stone and now because of you guys IM IN IT. TENTS THE FUCK UP 🐙</title>
@@ -51,5 +35,21 @@
     <content>#duet with @Lazy Pot Noodle🍜 #TikTokMadeMeBuyIt </content>
     <link href="https://tiktok.com/@octopusslover8/video/7236583168915246382" rel="alternate"/>
     <published>2023-05-24T03:19:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7236637862064835886</id>
+    <title>dc: me</title>
+    <updated>2023-05-24T06:52:06+00:00</updated>
+    <content>dc: me</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7236637862064835886" rel="alternate"/>
+    <published>2023-05-24T06:52:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7236640699578600750</id>
+    <title>THE WHIMPER  </title>
+    <updated>2023-05-24T07:02:59+00:00</updated>
+    <content>THE WHIMPER  </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7236640699578600750" rel="alternate"/>
+    <published>2023-05-24T07:02:59+00:00</published>
   </entry>
 </feed>
