@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-05-24T18:03:07+00:00</updated>
+  <updated>2023-05-25T21:25:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7236583168915246382</id>
-    <title>#duet with @Lazy Pot Noodle🍜 #TikTokMadeMeBuyIt </title>
-    <updated>2023-05-24T03:19:00+00:00</updated>
-    <content>#duet with @Lazy Pot Noodle🍜 #TikTokMadeMeBuyIt </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7236583168915246382" rel="alternate"/>
-    <published>2023-05-24T03:19:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7236637862064835886</id>
     <title>dc: me</title>
@@ -51,5 +43,13 @@
     <content>Replying to @Tom Allison the other acne tenants are not gonna be happy about this #CeraVePartner #CeraVe #FaceItLikeADerm </content>
     <link href="https://tiktok.com/@octopusslover8/video/7236811060580273454" rel="alternate"/>
     <published>2023-05-24T18:03:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7237234194261429550</id>
+    <title>and the seat is heated</title>
+    <updated>2023-05-25T21:25:04+00:00</updated>
+    <content>and the seat is heated</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7237234194261429550" rel="alternate"/>
+    <published>2023-05-25T21:25:04+00:00</published>
   </entry>
 </feed>
