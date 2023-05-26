@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-05-25T22:27:11+00:00</updated>
+  <updated>2023-05-26T00:16:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7236640699578600750</id>
-    <title>THE WHIMPER  </title>
-    <updated>2023-05-24T07:02:59+00:00</updated>
-    <content>THE WHIMPER  </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7236640699578600750" rel="alternate"/>
-    <published>2023-05-24T07:02:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7236772220456963371</id>
     <title>had to bring the puss reviews back 🐙 #passthatpuss </title>
@@ -51,5 +43,13 @@
     <content>Replying to @Apple TV turns out Prehistoric Planet Season 2 isn’t just for herbivores @Apple TV #appletvpluspartner #prehistoricplanet </content>
     <link href="https://tiktok.com/@octopusslover8/video/7237250198731230507" rel="alternate"/>
     <published>2023-05-25T22:27:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7237278281119190314</id>
+    <title>take my meds with me pussies</title>
+    <updated>2023-05-26T00:16:10+00:00</updated>
+    <content>take my meds with me pussies</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7237278281119190314" rel="alternate"/>
+    <published>2023-05-26T00:16:10+00:00</published>
   </entry>
 </feed>
