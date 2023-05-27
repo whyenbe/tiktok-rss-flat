@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-05-26T17:57:56+00:00</updated>
+  <updated>2023-05-27T01:45:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7237234194261429550</id>
-    <title>and the seat is heated</title>
-    <updated>2023-05-25T21:25:04+00:00</updated>
-    <content>and the seat is heated</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7237234194261429550" rel="alternate"/>
-    <published>2023-05-25T21:25:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7237250198731230507</id>
     <title>Replying to @Apple TV turns out Prehistoric Planet Season 2 isn’t just for herbivores @Apple TV #appletvpluspartner #prehistoricplanet </title>
@@ -51,5 +43,13 @@
     <content>Replying to @Back Market are you sure this iPad doesn’t make my head look big? @Back Market #TechReborn #BackMarket #partner </content>
     <link href="https://tiktok.com/@octopusslover8/video/7237551899933674795" rel="alternate"/>
     <published>2023-05-26T17:57:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7237672308209454378</id>
+    <title>snapchat needs to be deleted </title>
+    <updated>2023-05-27T01:45:16+00:00</updated>
+    <content>snapchat needs to be deleted </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7237672308209454378" rel="alternate"/>
+    <published>2023-05-27T01:45:16+00:00</published>
   </entry>
 </feed>
