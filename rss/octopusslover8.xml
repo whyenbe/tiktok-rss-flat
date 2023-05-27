@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-05-27T03:19:11+00:00</updated>
+  <updated>2023-05-27T09:06:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7237465438815407402</id>
-    <title>had to do a pussy PSA in Singapore 🐙</title>
-    <updated>2023-05-26T12:22:31+00:00</updated>
-    <content>had to do a pussy PSA in Singapore 🐙</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7237465438815407402" rel="alternate"/>
-    <published>2023-05-26T12:22:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7237551899933674795</id>
     <title>Replying to @Back Market are you sure this iPad doesn’t make my head look big? @Back Market #TechReborn #BackMarket #partner </title>
@@ -51,5 +43,13 @@
     <content>I am. In shambles. </content>
     <link href="https://tiktok.com/@octopusslover8/video/7237696519195856171" rel="alternate"/>
     <published>2023-05-27T03:19:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7237785627113180459</id>
+    <title>fit check</title>
+    <updated>2023-05-27T09:06:12+00:00</updated>
+    <content>fit check</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7237785627113180459" rel="alternate"/>
+    <published>2023-05-27T09:06:12+00:00</published>
   </entry>
 </feed>
