@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-05-29T22:28:12+00:00</updated>
+  <updated>2023-05-30T03:14:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7238120669974842670</id>
-    <title>I want to open the vault and listen to every single song in it @Taylor Swift </title>
-    <updated>2023-05-28T06:45:33+00:00</updated>
-    <content>I want to open the vault and listen to every single song in it @Taylor Swift </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7238120669974842670" rel="alternate"/>
-    <published>2023-05-28T06:45:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7238604190405217578</id>
     <title>THANK YOU SO MUCH @McDonald’s TENTS UP 🐙</title>
@@ -51,5 +43,13 @@
     <content>amen</content>
     <link href="https://tiktok.com/@octopusslover8/video/7238734773303250218" rel="alternate"/>
     <published>2023-05-29T22:28:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7238808627740445994</id>
+    <title>just a Barbie puss </title>
+    <updated>2023-05-30T03:14:46+00:00</updated>
+    <content>just a Barbie puss </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7238808627740445994" rel="alternate"/>
+    <published>2023-05-30T03:14:46+00:00</published>
   </entry>
 </feed>
