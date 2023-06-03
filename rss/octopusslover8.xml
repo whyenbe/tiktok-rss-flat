@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-06-03T02:35:36+00:00</updated>
+  <updated>2023-06-03T18:58:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7240155176525368619</id>
-    <title>come with me and louise to get my morning W at @tacobell #tacobellpartner </title>
-    <updated>2023-06-02T18:20:01+00:00</updated>
-    <content>come with me and louise to get my morning W at @tacobell #tacobellpartner </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7240155176525368619" rel="alternate"/>
-    <published>2023-06-02T18:20:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7240156427581492523</id>
     <title>So close. @Brett Chody </title>
@@ -51,5 +43,13 @@
     <content>@Sofia Richie Grainge cinemetography</content>
     <link href="https://tiktok.com/@octopusslover8/video/7240282857761967402" rel="alternate"/>
     <published>2023-06-03T02:35:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7240536219317308715</id>
+    <title>TENTS UP 🐙</title>
+    <updated>2023-06-03T18:58:44+00:00</updated>
+    <content>TENTS UP 🐙</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7240536219317308715" rel="alternate"/>
+    <published>2023-06-03T18:58:44+00:00</published>
   </entry>
 </feed>
