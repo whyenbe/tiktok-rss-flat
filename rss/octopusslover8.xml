@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-06-04T20:25:18+00:00</updated>
+  <updated>2023-06-04T22:15:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7240606780881980715</id>
-    <title>Replying to @ems </title>
-    <updated>2023-06-03T23:32:32+00:00</updated>
-    <content>Replying to @ems </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7240606780881980715" rel="alternate"/>
-    <published>2023-06-03T23:32:32+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7240650481268411694</id>
     <title>used my own sound because I literally couldn’t think of anything else to do</title>
@@ -51,5 +43,13 @@
     <content>this is my sleeping kink</content>
     <link href="https://tiktok.com/@octopusslover8/video/7240929639135218987" rel="alternate"/>
     <published>2023-06-04T20:25:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7240958029208882474</id>
+    <title>Replying to @life_of_riley speaking of cruel summer…go watch the new season of Cruel Summer out tomorrow 6.5.23 on @Freeform and stream it on Hulu 6.6.23 #cruelsummer</title>
+    <updated>2023-06-04T22:15:33+00:00</updated>
+    <content>Replying to @life_of_riley speaking of cruel summer…go watch the new season of Cruel Summer out tomorrow 6.5.23 on @Freeform and stream it on Hulu 6.6.23 #cruelsummer</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7240958029208882474" rel="alternate"/>
+    <published>2023-06-04T22:15:33+00:00</published>
   </entry>
 </feed>
