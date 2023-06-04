@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-06-04T18:56:08+00:00</updated>
+  <updated>2023-06-04T20:25:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7240565756142849323</id>
-    <title>STOP @Brett Chody </title>
-    <updated>2023-06-03T20:53:18+00:00</updated>
-    <content>STOP @Brett Chody </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7240565756142849323" rel="alternate"/>
-    <published>2023-06-03T20:53:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7240606780881980715</id>
     <title>Replying to @ems </title>
@@ -51,5 +43,13 @@
     <content>Replying to @YourMum </content>
     <link href="https://tiktok.com/@octopusslover8/video/7240906633323334954" rel="alternate"/>
     <published>2023-06-04T18:56:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7240929639135218987</id>
+    <title>this is my sleeping kink</title>
+    <updated>2023-06-04T20:25:18+00:00</updated>
+    <content>this is my sleeping kink</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7240929639135218987" rel="alternate"/>
+    <published>2023-06-04T20:25:18+00:00</published>
   </entry>
 </feed>
