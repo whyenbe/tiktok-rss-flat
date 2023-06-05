@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-06-05T04:56:30+00:00</updated>
+  <updated>2023-06-05T13:54:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7240981072735980846</id>
-    <title>No Title</title>
-    <updated>2023-06-04T23:44:57+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7240981072735980846" rel="alternate"/>
-    <published>2023-06-04T23:44:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7240989857064193326</id>
     <title>Replying to @not emma I like couldn’t do this one for some reason but Brett found it funny</title>
@@ -51,5 +43,13 @@
     <content>No Description</content>
     <link href="https://tiktok.com/@octopusslover8/video/7241061291757178158" rel="alternate"/>
     <published>2023-06-05T04:56:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7241199846160551214</id>
+    <title>slept the whole flight </title>
+    <updated>2023-06-05T13:54:10+00:00</updated>
+    <content>slept the whole flight </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7241199846160551214" rel="alternate"/>
+    <published>2023-06-05T13:54:10+00:00</published>
   </entry>
 </feed>
