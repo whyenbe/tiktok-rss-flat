@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-06-05T19:50:34+00:00</updated>
+  <updated>2023-06-06T02:30:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7240991992258530606</id>
-    <title>Replying to @alyssa </title>
-    <updated>2023-06-05T00:27:22+00:00</updated>
-    <content>Replying to @alyssa </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7240991992258530606" rel="alternate"/>
-    <published>2023-06-05T00:27:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7241057618461003051</id>
     <title>nothing else to do at the airport</title>
@@ -51,5 +43,13 @@
     <content>Replying to @haley 🫶 fully filmed this in the bathroom because I drop everything for @Taylor Swift </content>
     <link href="https://tiktok.com/@octopusslover8/video/7241291734544862510" rel="alternate"/>
     <published>2023-06-05T19:50:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7241394886346313002</id>
+    <title>MEET PUSSANDRA 🐙</title>
+    <updated>2023-06-06T02:30:44+00:00</updated>
+    <content>MEET PUSSANDRA 🐙</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7241394886346313002" rel="alternate"/>
+    <published>2023-06-06T02:30:44+00:00</published>
   </entry>
 </feed>
