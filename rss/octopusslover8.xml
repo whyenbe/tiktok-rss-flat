@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-06-06T04:00:25+00:00</updated>
+  <updated>2023-06-06T13:15:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7241061291757178158</id>
-    <title>No Title</title>
-    <updated>2023-06-05T04:56:30+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7241061291757178158" rel="alternate"/>
-    <published>2023-06-05T04:56:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7241199846160551214</id>
     <title>slept the whole flight </title>
@@ -51,5 +43,13 @@
     <content>#duet with @Jake Shane </content>
     <link href="https://tiktok.com/@octopusslover8/video/7241417961330838827" rel="alternate"/>
     <published>2023-06-06T04:00:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7241561033146535214</id>
+    <title>midnight rain mashup in the rain</title>
+    <updated>2023-06-06T13:15:31+00:00</updated>
+    <content>midnight rain mashup in the rain</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7241561033146535214" rel="alternate"/>
+    <published>2023-06-06T13:15:31+00:00</published>
   </entry>
 </feed>
