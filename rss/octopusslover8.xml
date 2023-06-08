@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-06-07T19:55:37+00:00</updated>
+  <updated>2023-06-08T00:57:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7241561033146535214</id>
-    <title>midnight rain mashup in the rain</title>
-    <updated>2023-06-06T13:15:31+00:00</updated>
-    <content>midnight rain mashup in the rain</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7241561033146535214" rel="alternate"/>
-    <published>2023-06-06T13:15:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7241617480404487470</id>
     <title>Replying to @Big Time Rush </title>
@@ -51,5 +43,13 @@
     <content>Replying to @Mia🫀🫶🏼 you can’t believe a word she says, most times, but this time it was true @Taylor Swift </content>
     <link href="https://tiktok.com/@octopusslover8/video/7242035232021482798" rel="alternate"/>
     <published>2023-06-07T19:55:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7242112914939809066</id>
+    <title>gotta dance inside today dc: me</title>
+    <updated>2023-06-08T00:57:00+00:00</updated>
+    <content>gotta dance inside today dc: me</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7242112914939809066" rel="alternate"/>
+    <published>2023-06-08T00:57:00+00:00</published>
   </entry>
 </feed>
