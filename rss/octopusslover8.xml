@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-06-08T22:07:33+00:00</updated>
+  <updated>2023-06-08T23:16:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7242306591033150763</id>
-    <title>I don’t puss with you 🐙</title>
-    <updated>2023-06-08T13:28:39+00:00</updated>
-    <content>I don’t puss with you 🐙</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7242306591033150763" rel="alternate"/>
-    <published>2023-06-08T13:28:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7242348276996132142</id>
     <title>this cannot be real</title>
@@ -51,5 +43,13 @@
     <content>my scandal era might be cancelled before the first episode</content>
     <link href="https://tiktok.com/@octopusslover8/video/7242440335404649774" rel="alternate"/>
     <published>2023-06-08T22:07:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7242458008280714539</id>
+    <title>people got off the train and started taking shots </title>
+    <updated>2023-06-08T23:16:09+00:00</updated>
+    <content>people got off the train and started taking shots </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7242458008280714539" rel="alternate"/>
+    <published>2023-06-08T23:16:09+00:00</published>
   </entry>
 </feed>
