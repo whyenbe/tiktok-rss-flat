@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-06-08T23:16:09+00:00</updated>
+  <updated>2023-06-09T03:16:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7242348276996132142</id>
-    <title>this cannot be real</title>
-    <updated>2023-06-08T16:10:22+00:00</updated>
-    <content>this cannot be real</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7242348276996132142" rel="alternate"/>
-    <published>2023-06-08T16:10:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7242371830042873131</id>
     <title>Replying to @bipolar bratz doll 💅🏼 </title>
@@ -51,5 +43,13 @@
     <content>people got off the train and started taking shots </content>
     <link href="https://tiktok.com/@octopusslover8/video/7242458008280714539" rel="alternate"/>
     <published>2023-06-08T23:16:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7242520014039813418</id>
+    <title>#duet with @Rael </title>
+    <updated>2023-06-09T03:16:47+00:00</updated>
+    <content>#duet with @Rael </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7242520014039813418" rel="alternate"/>
+    <published>2023-06-09T03:16:47+00:00</published>
   </entry>
 </feed>
