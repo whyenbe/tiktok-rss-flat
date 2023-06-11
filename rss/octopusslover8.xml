@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-06-10T19:23:35+00:00</updated>
+  <updated>2023-06-11T22:14:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7242520014039813418</id>
-    <title>#duet with @Rael </title>
-    <updated>2023-06-09T03:16:47+00:00</updated>
-    <content>#duet with @Rael </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7242520014039813418" rel="alternate"/>
-    <published>2023-06-09T03:16:47+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7242523916462247211</id>
-    <title>don’t talk about the pants I was gonna fix them</title>
-    <updated>2023-06-09T03:31:57+00:00</updated>
-    <content>don’t talk about the pants I was gonna fix them</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7242523916462247211" rel="alternate"/>
-    <published>2023-06-09T03:31:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7242691846919490862</id>
     <title>was no one gonna tell me  </title>
@@ -51,5 +35,21 @@
     <content>taking my meds while I’m hungover is the bane of my existence </content>
     <link href="https://tiktok.com/@octopusslover8/video/7243140230218321198" rel="alternate"/>
     <published>2023-06-10T19:23:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7243551052371463470</id>
+    <title>No Title</title>
+    <updated>2023-06-11T21:57:51+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7243551052371463470" rel="alternate"/>
+    <published>2023-06-11T21:57:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7243555243089202474</id>
+    <title>here comes the puss </title>
+    <updated>2023-06-11T22:14:01+00:00</updated>
+    <content>here comes the puss </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7243555243089202474" rel="alternate"/>
+    <published>2023-06-11T22:14:01+00:00</published>
   </entry>
 </feed>
