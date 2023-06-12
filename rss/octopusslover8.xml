@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-06-12T21:57:08+00:00</updated>
+  <updated>2023-06-12T22:25:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7243555243089202474</id>
-    <title>here comes the puss </title>
-    <updated>2023-06-11T22:14:01+00:00</updated>
-    <content>here comes the puss </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7243555243089202474" rel="alternate"/>
-    <published>2023-06-11T22:14:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7243813552354495786</id>
     <title>I slept from 2 PM to 5:30 AM last night </title>
@@ -51,5 +43,13 @@
     <content>Replying to @Tide this has gone too far @Tide #gonnaneedmoretide #tidepartner </content>
     <link href="https://tiktok.com/@octopusslover8/video/7243921994641575211" rel="alternate"/>
     <published>2023-06-12T21:57:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7243929343284530478</id>
+    <title>made 2 new friends today 🐙</title>
+    <updated>2023-06-12T22:25:38+00:00</updated>
+    <content>made 2 new friends today 🐙</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7243929343284530478" rel="alternate"/>
+    <published>2023-06-12T22:25:38+00:00</published>
   </entry>
 </feed>
