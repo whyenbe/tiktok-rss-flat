@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-06-13T21:10:53+00:00</updated>
+  <updated>2023-06-14T17:14:48+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7244002259376344366</id>
-    <title>like anxiety makes you act weird it’s ok don’t be so hard on yourself </title>
-    <updated>2023-06-13T03:08:43+00:00</updated>
-    <content>like anxiety makes you act weird it’s ok don’t be so hard on yourself </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7244002259376344366" rel="alternate"/>
-    <published>2023-06-13T03:08:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7244009213150629166</id>
     <title>Replying to @JacKNHoFF1995  </title>
@@ -51,5 +43,13 @@
     <content>waiting for @Brett Chody </content>
     <link href="https://tiktok.com/@octopusslover8/video/7244281155367865646" rel="alternate"/>
     <published>2023-06-13T21:10:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7244591371967876395</id>
+    <title>my brain is a pile of nothing </title>
+    <updated>2023-06-14T17:14:48+00:00</updated>
+    <content>my brain is a pile of nothing </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7244591371967876395" rel="alternate"/>
+    <published>2023-06-14T17:14:48+00:00</published>
   </entry>
 </feed>
