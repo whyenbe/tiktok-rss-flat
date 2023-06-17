@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-06-17T10:02:33+00:00</updated>
+  <updated>2023-06-17T21:28:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7245488325212245294</id>
-    <title>the day we lose new romantics in the great surprise song war is a day I’m terrified to see in my lifetime </title>
-    <updated>2023-06-17T03:15:27+00:00</updated>
-    <content>the day we lose new romantics in the great surprise song war is a day I’m terrified to see in my lifetime </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7245488325212245294" rel="alternate"/>
-    <published>2023-06-17T03:15:27+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7245526107427032363</id>
     <title>tents down 😞🐙 TIK TOK DO NOT REMOVE THIS SOUND I AM TALKING ABOUT OCTOPUS </title>
@@ -51,5 +43,13 @@
     <content>Replying to @ayyyo1229 Is this actually a real thing</content>
     <link href="https://tiktok.com/@octopusslover8/video/7245593008450702635" rel="alternate"/>
     <published>2023-06-17T10:02:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7245769952731385130</id>
+    <title>It was also brand new luggage </title>
+    <updated>2023-06-17T21:28:15+00:00</updated>
+    <content>It was also brand new luggage </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7245769952731385130" rel="alternate"/>
+    <published>2023-06-17T21:28:15+00:00</published>
   </entry>
 </feed>
