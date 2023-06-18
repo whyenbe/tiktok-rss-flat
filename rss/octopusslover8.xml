@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-06-18T00:57:03+00:00</updated>
+  <updated>2023-06-18T15:55:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7245593008450702635</id>
-    <title>Replying to @ayyyo1229 Is this actually a real thing</title>
-    <updated>2023-06-17T10:02:33+00:00</updated>
-    <content>Replying to @ayyyo1229 Is this actually a real thing</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7245593008450702635" rel="alternate"/>
-    <published>2023-06-17T10:02:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7245769952731385130</id>
     <title>It was also brand new luggage </title>
@@ -51,5 +43,13 @@
     <content>gonna be screaming for help when I can’t find a diet coke in Europe #helpmechallenge @Coca-Cola #cokepartner  </content>
     <link href="https://tiktok.com/@octopusslover8/video/7245823763055496490" rel="alternate"/>
     <published>2023-06-18T00:57:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7246055172303015210</id>
+    <title>oh well</title>
+    <updated>2023-06-18T15:55:06+00:00</updated>
+    <content>oh well</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7246055172303015210" rel="alternate"/>
+    <published>2023-06-18T15:55:06+00:00</published>
   </entry>
 </feed>
