@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-06-19T10:30:09+00:00</updated>
+  <updated>2023-06-19T18:53:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7246082999270477102</id>
-    <title>Replying to @Jake Shane   Ended up just doing it my damn self</title>
-    <updated>2023-06-18T17:43:02+00:00</updated>
-    <content>Replying to @Jake Shane   Ended up just doing it my damn self</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7246082999270477102" rel="alternate"/>
-    <published>2023-06-18T17:43:02+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7246231869312765227</id>
-    <title>Replying to @John W. Booth  </title>
-    <updated>2023-06-19T03:20:40+00:00</updated>
-    <content>Replying to @John W. Booth  </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7246231869312765227" rel="alternate"/>
-    <published>2023-06-19T03:20:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7246269486821739822</id>
     <title>morning pussies! </title>
@@ -51,5 +35,21 @@
     <content>shortly after this I cut my foot</content>
     <link href="https://tiktok.com/@octopusslover8/video/7246342239868226858" rel="alternate"/>
     <published>2023-06-19T10:30:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7246467482205031726</id>
+    <title>and with that luggage gate comes to a close</title>
+    <updated>2023-06-19T18:34:59+00:00</updated>
+    <content>and with that luggage gate comes to a close</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7246467482205031726" rel="alternate"/>
+    <published>2023-06-19T18:34:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7246472336252128555</id>
+    <title>I AM SO FUCKING HAPPY</title>
+    <updated>2023-06-19T18:53:52+00:00</updated>
+    <content>I AM SO FUCKING HAPPY</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7246472336252128555" rel="alternate"/>
+    <published>2023-06-19T18:53:52+00:00</published>
   </entry>
 </feed>
