@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-06-19T18:53:52+00:00</updated>
+  <updated>2023-06-21T01:59:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7246269486821739822</id>
-    <title>morning pussies! </title>
-    <updated>2023-06-19T05:46:51+00:00</updated>
-    <content>morning pussies! </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7246269486821739822" rel="alternate"/>
-    <published>2023-06-19T05:46:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7246276401026960683</id>
     <title>I love France. </title>
@@ -51,5 +43,13 @@
     <content>I AM SO FUCKING HAPPY</content>
     <link href="https://tiktok.com/@octopusslover8/video/7246472336252128555" rel="alternate"/>
     <published>2023-06-19T18:53:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7246953048327785774</id>
+    <title>TENTS UP FROM CANNES 🐙 #passthatpuss </title>
+    <updated>2023-06-21T01:59:17+00:00</updated>
+    <content>TENTS UP FROM CANNES 🐙 #passthatpuss </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7246953048327785774" rel="alternate"/>
+    <published>2023-06-21T01:59:17+00:00</published>
   </entry>
 </feed>
