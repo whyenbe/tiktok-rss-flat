@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-06-21T14:43:43+00:00</updated>
+  <updated>2023-06-22T02:39:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7246467482205031726</id>
-    <title>and with that luggage gate comes to a close</title>
-    <updated>2023-06-19T18:34:59+00:00</updated>
-    <content>and with that luggage gate comes to a close</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7246467482205031726" rel="alternate"/>
-    <published>2023-06-19T18:34:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7246472336252128555</id>
     <title>I AM SO FUCKING HAPPY</title>
@@ -51,5 +43,13 @@
     <content>RIP ME OUT THE PUSS I BEEN ACTING BRAND NEW 🐙</content>
     <link href="https://tiktok.com/@octopusslover8/video/7247150051779284267" rel="alternate"/>
     <published>2023-06-21T14:43:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7247334618330926378</id>
+    <title>I love room service</title>
+    <updated>2023-06-22T02:39:58+00:00</updated>
+    <content>I love room service</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7247334618330926378" rel="alternate"/>
+    <published>2023-06-22T02:39:58+00:00</published>
   </entry>
 </feed>
