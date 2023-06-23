@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-06-23T16:14:45+00:00</updated>
+  <updated>2023-06-23T19:08:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7247146991552056619</id>
-    <title>Replying to @hydroflask i cant believe they’re still being cold @hydroflask #HydroColor </title>
-    <updated>2023-06-21T14:31:49+00:00</updated>
-    <content>Replying to @hydroflask i cant believe they’re still being cold @hydroflask #HydroColor </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7247146991552056619" rel="alternate"/>
-    <published>2023-06-21T14:31:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7247526342407753006</id>
     <title>thank you so much @Captiv8 for bringing me to France I had the most amazing time 🐙</title>
@@ -51,5 +43,13 @@
     <content>Best moment of my life</content>
     <link href="https://tiktok.com/@octopusslover8/video/7247915670829157678" rel="alternate"/>
     <published>2023-06-23T16:14:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7247960560497691950</id>
+    <title>Replying to @Amazon Influencer Program I guess two days of deals is better than one... @amazon @amazoninfluencerprogram #PrimeDay </title>
+    <updated>2023-06-23T19:08:54+00:00</updated>
+    <content>Replying to @Amazon Influencer Program I guess two days of deals is better than one... @amazon @amazoninfluencerprogram #PrimeDay </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7247960560497691950" rel="alternate"/>
+    <published>2023-06-23T19:08:54+00:00</published>
   </entry>
 </feed>
