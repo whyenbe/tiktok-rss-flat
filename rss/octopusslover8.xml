@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-06-25T20:16:56+00:00</updated>
+  <updated>2023-06-25T17:35:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7248435061144423722</id>
+    <title>I’m gonna miss this apt </title>
+    <updated>2023-06-25T01:50:12+00:00</updated>
+    <content>I’m gonna miss this apt </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7248435061144423722" rel="alternate"/>
+    <published>2023-06-25T01:50:12+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7248448571719028014</id>
     <title>this has gotten so bad </title>
@@ -43,13 +51,5 @@
     <content>Replying to @Svē </content>
     <link href="https://tiktok.com/@octopusslover8/video/7248678611476122922" rel="alternate"/>
     <published>2023-06-25T17:35:20+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7248720239377091883</id>
-    <title>an excerpt from my poem about the surprise songs last night </title>
-    <updated>2023-06-25T20:16:56+00:00</updated>
-    <content>an excerpt from my poem about the surprise songs last night </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7248720239377091883" rel="alternate"/>
-    <published>2023-06-25T20:16:56+00:00</published>
   </entry>
 </feed>
