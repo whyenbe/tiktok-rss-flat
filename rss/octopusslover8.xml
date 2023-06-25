@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-06-25T02:42:38+00:00</updated>
+  <updated>2023-06-25T03:54:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7248051067643104555</id>
-    <title>gotta be having deja vu ib: @hagan </title>
-    <updated>2023-06-24T01:00:09+00:00</updated>
-    <content>gotta be having deja vu ib: @hagan </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7248051067643104555" rel="alternate"/>
-    <published>2023-06-24T01:00:09+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7248128908778818859</id>
     <title>Friday night poem 🐙</title>
@@ -51,5 +43,13 @@
     <content>this has gotten so bad </content>
     <link href="https://tiktok.com/@octopusslover8/video/7248448571719028014" rel="alternate"/>
     <published>2023-06-25T02:42:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7248467137449184558</id>
+    <title>Replying to @◡̈ </title>
+    <updated>2023-06-25T03:54:38+00:00</updated>
+    <content>Replying to @◡̈ </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7248467137449184558" rel="alternate"/>
+    <published>2023-06-25T03:54:38+00:00</published>
   </entry>
 </feed>
