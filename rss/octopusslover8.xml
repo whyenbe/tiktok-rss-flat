@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-06-25T01:50:12+00:00</updated>
+  <updated>2023-06-25T02:42:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7247988711479168302</id>
-    <title>Replying to @Amazon Influencer Program i guess two days of deals is better than one …. @Amazon Influencer Program @Amazon #amazonpartner</title>
-    <updated>2023-06-23T20:58:12+00:00</updated>
-    <content>Replying to @Amazon Influencer Program i guess two days of deals is better than one …. @Amazon Influencer Program @Amazon #amazonpartner</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7247988711479168302" rel="alternate"/>
-    <published>2023-06-23T20:58:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7248051067643104555</id>
     <title>gotta be having deja vu ib: @hagan </title>
@@ -51,5 +43,13 @@
     <content>I’m gonna miss this apt </content>
     <link href="https://tiktok.com/@octopusslover8/video/7248435061144423722" rel="alternate"/>
     <published>2023-06-25T01:50:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7248448571719028014</id>
+    <title>this has gotten so bad </title>
+    <updated>2023-06-25T02:42:38+00:00</updated>
+    <content>this has gotten so bad </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7248448571719028014" rel="alternate"/>
+    <published>2023-06-25T02:42:38+00:00</published>
   </entry>
 </feed>
