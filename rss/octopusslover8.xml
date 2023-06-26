@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-06-26T20:32:21+00:00</updated>
+  <updated>2023-06-26T22:30:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7248767266874084651</id>
-    <title>Replying to @Sophomopho someone also suggested I do this in my inital sunday scaries post and I forget who it was so if it was you THANK YOU</title>
-    <updated>2023-06-25T23:19:23+00:00</updated>
-    <content>Replying to @Sophomopho someone also suggested I do this in my inital sunday scaries post and I forget who it was so if it was you THANK YOU</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7248767266874084651" rel="alternate"/>
-    <published>2023-06-25T23:19:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7248844651929668907</id>
     <title>Replying to @Becca 🌻 </title>
@@ -51,5 +43,13 @@
     <content>Go try my Purple PSA #onlywithcocacolafreestyle and tell me what u think!! @Coca-Cola #ad </content>
     <link href="https://tiktok.com/@octopusslover8/video/7249095311648443690" rel="alternate"/>
     <published>2023-06-26T20:32:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7249125648050949419</id>
+    <title>actual reaction to what this part of the song does to me</title>
+    <updated>2023-06-26T22:30:05+00:00</updated>
+    <content>actual reaction to what this part of the song does to me</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7249125648050949419" rel="alternate"/>
+    <published>2023-06-26T22:30:05+00:00</published>
   </entry>
 </feed>
