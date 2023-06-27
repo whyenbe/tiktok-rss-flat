@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-06-27T04:26:46+00:00</updated>
+  <updated>2023-06-27T01:58:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7249095311648443690</id>
+    <title>Go try my Purple PSA #onlywithcocacolafreestyle and tell me what u think!! @Coca-Cola #ad </title>
+    <updated>2023-06-26T20:32:21+00:00</updated>
+    <content>Go try my Purple PSA #onlywithcocacolafreestyle and tell me what u think!! @Coca-Cola #ad </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7249095311648443690" rel="alternate"/>
+    <published>2023-06-26T20:32:21+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7249125648050949419</id>
     <title>actual reaction to what this part of the song does to me</title>
@@ -43,13 +51,5 @@
     <content>#duet with @✭ jillian 🗽 #TaylorSwift </content>
     <link href="https://tiktok.com/@octopusslover8/video/7249179300681829674" rel="alternate"/>
     <published>2023-06-27T01:58:14+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7249217595767835946</id>
-    <title>guys. It’s because I’m moving that’s why</title>
-    <updated>2023-06-27T04:26:46+00:00</updated>
-    <content>guys. It’s because I’m moving that’s why</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7249217595767835946" rel="alternate"/>
-    <published>2023-06-27T04:26:46+00:00</published>
   </entry>
 </feed>
