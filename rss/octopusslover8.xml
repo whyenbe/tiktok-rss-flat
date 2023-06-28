@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-06-28T15:21:23+00:00</updated>
+  <updated>2023-06-28T15:15:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7249394317129764138</id>
+    <title>I am in tears </title>
+    <updated>2023-06-27T15:52:34+00:00</updated>
+    <content>I am in tears </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7249394317129764138" rel="alternate"/>
+    <published>2023-06-27T15:52:34+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7249545718095154475</id>
     <title>you tried to talk like you were in the smiths </title>
@@ -43,13 +51,5 @@
     <content>#duet with @Jet &amp; Susur  #octopus </content>
     <link href="https://tiktok.com/@octopusslover8/video/7249755862296907054" rel="alternate"/>
     <published>2023-06-28T15:15:46+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7249757328008940846</id>
-    <title>A poem by @Brett Chody </title>
-    <updated>2023-06-28T15:21:23+00:00</updated>
-    <content>A poem by @Brett Chody </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7249757328008940846" rel="alternate"/>
-    <published>2023-06-28T15:21:23+00:00</published>
   </entry>
 </feed>
