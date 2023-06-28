@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-06-28T01:40:05+00:00</updated>
+  <updated>2023-06-28T03:27:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7249125648050949419</id>
-    <title>actual reaction to what this part of the song does to me</title>
-    <updated>2023-06-26T22:30:05+00:00</updated>
-    <content>actual reaction to what this part of the song does to me</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7249125648050949419" rel="alternate"/>
-    <published>2023-06-26T22:30:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7249168926679174446</id>
     <title>people throw rocks at things that shine</title>
@@ -51,5 +43,13 @@
     <content>you tried to talk like you were in the smiths </content>
     <link href="https://tiktok.com/@octopusslover8/video/7249545718095154475" rel="alternate"/>
     <published>2023-06-28T01:40:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7249573406645996843</id>
+    <title>writing poetry is therapeutic for me </title>
+    <updated>2023-06-28T03:27:33+00:00</updated>
+    <content>writing poetry is therapeutic for me </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7249573406645996843" rel="alternate"/>
+    <published>2023-06-28T03:27:33+00:00</published>
   </entry>
 </feed>
