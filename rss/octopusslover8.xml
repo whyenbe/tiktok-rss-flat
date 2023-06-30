@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-06-30T00:15:42+00:00</updated>
+  <updated>2023-06-30T06:14:05+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7249575900109409579</id>
-    <title>Snaps for Edgar </title>
-    <updated>2023-06-28T03:37:19+00:00</updated>
-    <content>Snaps for Edgar </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7249575900109409579" rel="alternate"/>
-    <published>2023-06-28T03:37:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7249755862296907054</id>
     <title>#duet with @Jet &amp; Susur  #octopus </title>
@@ -51,5 +43,13 @@
     <content>Replying to @Max a poem for my love, @Max #maxpartner </content>
     <link href="https://tiktok.com/@octopusslover8/video/7250266158509624618" rel="alternate"/>
     <published>2023-06-30T00:15:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7250358484712148267</id>
+    <title>this song just saved my mental health  #oliviarodrigo #vampire </title>
+    <updated>2023-06-30T06:14:05+00:00</updated>
+    <content>this song just saved my mental health  #oliviarodrigo #vampire </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7250358484712148267" rel="alternate"/>
+    <published>2023-06-30T06:14:05+00:00</published>
   </entry>
 </feed>
