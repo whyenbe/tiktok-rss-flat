@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-07-14T01:53:42+00:00</updated>
+  <updated>2023-07-14T22:02:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7255379833763499307</id>
-    <title>I wish I knew how to make an edit but I have no idea</title>
-    <updated>2023-07-13T18:59:24+00:00</updated>
-    <content>I wish I knew how to make an edit but I have no idea</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7255379833763499307" rel="alternate"/>
-    <published>2023-07-13T18:59:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7255427706735709483</id>
     <title>you guys!!! what a dream come true. you can now Blend with me on @Spotify at the link in my bio 🐙 send me your taste match scores! #SpotifyPartner #SpotifyBlend</title>
@@ -51,5 +43,13 @@
     <content>Replying to @LaraCarbonara </content>
     <link href="https://tiktok.com/@octopusslover8/video/7255486596756081963" rel="alternate"/>
     <published>2023-07-14T01:53:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7255798064626027822</id>
+    <title>I missed doing lunch reveals @Coca-Cola @Jimmy John’s 🥪 #cokepartner </title>
+    <updated>2023-07-14T22:02:26+00:00</updated>
+    <content>I missed doing lunch reveals @Coca-Cola @Jimmy John’s 🥪 #cokepartner </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7255798064626027822" rel="alternate"/>
+    <published>2023-07-14T22:02:26+00:00</published>
   </entry>
 </feed>
