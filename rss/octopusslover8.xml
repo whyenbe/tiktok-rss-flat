@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-07-14T22:02:26+00:00</updated>
+  <updated>2023-07-15T06:51:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7255427706735709483</id>
-    <title>you guys!!! what a dream come true. you can now Blend with me on @Spotify at the link in my bio 🐙 send me your taste match scores! #SpotifyPartner #SpotifyBlend</title>
-    <updated>2023-07-13T22:05:12+00:00</updated>
-    <content>you guys!!! what a dream come true. you can now Blend with me on @Spotify at the link in my bio 🐙 send me your taste match scores! #SpotifyPartner #SpotifyBlend</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7255427706735709483" rel="alternate"/>
-    <published>2023-07-13T22:05:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7255440534620179755</id>
     <title>last night was a dream @Spotify 🥹🐙  </title>
@@ -51,5 +43,13 @@
     <content>I missed doing lunch reveals @Coca-Cola @Jimmy John’s 🥪 #cokepartner </content>
     <link href="https://tiktok.com/@octopusslover8/video/7255798064626027822" rel="alternate"/>
     <published>2023-07-14T22:02:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7255934445201444138</id>
+    <title>WCSMEAA (we can’t stop making everything an acronym) </title>
+    <updated>2023-07-15T06:51:47+00:00</updated>
+    <content>WCSMEAA (we can’t stop making everything an acronym) </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7255934445201444138" rel="alternate"/>
+    <published>2023-07-15T06:51:47+00:00</published>
   </entry>
 </feed>
