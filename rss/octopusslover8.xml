@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-07-16T06:56:48+00:00</updated>
+  <updated>2023-07-16T19:24:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7255934445201444138</id>
-    <title>WCSMEAA (we can’t stop making everything an acronym) </title>
-    <updated>2023-07-15T06:51:47+00:00</updated>
-    <content>WCSMEAA (we can’t stop making everything an acronym) </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7255934445201444138" rel="alternate"/>
-    <published>2023-07-15T06:51:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7256100930956021038</id>
     <title>Replying to @Saliva mucus </title>
@@ -51,5 +43,13 @@
     <content>#duet with @musa #viral </content>
     <link href="https://tiktok.com/@octopusslover8/video/7256306794782379307" rel="alternate"/>
     <published>2023-07-16T06:56:48+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7256499403949706539</id>
+    <title>this was at a Taylor Swift themed club night </title>
+    <updated>2023-07-16T19:24:02+00:00</updated>
+    <content>this was at a Taylor Swift themed club night </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7256499403949706539" rel="alternate"/>
+    <published>2023-07-16T19:24:02+00:00</published>
   </entry>
 </feed>
