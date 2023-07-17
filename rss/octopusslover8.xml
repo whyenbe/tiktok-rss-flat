@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-07-17T20:58:38+00:00</updated>
+  <updated>2023-07-17T21:49:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7256499403949706539</id>
-    <title>this was at a Taylor Swift themed club night </title>
-    <updated>2023-07-16T19:24:02+00:00</updated>
-    <content>this was at a Taylor Swift themed club night </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7256499403949706539" rel="alternate"/>
-    <published>2023-07-16T19:24:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7256581476043672878</id>
     <title>do you think random people will know this audio is just me pretending to be a thing of toothpaste </title>
@@ -51,5 +43,13 @@
     <content>PNT (post nap trauma)</content>
     <link href="https://tiktok.com/@octopusslover8/video/7256894893111397674" rel="alternate"/>
     <published>2023-07-17T20:58:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7256908012663672107</id>
+    <title>PLEASE</title>
+    <updated>2023-07-17T21:49:39+00:00</updated>
+    <content>PLEASE</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7256908012663672107" rel="alternate"/>
+    <published>2023-07-17T21:49:39+00:00</published>
   </entry>
 </feed>
