@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-07-18T02:55:46+00:00</updated>
+  <updated>2023-07-18T23:21:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -13,28 +13,20 @@
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
   <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7256581476043672878</id>
-    <title>do you think random people will know this audio is just me pretending to be a thing of toothpaste </title>
-    <updated>2023-07-17T00:42:26+00:00</updated>
-    <content>do you think random people will know this audio is just me pretending to be a thing of toothpaste </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7256581476043672878" rel="alternate"/>
-    <published>2023-07-17T00:42:26+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7256662988222991658</id>
-    <title>Replying to @Swag </title>
-    <updated>2023-07-17T05:58:57+00:00</updated>
-    <content>Replying to @Swag </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7256662988222991658" rel="alternate"/>
-    <published>2023-07-17T05:58:57+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@octopusslover8/video/7256883281919020330</id>
     <title>it’s an actual addiction</title>
     <updated>2023-07-17T20:13:36+00:00</updated>
     <content>it’s an actual addiction</content>
     <link href="https://tiktok.com/@octopusslover8/video/7256883281919020330" rel="alternate"/>
     <published>2023-07-17T20:13:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7256894893111397674</id>
+    <title>PNT (post nap trauma)</title>
+    <updated>2023-07-17T20:58:38+00:00</updated>
+    <content>PNT (post nap trauma)</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7256894893111397674" rel="alternate"/>
+    <published>2023-07-17T20:58:38+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7256908012663672107</id>
@@ -51,5 +43,13 @@
     <content>#duet with @☆lily☆ #femalerageedits </content>
     <link href="https://tiktok.com/@octopusslover8/video/7256986916531260715" rel="alternate"/>
     <published>2023-07-18T02:55:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7257302744531488046</id>
+    <title>Replying to @m🖤 </title>
+    <updated>2023-07-18T23:21:16+00:00</updated>
+    <content>Replying to @m🖤 </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7257302744531488046" rel="alternate"/>
+    <published>2023-07-18T23:21:16+00:00</published>
   </entry>
 </feed>
