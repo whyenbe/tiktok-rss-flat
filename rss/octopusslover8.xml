@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-07-19T23:46:03+00:00</updated>
+  <updated>2023-07-20T18:35:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7256908012663672107</id>
-    <title>PLEASE</title>
-    <updated>2023-07-17T21:49:39+00:00</updated>
-    <content>PLEASE</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7256908012663672107" rel="alternate"/>
-    <published>2023-07-17T21:49:39+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7256986916531260715</id>
-    <title>#duet with @☆lily☆ #femalerageedits </title>
-    <updated>2023-07-18T02:55:46+00:00</updated>
-    <content>#duet with @☆lily☆ #femalerageedits </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7256986916531260715" rel="alternate"/>
-    <published>2023-07-18T02:55:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7257302744531488046</id>
     <title>Replying to @m🖤 </title>
@@ -51,5 +35,21 @@
     <content>#duet with @Mr Buckanhour #Stitch </content>
     <link href="https://tiktok.com/@octopusslover8/video/7257680194830339371" rel="alternate"/>
     <published>2023-07-19T23:46:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7257967277532826923</id>
+    <title>the last time we’ll ever see a skit in this apartment 🥹</title>
+    <updated>2023-07-20T18:20:00+00:00</updated>
+    <content>the last time we’ll ever see a skit in this apartment 🥹</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7257967277532826923" rel="alternate"/>
+    <published>2023-07-20T18:20:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7257971230983163178</id>
+    <title>Replying to @maggie🚗 inspired by my favorite movie of all time “The Devil Wears Prada”</title>
+    <updated>2023-07-20T18:35:22+00:00</updated>
+    <content>Replying to @maggie🚗 inspired by my favorite movie of all time “The Devil Wears Prada”</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7257971230983163178" rel="alternate"/>
+    <published>2023-07-20T18:35:22+00:00</published>
   </entry>
 </feed>
