@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-07-24T04:04:06+00:00</updated>
+  <updated>2023-07-24T19:47:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7258909940465552686</id>
-    <title>this song means so fucking much to me. it’s a kiss of winter even in the cruelest heat. </title>
-    <updated>2023-07-23T07:18:12+00:00</updated>
-    <content>this song means so fucking much to me. it’s a kiss of winter even in the cruelest heat. </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7258909940465552686" rel="alternate"/>
-    <published>2023-07-23T07:18:12+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7259098486480571690</id>
-    <title>best purchase ever.</title>
-    <updated>2023-07-23T19:29:44+00:00</updated>
-    <content>best purchase ever.</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7259098486480571690" rel="alternate"/>
-    <published>2023-07-23T19:29:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7259133394355899690</id>
     <title>Replying to @aniisa </title>
@@ -51,5 +35,21 @@
     <content>on the way home…I wrote a poem #taylorswift #tisthedamnseason #poetry #theerastour </content>
     <link href="https://tiktok.com/@octopusslover8/video/7259231024075394347" rel="alternate"/>
     <published>2023-07-24T04:04:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7259454673680076075</id>
+    <title>Replying to @the queer’s gambit </title>
+    <updated>2023-07-24T18:31:55+00:00</updated>
+    <content>Replying to @the queer’s gambit </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7259454673680076075" rel="alternate"/>
+    <published>2023-07-24T18:31:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7259474262853995818</id>
+    <title>pinching my tents. thank you for this incredible honor @Variety none of this would be possible without you pussies, thank you for always believing in me 🐙 I hope I can make you guys as happy as you make me </title>
+    <updated>2023-07-24T19:47:55+00:00</updated>
+    <content>pinching my tents. thank you for this incredible honor @Variety none of this would be possible without you pussies, thank you for always believing in me 🐙 I hope I can make you guys as happy as you make me </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7259474262853995818" rel="alternate"/>
+    <published>2023-07-24T19:47:55+00:00</published>
   </entry>
 </feed>
