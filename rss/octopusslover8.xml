@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-07-26T05:35:58+00:00</updated>
+  <updated>2023-07-26T22:14:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7259577182622715179</id>
-    <title>No Title</title>
-    <updated>2023-07-25T02:27:20+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7259577182622715179" rel="alternate"/>
-    <published>2023-07-25T02:27:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7259602316876172587</id>
     <title>Julia got the wrong order by accident</title>
@@ -51,5 +43,13 @@
     <content>thank you @Maddie Grace Jepson for this idea </content>
     <link href="https://tiktok.com/@octopusslover8/video/7259996886122204458" rel="alternate"/>
     <published>2023-07-26T05:35:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7260254222959103274</id>
+    <title>I don’t know how to thank you for showing the world this game @Maddie Grace Jepson </title>
+    <updated>2023-07-26T22:14:30+00:00</updated>
+    <content>I don’t know how to thank you for showing the world this game @Maddie Grace Jepson </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7260254222959103274" rel="alternate"/>
+    <published>2023-07-26T22:14:30+00:00</published>
   </entry>
 </feed>
