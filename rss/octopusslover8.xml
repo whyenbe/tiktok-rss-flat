@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-07-27T15:53:18+00:00</updated>
+  <updated>2023-07-27T17:13:18+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7259996886122204458</id>
-    <title>thank you @Maddie Grace Jepson for this idea </title>
-    <updated>2023-07-26T05:35:58+00:00</updated>
-    <content>thank you @Maddie Grace Jepson for this idea </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7259996886122204458" rel="alternate"/>
-    <published>2023-07-26T05:35:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7260254222959103274</id>
     <title>I don’t know how to thank you for showing the world this game @Maddie Grace Jepson </title>
@@ -51,5 +43,13 @@
     <content>Replying to @Discovery </content>
     <link href="https://tiktok.com/@octopusslover8/video/7260527018641460522" rel="alternate"/>
     <published>2023-07-27T15:53:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7260547649189809450</id>
+    <title>taking videos of myself sleeping is my weakness</title>
+    <updated>2023-07-27T17:13:18+00:00</updated>
+    <content>taking videos of myself sleeping is my weakness</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7260547649189809450" rel="alternate"/>
+    <published>2023-07-27T17:13:18+00:00</published>
   </entry>
 </feed>
