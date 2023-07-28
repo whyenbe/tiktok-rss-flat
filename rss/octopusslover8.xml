@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-07-28T02:48:45+00:00</updated>
+  <updated>2023-07-28T04:22:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7260376608102550827</id>
-    <title>like what’s going on with the UFO stuff</title>
-    <updated>2023-07-27T06:09:40+00:00</updated>
-    <content>like what’s going on with the UFO stuff</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7260376608102550827" rel="alternate"/>
-    <published>2023-07-27T06:09:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7260527018641460522</id>
     <title>Replying to @Discovery </title>
@@ -51,5 +43,13 @@
     <content>Replying to @Adelyne </content>
     <link href="https://tiktok.com/@octopusslover8/video/7260695963956710699" rel="alternate"/>
     <published>2023-07-28T02:48:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7260720190046948654</id>
+    <title>Replying to @elizabeth </title>
+    <updated>2023-07-28T04:22:45+00:00</updated>
+    <content>Replying to @elizabeth </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7260720190046948654" rel="alternate"/>
+    <published>2023-07-28T04:22:45+00:00</published>
   </entry>
 </feed>
