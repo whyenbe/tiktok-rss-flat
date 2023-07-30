@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-07-30T01:12:59+00:00</updated>
+  <updated>2023-07-30T18:02:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7260986368158027054</id>
-    <title>#duet with @Nicole 🌹 #TaylorSwift </title>
-    <updated>2023-07-28T21:35:42+00:00</updated>
-    <content>#duet with @Nicole 🌹 #TaylorSwift </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7260986368158027054" rel="alternate"/>
-    <published>2023-07-28T21:35:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7261003829787823403</id>
     <title>she makes me laugh like no other I love you so much @trishapaytas #greenscreenvideo </title>
@@ -51,5 +43,13 @@
     <content>opposite of a cold plunge </content>
     <link href="https://tiktok.com/@octopusslover8/video/7261413446334352682" rel="alternate"/>
     <published>2023-07-30T01:12:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7261673582776864042</id>
+    <title>woke up in vegas </title>
+    <updated>2023-07-30T18:02:29+00:00</updated>
+    <content>woke up in vegas </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7261673582776864042" rel="alternate"/>
+    <published>2023-07-30T18:02:29+00:00</published>
   </entry>
 </feed>
