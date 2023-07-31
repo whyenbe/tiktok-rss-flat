@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-07-31T01:34:06+00:00</updated>
+  <updated>2023-07-31T04:12:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7261413446334352682</id>
-    <title>opposite of a cold plunge </title>
-    <updated>2023-07-30T01:12:59+00:00</updated>
-    <content>opposite of a cold plunge </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7261413446334352682" rel="alternate"/>
-    <published>2023-07-30T01:12:59+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7261673582776864042</id>
-    <title>woke up in vegas </title>
-    <updated>2023-07-30T18:02:29+00:00</updated>
-    <content>woke up in vegas </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7261673582776864042" rel="alternate"/>
-    <published>2023-07-30T18:02:29+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7261693268717604142</id>
-    <title>Happy birthday Payton</title>
-    <updated>2023-07-30T19:18:48+00:00</updated>
-    <content>Happy birthday Payton</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7261693268717604142" rel="alternate"/>
-    <published>2023-07-30T19:18:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7261745810860215598</id>
     <title>I made @Julia Mervis film this so many times #PP23 </title>
@@ -51,5 +27,29 @@
     <content>posting this in honor of Payton’s birthday tomorrow #taylorswift #theerastour </content>
     <link href="https://tiktok.com/@octopusslover8/video/7261789963992288554" rel="alternate"/>
     <published>2023-07-31T01:34:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7261818016457952554</id>
+    <title>I’ve missed doing these</title>
+    <updated>2023-07-31T03:22:57+00:00</updated>
+    <content>I’ve missed doing these</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7261818016457952554" rel="alternate"/>
+    <published>2023-07-31T03:22:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7261826269195734318</id>
+    <title>BTS of my latest tik tok </title>
+    <updated>2023-07-31T03:54:59+00:00</updated>
+    <content>BTS of my latest tik tok </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7261826269195734318" rel="alternate"/>
+    <published>2023-07-31T03:54:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7261830761668496683</id>
+    <title>spamming tonight whatever</title>
+    <updated>2023-07-31T04:12:23+00:00</updated>
+    <content>spamming tonight whatever</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7261830761668496683" rel="alternate"/>
+    <published>2023-07-31T04:12:23+00:00</published>
   </entry>
 </feed>
