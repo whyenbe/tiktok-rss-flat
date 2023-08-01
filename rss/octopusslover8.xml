@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-08-01T04:04:03+00:00</updated>
+  <updated>2023-08-01T05:51:15+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7262106011517865258</id>
-    <title>#duet with @Jake Shane #pp23 </title>
-    <updated>2023-07-31T22:00:30+00:00</updated>
-    <content>#duet with @Jake Shane #pp23 </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7262106011517865258" rel="alternate"/>
-    <published>2023-07-31T22:00:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7262141698506050859</id>
     <title>Replying to @vitaminwater this @vitaminwater is the highlight of my day #ad </title>
@@ -51,5 +43,13 @@
     <content>Replying to @Devin Tomb </content>
     <link href="https://tiktok.com/@octopusslover8/video/7262199726177537322" rel="alternate"/>
     <published>2023-08-01T04:04:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7262227329231998250</id>
+    <title>Can you tell I like to sleep in the cold?  🐙</title>
+    <updated>2023-08-01T05:51:15+00:00</updated>
+    <content>Can you tell I like to sleep in the cold?  🐙</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7262227329231998250" rel="alternate"/>
+    <published>2023-08-01T05:51:15+00:00</published>
   </entry>
 </feed>
