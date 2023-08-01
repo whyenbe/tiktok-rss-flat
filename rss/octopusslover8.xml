@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-08-01T06:36:16+00:00</updated>
+  <updated>2023-08-01T17:32:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7262161369431067950</id>
-    <title>Replying to @user9218681298836 </title>
-    <updated>2023-08-01T01:35:17+00:00</updated>
-    <content>Replying to @user9218681298836 </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7262161369431067950" rel="alternate"/>
-    <published>2023-08-01T01:35:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7262191578020629806</id>
     <title>Replying to @Christina Ou </title>
@@ -51,5 +43,13 @@
     <content>Spam posting whatever </content>
     <link href="https://tiktok.com/@octopusslover8/video/7262238940218838318" rel="alternate"/>
     <published>2023-08-01T06:36:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7262408079122189614</id>
+    <title>THE BEST MONTH TO BE A SWIFTIE </title>
+    <updated>2023-08-01T17:32:35+00:00</updated>
+    <content>THE BEST MONTH TO BE A SWIFTIE </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7262408079122189614" rel="alternate"/>
+    <published>2023-08-01T17:32:35+00:00</published>
   </entry>
 </feed>
