@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-07-31T22:00:30+00:00</updated>
+  <updated>2023-08-01T01:35:17+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7261818016457952554</id>
-    <title>I’ve missed doing these</title>
-    <updated>2023-07-31T03:22:57+00:00</updated>
-    <content>I’ve missed doing these</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7261818016457952554" rel="alternate"/>
-    <published>2023-07-31T03:22:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7261826269195734318</id>
-    <title>BTS of my latest tik tok </title>
-    <updated>2023-07-31T03:54:59+00:00</updated>
-    <content>BTS of my latest tik tok </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7261826269195734318" rel="alternate"/>
-    <published>2023-07-31T03:54:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7261830761668496683</id>
     <title>spamming tonight whatever</title>
@@ -51,5 +35,21 @@
     <content>#duet with @Jake Shane #pp23 </content>
     <link href="https://tiktok.com/@octopusslover8/video/7262106011517865258" rel="alternate"/>
     <published>2023-07-31T22:00:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7262141698506050859</id>
+    <title>Replying to @vitaminwater this @vitaminwater is the highlight of my day #ad </title>
+    <updated>2023-08-01T00:19:00+00:00</updated>
+    <content>Replying to @vitaminwater this @vitaminwater is the highlight of my day #ad </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7262141698506050859" rel="alternate"/>
+    <published>2023-08-01T00:19:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7262161369431067950</id>
+    <title>Replying to @user9218681298836 </title>
+    <updated>2023-08-01T01:35:17+00:00</updated>
+    <content>Replying to @user9218681298836 </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7262161369431067950" rel="alternate"/>
+    <published>2023-08-01T01:35:17+00:00</published>
   </entry>
 </feed>
