@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-08-02T19:15:20.220978+00:00</updated>
+  <updated>2023-08-02T20:10:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,4 +12,44 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7262408079122189614</id>
+    <title>THE BEST MONTH TO BE A SWIFTIE </title>
+    <updated>2023-08-01T17:32:35+00:00</updated>
+    <content>THE BEST MONTH TO BE A SWIFTIE </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7262408079122189614" rel="alternate"/>
+    <published>2023-08-01T17:32:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7262440588815977771</id>
+    <title>Salt air</title>
+    <updated>2023-08-01T19:38:46+00:00</updated>
+    <content>Salt air</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7262440588815977771" rel="alternate"/>
+    <published>2023-08-01T19:38:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7262475436859575598</id>
+    <title>upside down phone is so taylor swift coded </title>
+    <updated>2023-08-01T21:54:04+00:00</updated>
+    <content>upside down phone is so taylor swift coded </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7262475436859575598" rel="alternate"/>
+    <published>2023-08-01T21:54:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7262542196560137514</id>
+    <title>Replying to @abby </title>
+    <updated>2023-08-02T02:13:03+00:00</updated>
+    <content>Replying to @abby </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7262542196560137514" rel="alternate"/>
+    <published>2023-08-02T02:13:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7262819778618772778</id>
+    <title>LUNCH VIBES HAVE MADE THEIR GRAND RETURN </title>
+    <updated>2023-08-02T20:10:10+00:00</updated>
+    <content>LUNCH VIBES HAVE MADE THEIR GRAND RETURN </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7262819778618772778" rel="alternate"/>
+    <published>2023-08-02T20:10:10+00:00</published>
+  </entry>
 </feed>
