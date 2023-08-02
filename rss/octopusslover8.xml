@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-08-02T20:10:10+00:00</updated>
+  <updated>2023-08-02T20:28:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7262408079122189614</id>
-    <title>THE BEST MONTH TO BE A SWIFTIE </title>
-    <updated>2023-08-01T17:32:35+00:00</updated>
-    <content>THE BEST MONTH TO BE A SWIFTIE </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7262408079122189614" rel="alternate"/>
-    <published>2023-08-01T17:32:35+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7262440588815977771</id>
     <title>Salt air</title>
@@ -51,5 +43,13 @@
     <content>LUNCH VIBES HAVE MADE THEIR GRAND RETURN </content>
     <link href="https://tiktok.com/@octopusslover8/video/7262819778618772778" rel="alternate"/>
     <published>2023-08-02T20:10:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7262824362615770414</id>
+    <title>post whon scare </title>
+    <updated>2023-08-02T20:28:00+00:00</updated>
+    <content>post whon scare </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7262824362615770414" rel="alternate"/>
+    <published>2023-08-02T20:28:00+00:00</published>
   </entry>
 </feed>
