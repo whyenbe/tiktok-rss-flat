@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-08-03T02:13:47+00:00</updated>
+  <updated>2023-08-03T14:29:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7262542196560137514</id>
-    <title>Replying to @abby </title>
-    <updated>2023-08-02T02:13:03+00:00</updated>
-    <content>Replying to @abby </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7262542196560137514" rel="alternate"/>
-    <published>2023-08-02T02:13:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7262819778618772778</id>
     <title>LUNCH VIBES HAVE MADE THEIR GRAND RETURN </title>
@@ -51,5 +43,13 @@
     <content>SEE YOU SOON @Taylor Swift </content>
     <link href="https://tiktok.com/@octopusslover8/video/7262913474022395178" rel="alternate"/>
     <published>2023-08-03T02:13:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7263103141376167210</id>
+    <title>Replying to @sarah #greenscreen </title>
+    <updated>2023-08-03T14:29:49+00:00</updated>
+    <content>Replying to @sarah #greenscreen </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7263103141376167210" rel="alternate"/>
+    <published>2023-08-03T14:29:49+00:00</published>
   </entry>
 </feed>
