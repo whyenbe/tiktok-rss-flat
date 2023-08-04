@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-08-04T06:59:08+00:00</updated>
+  <updated>2023-08-04T17:54:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7263182903641656619</id>
-    <title>I never thought I’d see the photo again but it just showed up in my tagged photos last night…life is so crazy. Tents up forever, I love you pussies so much 🐙#greenscreen </title>
-    <updated>2023-08-03T19:39:24+00:00</updated>
-    <content>I never thought I’d see the photo again but it just showed up in my tagged photos last night…life is so crazy. Tents up forever, I love you pussies so much 🐙#greenscreen </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7263182903641656619" rel="alternate"/>
-    <published>2023-08-03T19:39:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7263244748650073387</id>
     <title>Fucking pleading to get this as my suprise song on the 7th 8th or 9th </title>
@@ -51,5 +43,13 @@
     <content>I ate too much and now I feel sick</content>
     <link href="https://tiktok.com/@octopusslover8/video/7263357978051382574" rel="alternate"/>
     <published>2023-08-04T06:59:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7263526829712100650</id>
+    <title>FUCK</title>
+    <updated>2023-08-04T17:54:01+00:00</updated>
+    <content>FUCK</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7263526829712100650" rel="alternate"/>
+    <published>2023-08-04T17:54:01+00:00</published>
   </entry>
 </feed>
