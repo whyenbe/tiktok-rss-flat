@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-08-06T20:03:07+00:00</updated>
+  <updated>2023-08-06T21:29:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7263577603984985390</id>
-    <title>a modern day classic</title>
-    <updated>2023-08-04T21:11:01+00:00</updated>
-    <content>a modern day classic</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7263577603984985390" rel="alternate"/>
-    <published>2023-08-04T21:11:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7264052467560680746</id>
     <title>let’s get drunk</title>
@@ -51,5 +43,13 @@
     <content>hangover cure</content>
     <link href="https://tiktok.com/@octopusslover8/video/7264302284031446315" rel="alternate"/>
     <published>2023-08-06T20:03:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7264324411493322030</id>
+    <title>I am. Fucking miserable.</title>
+    <updated>2023-08-06T21:29:01+00:00</updated>
+    <content>I am. Fucking miserable.</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7264324411493322030" rel="alternate"/>
+    <published>2023-08-06T21:29:01+00:00</published>
   </entry>
 </feed>
