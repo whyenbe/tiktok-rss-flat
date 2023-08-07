@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-08-06T21:29:01+00:00</updated>
+  <updated>2023-08-07T01:38:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7264052467560680746</id>
-    <title>let’s get drunk</title>
-    <updated>2023-08-06T03:53:44+00:00</updated>
-    <content>let’s get drunk</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7264052467560680746" rel="alternate"/>
-    <published>2023-08-06T03:53:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7264279179816865066</id>
     <title>I can never drink again</title>
@@ -51,5 +43,13 @@
     <content>I am. Fucking miserable.</content>
     <link href="https://tiktok.com/@octopusslover8/video/7264324411493322030" rel="alternate"/>
     <published>2023-08-06T21:29:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7264388819128978731</id>
+    <title>it’s like that episode of that’s so raven</title>
+    <updated>2023-08-07T01:38:55+00:00</updated>
+    <content>it’s like that episode of that’s so raven</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7264388819128978731" rel="alternate"/>
+    <published>2023-08-07T01:38:55+00:00</published>
   </entry>
 </feed>
