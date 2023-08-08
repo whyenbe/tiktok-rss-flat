@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-08-08T00:14:55+00:00</updated>
+  <updated>2023-08-08T06:52:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7264293873080388907</id>
-    <title>my muse took this</title>
-    <updated>2023-08-06T19:30:29+00:00</updated>
-    <content>my muse took this</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7264293873080388907" rel="alternate"/>
-    <published>2023-08-06T19:30:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7264302284031446315</id>
     <title>hangover cure</title>
@@ -51,5 +43,13 @@
     <content>YTYBCFAC (you traded your baseball cap for a crown)</content>
     <link href="https://tiktok.com/@octopusslover8/video/7264738273589759278" rel="alternate"/>
     <published>2023-08-08T00:14:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7264840762842434858</id>
+    <title>Replying to @all too unwell I was on the fucking floor. when she said “say my name and everything just stops” the entire stadium went silent </title>
+    <updated>2023-08-08T06:52:43+00:00</updated>
+    <content>Replying to @all too unwell I was on the fucking floor. when she said “say my name and everything just stops” the entire stadium went silent </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7264840762842434858" rel="alternate"/>
+    <published>2023-08-08T06:52:43+00:00</published>
   </entry>
 </feed>
