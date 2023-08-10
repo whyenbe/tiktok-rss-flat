@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-08-09T22:44:06+00:00</updated>
+  <updated>2023-08-10T00:04:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7265048789537574190</id>
-    <title>HAPPY 8/8 DAY 🐙 #passthatpuss </title>
-    <updated>2023-08-08T20:19:56+00:00</updated>
-    <content>HAPPY 8/8 DAY 🐙 #passthatpuss </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7265048789537574190" rel="alternate"/>
-    <published>2023-08-08T20:19:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7265234890466020654</id>
     <title>it makes me so much more excited to watch TV</title>
@@ -51,5 +43,13 @@
     <content>I know I should make a to do list</content>
     <link href="https://tiktok.com/@octopusslover8/video/7265456998832082222" rel="alternate"/>
     <published>2023-08-09T22:44:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7265477817964465450</id>
+    <title>it’s been one hell of a week </title>
+    <updated>2023-08-10T00:04:47+00:00</updated>
+    <content>it’s been one hell of a week </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7265477817964465450" rel="alternate"/>
+    <published>2023-08-10T00:04:47+00:00</published>
   </entry>
 </feed>
