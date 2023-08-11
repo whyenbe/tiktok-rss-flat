@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-08-11T19:07:03+00:00</updated>
+  <updated>2023-08-11T20:57:57+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7265456998832082222</id>
-    <title>I know I should make a to do list</title>
-    <updated>2023-08-09T22:44:06+00:00</updated>
-    <content>I know I should make a to do list</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7265456998832082222" rel="alternate"/>
-    <published>2023-08-09T22:44:06+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7265477817964465450</id>
-    <title>it’s been one hell of a week </title>
-    <updated>2023-08-10T00:04:47+00:00</updated>
-    <content>it’s been one hell of a week </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7265477817964465450" rel="alternate"/>
-    <published>2023-08-10T00:04:47+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7265585855350230318</id>
     <title>I’ve been waiting for this day for so long </title>
@@ -51,5 +35,21 @@
     <content>I fully pulled my neck doing this</content>
     <link href="https://tiktok.com/@octopusslover8/video/7266143254775598378" rel="alternate"/>
     <published>2023-08-11T19:07:03+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7266169351357697323</id>
+    <title>this took so fucking long ib: @Lil Chuzi </title>
+    <updated>2023-08-11T20:48:21+00:00</updated>
+    <content>this took so fucking long ib: @Lil Chuzi </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7266169351357697323" rel="alternate"/>
+    <published>2023-08-11T20:48:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7266171835098615086</id>
+    <title>sorry now I’m stressed out but for a moment I forgot about why I was anxious </title>
+    <updated>2023-08-11T20:57:57+00:00</updated>
+    <content>sorry now I’m stressed out but for a moment I forgot about why I was anxious </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7266171835098615086" rel="alternate"/>
+    <published>2023-08-11T20:57:57+00:00</published>
   </entry>
 </feed>
