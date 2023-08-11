@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-08-10T17:08:22+00:00</updated>
+  <updated>2023-08-11T19:07:03+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7265441500295630126</id>
-    <title>all hail @Taylor Swift </title>
-    <updated>2023-08-09T21:44:18+00:00</updated>
-    <content>all hail @Taylor Swift </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7265441500295630126" rel="alternate"/>
-    <published>2023-08-09T21:44:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7265456998832082222</id>
     <title>I know I should make a to do list</title>
@@ -51,5 +43,13 @@
     <content>I woke up desperately needing answers</content>
     <link href="https://tiktok.com/@octopusslover8/video/7265741550146178347" rel="alternate"/>
     <published>2023-08-10T17:08:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7266143254775598378</id>
+    <title>I fully pulled my neck doing this</title>
+    <updated>2023-08-11T19:07:03+00:00</updated>
+    <content>I fully pulled my neck doing this</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7266143254775598378" rel="alternate"/>
+    <published>2023-08-11T19:07:03+00:00</published>
   </entry>
 </feed>
