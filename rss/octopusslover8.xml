@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-08-11T22:49:59+00:00</updated>
+  <updated>2023-08-12T22:15:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7266143254775598378</id>
-    <title>I fully pulled my neck doing this</title>
-    <updated>2023-08-11T19:07:03+00:00</updated>
-    <content>I fully pulled my neck doing this</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7266143254775598378" rel="alternate"/>
-    <published>2023-08-11T19:07:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7266169351357697323</id>
     <title>this took so fucking long ib: @Lil Chuzi </title>
@@ -51,5 +43,13 @@
     <content>I love you @Julia Mervis </content>
     <link href="https://tiktok.com/@octopusslover8/video/7266200701712354603" rel="alternate"/>
     <published>2023-08-11T22:49:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7266562961882320170</id>
+    <title>help me pussies I’m having a creative block</title>
+    <updated>2023-08-12T22:15:43+00:00</updated>
+    <content>help me pussies I’m having a creative block</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7266562961882320170" rel="alternate"/>
+    <published>2023-08-12T22:15:43+00:00</published>
   </entry>
 </feed>
