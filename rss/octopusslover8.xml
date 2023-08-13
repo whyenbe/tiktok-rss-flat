@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-08-13T21:00:14+00:00</updated>
+  <updated>2023-08-13T22:18:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7266607120001322283</id>
-    <title>what the fuck just happened </title>
-    <updated>2023-08-13T01:07:05+00:00</updated>
-    <content>what the fuck just happened </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7266607120001322283" rel="alternate"/>
-    <published>2023-08-13T01:07:05+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7266609197863701803</id>
-    <title>this was bad</title>
-    <updated>2023-08-13T01:15:08+00:00</updated>
-    <content>this was bad</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7266609197863701803" rel="alternate"/>
-    <published>2023-08-13T01:15:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7266693836666047790</id>
     <title>but I’m in the mood to talk</title>
@@ -51,5 +35,21 @@
     <content>Replying to @olivia </content>
     <link href="https://tiktok.com/@octopusslover8/video/7266914597267967278" rel="alternate"/>
     <published>2023-08-13T21:00:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7266926718248586538</id>
+    <title>ROC (respectfully of course)</title>
+    <updated>2023-08-13T21:47:17+00:00</updated>
+    <content>ROC (respectfully of course)</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7266926718248586538" rel="alternate"/>
+    <published>2023-08-13T21:47:17+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7266934628978822446</id>
+    <title>RESPECTFULLY </title>
+    <updated>2023-08-13T22:18:02+00:00</updated>
+    <content>RESPECTFULLY </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7266934628978822446" rel="alternate"/>
+    <published>2023-08-13T22:18:02+00:00</published>
   </entry>
 </feed>
