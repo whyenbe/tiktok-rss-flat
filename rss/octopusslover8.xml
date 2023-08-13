@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-08-12T23:05:26+00:00</updated>
+  <updated>2023-08-13T01:15:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7266171835098615086</id>
-    <title>sorry now I’m stressed out but for a moment I forgot about why I was anxious </title>
-    <updated>2023-08-11T20:57:57+00:00</updated>
-    <content>sorry now I’m stressed out but for a moment I forgot about why I was anxious </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7266171835098615086" rel="alternate"/>
-    <published>2023-08-11T20:57:57+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7266182222393199915</id>
-    <title>shoutout @Alo Yoga </title>
-    <updated>2023-08-11T21:38:16+00:00</updated>
-    <content>shoutout @Alo Yoga </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7266182222393199915" rel="alternate"/>
-    <published>2023-08-11T21:38:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7266200701712354603</id>
     <title>I love you @Julia Mervis </title>
@@ -45,11 +29,27 @@
     <published>2023-08-12T22:15:43+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7266575771227933995</id>
-    <title>#stitch with @Asmr Pote </title>
-    <updated>2023-08-12T23:05:26+00:00</updated>
-    <content>#stitch with @Asmr Pote </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7266575771227933995" rel="alternate"/>
-    <published>2023-08-12T23:05:26+00:00</published>
+    <id>https://tiktok.com/@octopusslover8/video/7266586581245611310</id>
+    <title>Replying to @ella </title>
+    <updated>2023-08-12T23:47:20+00:00</updated>
+    <content>Replying to @ella </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7266586581245611310" rel="alternate"/>
+    <published>2023-08-12T23:47:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7266607120001322283</id>
+    <title>what the fuck just happened </title>
+    <updated>2023-08-13T01:07:05+00:00</updated>
+    <content>what the fuck just happened </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7266607120001322283" rel="alternate"/>
+    <published>2023-08-13T01:07:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7266609197863701803</id>
+    <title>this was bad</title>
+    <updated>2023-08-13T01:15:08+00:00</updated>
+    <content>this was bad</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7266609197863701803" rel="alternate"/>
+    <published>2023-08-13T01:15:08+00:00</published>
   </entry>
 </feed>
