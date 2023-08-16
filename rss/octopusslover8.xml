@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-08-16T19:13:13+00:00</updated>
+  <updated>2023-08-16T21:18:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7267411977331477806</id>
-    <title>Replying to @grace </title>
-    <updated>2023-08-15T05:10:16+00:00</updated>
-    <content>Replying to @grace </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7267411977331477806" rel="alternate"/>
-    <published>2023-08-15T05:10:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7267683404416568619</id>
     <title>Respectfully of course</title>
@@ -46,10 +38,18 @@
   </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7268000248616848671</id>
-    <title>CP</title>
+    <title>I'm plunging</title>
     <updated>2023-08-16T19:13:13+00:00</updated>
-    <content>CP</content>
+    <content>I'm plunging</content>
     <link href="https://tiktok.com/@octopusslover8/video/7268000248616848671" rel="alternate"/>
     <published>2023-08-16T19:13:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7268032689465281838</id>
+    <title>Replying to @Scott® Brand Products #ad this wouldn’t be happening if the Powell’s used Scott 1000 @Scott® Brand Products #scottbath #scottpartner </title>
+    <updated>2023-08-16T21:18:58+00:00</updated>
+    <content>Replying to @Scott® Brand Products #ad this wouldn’t be happening if the Powell’s used Scott 1000 @Scott® Brand Products #scottbath #scottpartner </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7268032689465281838" rel="alternate"/>
+    <published>2023-08-16T21:18:58+00:00</published>
   </entry>
 </feed>
