@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-08-17T02:12:28+00:00</updated>
+  <updated>2023-08-16T21:18:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7267683404416568619</id>
+    <title>Respectfully of course</title>
+    <updated>2023-08-15T22:43:39+00:00</updated>
+    <content>Respectfully of course</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7267683404416568619" rel="alternate"/>
+    <published>2023-08-15T22:43:39+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7267736672484199726</id>
     <title>the meds are not medding</title>
@@ -43,13 +51,5 @@
     <content>Replying to @Scott® Brand Products #ad this wouldn’t be happening if the Powell’s used Scott 1000 @Scott® Brand Products #scottbath #scottpartner </content>
     <link href="https://tiktok.com/@octopusslover8/video/7268032689465281838" rel="alternate"/>
     <published>2023-08-16T21:18:58+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7268108300464491807</id>
-    <title>SC (super confused)</title>
-    <updated>2023-08-17T02:12:28+00:00</updated>
-    <content>SC (super confused)</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7268108300464491807" rel="alternate"/>
-    <published>2023-08-17T02:12:28+00:00</published>
   </entry>
 </feed>
