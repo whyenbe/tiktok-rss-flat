@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-08-17T05:28:01+00:00</updated>
+  <updated>2023-08-17T17:17:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7267736672484199726</id>
-    <title>the meds are not medding</title>
-    <updated>2023-08-16T02:10:17+00:00</updated>
-    <content>the meds are not medding</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7267736672484199726" rel="alternate"/>
-    <published>2023-08-16T02:10:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7267949650974493982</id>
     <title>sorry why does it look like that</title>
@@ -45,11 +37,19 @@
     <published>2023-08-16T21:18:58+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7268158412666440990</id>
-    <title>memory unlocked</title>
-    <updated>2023-08-17T05:28:01+00:00</updated>
-    <content>memory unlocked</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7268158412666440990" rel="alternate"/>
-    <published>2023-08-17T05:28:01+00:00</published>
+    <id>https://tiktok.com/@octopusslover8/video/7268334774916336927</id>
+    <title>Morning 🐙</title>
+    <updated>2023-08-17T16:51:20+00:00</updated>
+    <content>Morning 🐙</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7268334774916336927" rel="alternate"/>
+    <published>2023-08-17T16:51:20+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7268341434942639390</id>
+    <title>respectfully of course</title>
+    <updated>2023-08-17T17:17:11+00:00</updated>
+    <content>respectfully of course</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7268341434942639390" rel="alternate"/>
+    <published>2023-08-17T17:17:11+00:00</published>
   </entry>
 </feed>
