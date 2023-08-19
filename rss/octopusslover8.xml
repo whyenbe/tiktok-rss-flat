@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-08-18T20:20:16+00:00</updated>
+  <updated>2023-08-19T23:02:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7268450282965617950</id>
-    <title>puss ❤️s mo bamba </title>
-    <updated>2023-08-18T00:19:30+00:00</updated>
-    <content>puss ❤️s mo bamba </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7268450282965617950" rel="alternate"/>
-    <published>2023-08-18T00:19:30+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7268563008224234782</id>
     <title>dc: me</title>
@@ -51,5 +43,13 @@
     <content>Replying to @puglover504 </content>
     <link href="https://tiktok.com/@octopusslover8/video/7268759737406147886" rel="alternate"/>
     <published>2023-08-18T20:20:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7269172630974926110</id>
+    <title>my head is POUNDING</title>
+    <updated>2023-08-19T23:02:42+00:00</updated>
+    <content>my head is POUNDING</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7269172630974926110" rel="alternate"/>
+    <published>2023-08-19T23:02:42+00:00</published>
   </entry>
 </feed>
