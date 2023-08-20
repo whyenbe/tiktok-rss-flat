@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-08-20T18:16:27+00:00</updated>
+  <updated>2023-08-20T19:11:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7269182747598392606</id>
-    <title>#duet with @jess ✩ #tentsupp </title>
-    <updated>2023-08-19T23:41:57+00:00</updated>
-    <content>#duet with @jess ✩ #tentsupp </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7269182747598392606" rel="alternate"/>
-    <published>2023-08-19T23:41:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7269193419556228383</id>
     <title>happy Saturday pussies </title>
@@ -51,5 +43,13 @@
     <content>please</content>
     <link href="https://tiktok.com/@octopusslover8/video/7269469981862186286" rel="alternate"/>
     <published>2023-08-20T18:16:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7269484265551695146</id>
+    <title>where is the thunder</title>
+    <updated>2023-08-20T19:11:52+00:00</updated>
+    <content>where is the thunder</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7269484265551695146" rel="alternate"/>
+    <published>2023-08-20T19:11:52+00:00</published>
   </entry>
 </feed>
