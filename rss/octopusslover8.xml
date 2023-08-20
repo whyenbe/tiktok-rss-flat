@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-08-20T19:44:59+00:00</updated>
+  <updated>2023-08-20T20:39:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7269193419556228383</id>
-    <title>happy Saturday pussies </title>
-    <updated>2023-08-20T00:23:26+00:00</updated>
-    <content>happy Saturday pussies </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7269193419556228383" rel="alternate"/>
-    <published>2023-08-20T00:23:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7269228315137805599</id>
     <title>dinner fit</title>
@@ -51,5 +43,13 @@
     <content>Replying to @BretL </content>
     <link href="https://tiktok.com/@octopusslover8/video/7269492785353477418" rel="alternate"/>
     <published>2023-08-20T19:44:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7269506800234433838</id>
+    <title>this was SICK.</title>
+    <updated>2023-08-20T20:39:21+00:00</updated>
+    <content>this was SICK.</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7269506800234433838" rel="alternate"/>
+    <published>2023-08-20T20:39:21+00:00</published>
   </entry>
 </feed>
