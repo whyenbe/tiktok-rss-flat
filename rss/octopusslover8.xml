@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-08-25T07:18:11+00:00</updated>
+  <updated>2023-08-25T17:23:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7270625627009600810</id>
-    <title>a love letter to #vitaminwater XXX @vitaminwater #ad</title>
-    <updated>2023-08-23T21:01:01+00:00</updated>
-    <content>a love letter to #vitaminwater XXX @vitaminwater #ad</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7270625627009600810" rel="alternate"/>
-    <published>2023-08-23T21:01:01+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7270943909189029163</id>
     <title>left therapy for my iced mocha. this isn’t an ad i just love them </title>
@@ -51,5 +43,13 @@
     <content>#duet with @pvosition I remember listening to this in the car with my dad every day on the way to school. And i remember always being in traffic and thinking “this isn’t honeymoon avenue.” </content>
     <link href="https://tiktok.com/@octopusslover8/video/7271155764020956459" rel="alternate"/>
     <published>2023-08-25T07:18:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7271311820709825838</id>
+    <title>happy Friday pussies 🐙</title>
+    <updated>2023-08-25T17:23:39+00:00</updated>
+    <content>happy Friday pussies 🐙</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7271311820709825838" rel="alternate"/>
+    <published>2023-08-25T17:23:39+00:00</published>
   </entry>
 </feed>
