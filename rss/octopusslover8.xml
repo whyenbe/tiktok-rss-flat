@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-08-26T19:51:24+00:00</updated>
+  <updated>2023-08-26T21:07:09+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7271311820709825838</id>
-    <title>happy Friday pussies 🐙</title>
-    <updated>2023-08-25T17:23:39+00:00</updated>
-    <content>happy Friday pussies 🐙</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7271311820709825838" rel="alternate"/>
-    <published>2023-08-25T17:23:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7271348755142577450</id>
     <title>#duet with @Tana Mongeau </title>
@@ -51,5 +43,13 @@
     <content>Replying to @Aidan Prendergast388 </content>
     <link href="https://tiktok.com/@octopusslover8/video/7271720972611292462" rel="alternate"/>
     <published>2023-08-26T19:51:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7271740468419972395</id>
+    <title>Brett leaves tomorrow and it’s making me so sad</title>
+    <updated>2023-08-26T21:07:09+00:00</updated>
+    <content>Brett leaves tomorrow and it’s making me so sad</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7271740468419972395" rel="alternate"/>
+    <published>2023-08-26T21:07:09+00:00</published>
   </entry>
 </feed>
