@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-08-27T20:02:12+00:00</updated>
+  <updated>2023-08-28T17:45:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7271865771306011950</id>
-    <title>TINO</title>
-    <updated>2023-08-27T05:13:29+00:00</updated>
-    <content>TINO</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7271865771306011950" rel="alternate"/>
-    <published>2023-08-27T05:13:29+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7271887083755539755</id>
-    <title>#stitch with @🎀(Taylor’s version) </title>
-    <updated>2023-08-27T06:36:16+00:00</updated>
-    <content>#stitch with @🎀(Taylor’s version) </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7271887083755539755" rel="alternate"/>
-    <published>2023-08-27T06:36:16+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7272039853632671018</id>
     <title>guys I’m sorry the world needs to hear this</title>
@@ -51,5 +35,21 @@
     <content>TWL (this was lit) @Sofia Richie Grainge </content>
     <link href="https://tiktok.com/@octopusslover8/video/7272094826462596394" rel="alternate"/>
     <published>2023-08-27T20:02:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7272426954941287722</id>
+    <title>Replying to @CJ </title>
+    <updated>2023-08-28T17:31:10+00:00</updated>
+    <content>Replying to @CJ </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7272426954941287722" rel="alternate"/>
+    <published>2023-08-28T17:31:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7272430758935924014</id>
+    <title>should I do more vlogs </title>
+    <updated>2023-08-28T17:45:53+00:00</updated>
+    <content>should I do more vlogs </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7272430758935924014" rel="alternate"/>
+    <published>2023-08-28T17:45:53+00:00</published>
   </entry>
 </feed>
