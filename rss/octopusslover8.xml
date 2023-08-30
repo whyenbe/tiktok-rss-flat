@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-08-30T16:33:35+00:00</updated>
+  <updated>2023-08-30T17:56:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7272609468871920942</id>
-    <title>Got ya cowboy </title>
-    <updated>2023-08-29T05:19:18+00:00</updated>
-    <content>Got ya cowboy </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7272609468871920942" rel="alternate"/>
-    <published>2023-08-29T05:19:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7272764692148292906</id>
     <title>dc: me</title>
@@ -51,5 +43,13 @@
     <content>See you friday pussies 🐙🎰 #passthatpuss </content>
     <link href="https://tiktok.com/@octopusslover8/video/7273154310140120362" rel="alternate"/>
     <published>2023-08-30T16:33:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7273175646292004139</id>
+    <title>I’m not ok</title>
+    <updated>2023-08-30T17:56:30+00:00</updated>
+    <content>I’m not ok</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7273175646292004139" rel="alternate"/>
+    <published>2023-08-30T17:56:30+00:00</published>
   </entry>
 </feed>
