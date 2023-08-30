@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-08-29T15:21:36+00:00</updated>
+  <updated>2023-08-30T01:16:04+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7272430758935924014</id>
-    <title>should I do more vlogs </title>
-    <updated>2023-08-28T17:45:53+00:00</updated>
-    <content>should I do more vlogs </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7272430758935924014" rel="alternate"/>
-    <published>2023-08-28T17:45:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7272551823368555819</id>
-    <title>so calm</title>
-    <updated>2023-08-29T01:35:33+00:00</updated>
-    <content>so calm</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7272551823368555819" rel="alternate"/>
-    <published>2023-08-29T01:35:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7272604461095226666</id>
     <title>Replying to @Amanda Caylee </title>
@@ -51,5 +35,21 @@
     <content>dc: me</content>
     <link href="https://tiktok.com/@octopusslover8/video/7272764692148292906" rel="alternate"/>
     <published>2023-08-29T15:21:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7272899182053166378</id>
+    <title>NYM-OFF TIME</title>
+    <updated>2023-08-30T00:03:30+00:00</updated>
+    <content>NYM-OFF TIME</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7272899182053166378" rel="alternate"/>
+    <published>2023-08-30T00:03:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7272917877370490154</id>
+    <title>bang bang puss puss</title>
+    <updated>2023-08-30T01:16:04+00:00</updated>
+    <content>bang bang puss puss</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7272917877370490154" rel="alternate"/>
+    <published>2023-08-30T01:16:04+00:00</published>
   </entry>
 </feed>
