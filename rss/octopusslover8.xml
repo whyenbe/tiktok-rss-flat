@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-08-30T17:56:30+00:00</updated>
+  <updated>2023-08-30T20:06:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7272764692148292906</id>
-    <title>dc: me</title>
-    <updated>2023-08-29T15:21:36+00:00</updated>
-    <content>dc: me</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7272764692148292906" rel="alternate"/>
-    <published>2023-08-29T15:21:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7272899182053166378</id>
     <title>NYM-OFF TIME</title>
@@ -51,5 +43,13 @@
     <content>I’m not ok</content>
     <link href="https://tiktok.com/@octopusslover8/video/7273175646292004139" rel="alternate"/>
     <published>2023-08-30T17:56:30+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7273209278779968811</id>
+    <title>GBC (god beer and my country)</title>
+    <updated>2023-08-30T20:06:54+00:00</updated>
+    <content>GBC (god beer and my country)</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7273209278779968811" rel="alternate"/>
+    <published>2023-08-30T20:06:54+00:00</published>
   </entry>
 </feed>
