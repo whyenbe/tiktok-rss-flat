@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-08-31T04:51:02+00:00</updated>
+  <updated>2023-08-31T07:11:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7273175646292004139</id>
-    <title>I’m not ok</title>
-    <updated>2023-08-30T17:56:30+00:00</updated>
-    <content>I’m not ok</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7273175646292004139" rel="alternate"/>
-    <published>2023-08-30T17:56:30+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7273209278779968811</id>
-    <title>GBC (god beer and my country)</title>
-    <updated>2023-08-30T20:06:54+00:00</updated>
-    <content>GBC (god beer and my country)</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7273209278779968811" rel="alternate"/>
-    <published>2023-08-30T20:06:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7273285983280336170</id>
     <title>BAB (be a bitch)</title>
@@ -51,5 +35,21 @@
     <content>too lazy to do it again</content>
     <link href="https://tiktok.com/@octopusslover8/video/7273344371217403179" rel="alternate"/>
     <published>2023-08-31T04:51:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7273371786539142446</id>
+    <title>#duet with @Peters Pasta 🍝 </title>
+    <updated>2023-08-31T06:37:31+00:00</updated>
+    <content>#duet with @Peters Pasta 🍝 </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7273371786539142446" rel="alternate"/>
+    <published>2023-08-31T06:37:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7273380588118347054</id>
+    <title>#stitch with @Benton McClintock </title>
+    <updated>2023-08-31T07:11:38+00:00</updated>
+    <content>#stitch with @Benton McClintock </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7273380588118347054" rel="alternate"/>
+    <published>2023-08-31T07:11:38+00:00</published>
   </entry>
 </feed>
