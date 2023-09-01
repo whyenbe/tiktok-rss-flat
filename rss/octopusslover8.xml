@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-09-01T18:09:49+00:00</updated>
+  <updated>2023-09-01T19:42:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7273578078226468138</id>
-    <title>Nym for the weekend</title>
-    <updated>2023-08-31T19:58:02+00:00</updated>
-    <content>Nym for the weekend</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7273578078226468138" rel="alternate"/>
-    <published>2023-08-31T19:58:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7273650238559096106</id>
     <title>#stitch with @alix earle always. </title>
@@ -51,5 +43,13 @@
     <content>THE WAY I WOBBLE IN IS NOT REAL</content>
     <link href="https://tiktok.com/@octopusslover8/video/7273921307371195690" rel="alternate"/>
     <published>2023-09-01T18:09:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7273945202405149998</id>
+    <title>weekending in San Clemente</title>
+    <updated>2023-09-01T19:42:34+00:00</updated>
+    <content>weekending in San Clemente</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7273945202405149998" rel="alternate"/>
+    <published>2023-09-01T19:42:34+00:00</published>
   </entry>
 </feed>
