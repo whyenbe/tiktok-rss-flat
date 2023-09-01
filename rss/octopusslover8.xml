@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-09-01T03:03:31+00:00</updated>
+  <updated>2023-09-01T16:00:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7273371786539142446</id>
-    <title>#duet with @Peters Pasta 🍝 </title>
-    <updated>2023-08-31T06:37:31+00:00</updated>
-    <content>#duet with @Peters Pasta 🍝 </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7273371786539142446" rel="alternate"/>
-    <published>2023-08-31T06:37:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7273380588118347054</id>
     <title>#stitch with @Benton McClintock </title>
@@ -51,5 +43,13 @@
     <content>Replying to @Latinas Create ❤️‍🔥 </content>
     <link href="https://tiktok.com/@octopusslover8/video/7273687738665192747" rel="alternate"/>
     <published>2023-09-01T03:03:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7273887938075741483</id>
+    <title>link in bio 🐙 #passthatpuss </title>
+    <updated>2023-09-01T16:00:19+00:00</updated>
+    <content>link in bio 🐙 #passthatpuss </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7273887938075741483" rel="alternate"/>
+    <published>2023-09-01T16:00:19+00:00</published>
   </entry>
 </feed>
