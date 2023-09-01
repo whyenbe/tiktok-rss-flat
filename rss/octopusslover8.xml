@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-09-01T20:35:54+00:00</updated>
+  <updated>2023-09-01T19:42:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7273650238559096106</id>
+    <title>#stitch with @alix earle always. </title>
+    <updated>2023-09-01T00:37:56+00:00</updated>
+    <content>#stitch with @alix earle always. </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7273650238559096106" rel="alternate"/>
+    <published>2023-09-01T00:37:56+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7273687738665192747</id>
     <title>Replying to @Latinas Create ❤️‍🔥 </title>
@@ -43,13 +51,5 @@
     <content>weekending in San Clemente</content>
     <link href="https://tiktok.com/@octopusslover8/video/7273945202405149998" rel="alternate"/>
     <published>2023-09-01T19:42:34+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7273958954995174699</id>
-    <title>needed this</title>
-    <updated>2023-09-01T20:35:54+00:00</updated>
-    <content>needed this</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7273958954995174699" rel="alternate"/>
-    <published>2023-09-01T20:35:54+00:00</published>
   </entry>
 </feed>
