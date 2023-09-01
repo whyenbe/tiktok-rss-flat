@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-08-31T19:58:02+00:00</updated>
+  <updated>2023-09-01T00:37:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7273333648236072235</id>
-    <title>sleep tight @Julia Mervis </title>
-    <updated>2023-08-31T04:09:37+00:00</updated>
-    <content>sleep tight @Julia Mervis </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7273333648236072235" rel="alternate"/>
-    <published>2023-08-31T04:09:37+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7273344371217403179</id>
-    <title>too lazy to do it again</title>
-    <updated>2023-08-31T04:51:02+00:00</updated>
-    <content>too lazy to do it again</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7273344371217403179" rel="alternate"/>
-    <published>2023-08-31T04:51:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7273371786539142446</id>
     <title>#duet with @Peters Pasta 🍝 </title>
@@ -51,5 +35,21 @@
     <content>Nym for the weekend</content>
     <link href="https://tiktok.com/@octopusslover8/video/7273578078226468138" rel="alternate"/>
     <published>2023-08-31T19:58:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7273640951086779691</id>
+    <title>just a lonely cowboy</title>
+    <updated>2023-09-01T00:01:56+00:00</updated>
+    <content>just a lonely cowboy</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7273640951086779691" rel="alternate"/>
+    <published>2023-09-01T00:01:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7273650238559096106</id>
+    <title>#stitch with @alix earle always. </title>
+    <updated>2023-09-01T00:37:56+00:00</updated>
+    <content>#stitch with @alix earle always. </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7273650238559096106" rel="alternate"/>
+    <published>2023-09-01T00:37:56+00:00</published>
   </entry>
 </feed>
