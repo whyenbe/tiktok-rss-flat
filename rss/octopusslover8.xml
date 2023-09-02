@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-09-02T00:24:55+00:00</updated>
+  <updated>2023-09-02T18:21:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7273887938075741483</id>
-    <title>link in bio 🐙 #passthatpuss </title>
-    <updated>2023-09-01T16:00:19+00:00</updated>
-    <content>link in bio 🐙 #passthatpuss </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7273887938075741483" rel="alternate"/>
-    <published>2023-09-01T16:00:19+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7273921307371195690</id>
-    <title>THE WAY I WOBBLE IN IS NOT REAL</title>
-    <updated>2023-09-01T18:09:49+00:00</updated>
-    <content>THE WAY I WOBBLE IN IS NOT REAL</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7273921307371195690" rel="alternate"/>
-    <published>2023-09-01T18:09:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7273945202405149998</id>
     <title>weekending in San Clemente</title>
@@ -51,5 +35,21 @@
     <content>ITS VIRGO SEASON BABY 🪩 thank you so much Sofi for inviting me tonight ❤️</content>
     <link href="https://tiktok.com/@octopusslover8/video/7274017961004764458" rel="alternate"/>
     <published>2023-09-02T00:24:55+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7274286183184731434</id>
+    <title>WUCADC (woke up craving a diet coke)</title>
+    <updated>2023-09-02T17:45:47+00:00</updated>
+    <content>WUCADC (woke up craving a diet coke)</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7274286183184731434" rel="alternate"/>
+    <published>2023-09-02T17:45:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7274295503406452014</id>
+    <title>dc: @Niana Guerrero </title>
+    <updated>2023-09-02T18:21:58+00:00</updated>
+    <content>dc: @Niana Guerrero </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7274295503406452014" rel="alternate"/>
+    <published>2023-09-02T18:21:58+00:00</published>
   </entry>
 </feed>
