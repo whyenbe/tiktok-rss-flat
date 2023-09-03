@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-09-02T22:02:02+00:00</updated>
+  <updated>2023-09-03T02:17:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7274004177020308778</id>
-    <title>can’t believe those are actual words I just wrote. thank you from the bottom of my puss for letting me just be myself. I love you pussies more than anything 🐙 #passthatpuss </title>
-    <updated>2023-09-01T23:31:28+00:00</updated>
-    <content>can’t believe those are actual words I just wrote. thank you from the bottom of my puss for letting me just be myself. I love you pussies more than anything 🐙 #passthatpuss </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7274004177020308778" rel="alternate"/>
-    <published>2023-09-01T23:31:28+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7274017961004764458</id>
     <title>ITS VIRGO SEASON BABY 🪩 thank you so much Sofi for inviting me tonight ❤️</title>
@@ -51,5 +43,13 @@
     <content>sometimes you have to nym by yourself</content>
     <link href="https://tiktok.com/@octopusslover8/video/7274352246656077098" rel="alternate"/>
     <published>2023-09-02T22:02:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7274417974218411310</id>
+    <title>one big happy family </title>
+    <updated>2023-09-03T02:17:08+00:00</updated>
+    <content>one big happy family </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7274417974218411310" rel="alternate"/>
+    <published>2023-09-03T02:17:08+00:00</published>
   </entry>
 </feed>
