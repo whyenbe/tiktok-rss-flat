@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-09-04T03:06:54+00:00</updated>
+  <updated>2023-09-04T17:56:34+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7274417974218411310</id>
-    <title>one big happy family </title>
-    <updated>2023-09-03T02:17:08+00:00</updated>
-    <content>one big happy family </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7274417974218411310" rel="alternate"/>
-    <published>2023-09-03T02:17:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7274750482562714922</id>
     <title>a little fun fact! pass that puss actually started at Alice’s mom’s birthday 2 years ago!! 🐙 #passthatpuss </title>
@@ -51,5 +43,13 @@
     <content>HOW IS THIS REAL</content>
     <link href="https://tiktok.com/@octopusslover8/video/7274801878716763438" rel="alternate"/>
     <published>2023-09-04T03:06:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7275031132289191211</id>
+    <title>happy labor day pussies 🐙</title>
+    <updated>2023-09-04T17:56:34+00:00</updated>
+    <content>happy labor day pussies 🐙</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7275031132289191211" rel="alternate"/>
+    <published>2023-09-04T17:56:34+00:00</published>
   </entry>
 </feed>
