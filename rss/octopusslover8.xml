@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-09-04T02:18:15+00:00</updated>
+  <updated>2023-09-04T03:06:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -29,14 +29,6 @@
     <published>2023-09-03T23:47:28+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7274776355269561646</id>
-    <title>but I don’t know why</title>
-    <updated>2023-09-04T01:27:49+00:00</updated>
-    <content>but I don’t know why</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7274776355269561646" rel="alternate"/>
-    <published>2023-09-04T01:27:49+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@octopusslover8/video/7274783714289274158</id>
     <title>Replying to @Stickybeak </title>
     <updated>2023-09-04T01:56:23+00:00</updated>
@@ -51,5 +43,13 @@
     <content>let me know </content>
     <link href="https://tiktok.com/@octopusslover8/video/7274789338376998190" rel="alternate"/>
     <published>2023-09-04T02:18:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7274801878716763438</id>
+    <title>HOW IS THIS REAL</title>
+    <updated>2023-09-04T03:06:54+00:00</updated>
+    <content>HOW IS THIS REAL</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7274801878716763438" rel="alternate"/>
+    <published>2023-09-04T03:06:54+00:00</published>
   </entry>
 </feed>
