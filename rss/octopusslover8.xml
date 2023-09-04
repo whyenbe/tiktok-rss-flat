@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-09-03T02:17:08+00:00</updated>
+  <updated>2023-09-03T23:47:28+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7274017961004764458</id>
-    <title>ITS VIRGO SEASON BABY 🪩 thank you so much Sofi for inviting me tonight ❤️</title>
-    <updated>2023-09-02T00:24:55+00:00</updated>
-    <content>ITS VIRGO SEASON BABY 🪩 thank you so much Sofi for inviting me tonight ❤️</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7274017961004764458" rel="alternate"/>
-    <published>2023-09-02T00:24:55+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7274286183184731434</id>
     <title>WUCADC (woke up craving a diet coke)</title>
@@ -51,5 +43,13 @@
     <content>one big happy family </content>
     <link href="https://tiktok.com/@octopusslover8/video/7274417974218411310" rel="alternate"/>
     <published>2023-09-03T02:17:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7274750482562714922</id>
+    <title>a little fun fact! pass that puss actually started at Alice’s mom’s birthday 2 years ago!! 🐙 #passthatpuss </title>
+    <updated>2023-09-03T23:47:28+00:00</updated>
+    <content>a little fun fact! pass that puss actually started at Alice’s mom’s birthday 2 years ago!! 🐙 #passthatpuss </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7274750482562714922" rel="alternate"/>
+    <published>2023-09-03T23:47:28+00:00</published>
   </entry>
 </feed>
