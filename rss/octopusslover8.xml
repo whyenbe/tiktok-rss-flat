@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-09-06T04:09:57+00:00</updated>
+  <updated>2023-09-06T19:17:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7275202061434735914</id>
-    <title>tried to do this with the lights off but you couldn’t see me</title>
-    <updated>2023-09-05T04:59:56+00:00</updated>
-    <content>tried to do this with the lights off but you couldn’t see me</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7275202061434735914" rel="alternate"/>
-    <published>2023-09-05T04:59:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7275389189430971690</id>
     <title>#duet with @Evelyn #fyp </title>
@@ -51,5 +43,13 @@
     <content>Replying to @ella </content>
     <link href="https://tiktok.com/@octopusslover8/video/7275560253381496110" rel="alternate"/>
     <published>2023-09-06T04:09:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7275794255396818219</id>
+    <title>I am NO (not ok)</title>
+    <updated>2023-09-06T19:17:47+00:00</updated>
+    <content>I am NO (not ok)</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7275794255396818219" rel="alternate"/>
+    <published>2023-09-06T19:17:47+00:00</published>
   </entry>
 </feed>
