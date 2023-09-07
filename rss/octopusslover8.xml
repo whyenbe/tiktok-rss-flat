@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-09-07T07:13:07+00:00</updated>
+  <updated>2023-09-07T16:51:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -37,19 +37,19 @@
     <published>2023-09-07T03:59:37+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7275940335027506478</id>
-    <title>P (poetry)</title>
-    <updated>2023-09-07T04:44:47+00:00</updated>
-    <content>P (poetry)</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7275940335027506478" rel="alternate"/>
-    <published>2023-09-07T04:44:47+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@octopusslover8/video/7275978503974178094</id>
     <title>can’t sleep</title>
     <updated>2023-09-07T07:13:07+00:00</updated>
     <content>can’t sleep</content>
     <link href="https://tiktok.com/@octopusslover8/video/7275978503974178094" rel="alternate"/>
     <published>2023-09-07T07:13:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7276127673838095662</id>
+    <title>the most bittersweet feeling </title>
+    <updated>2023-09-07T16:51:42+00:00</updated>
+    <content>the most bittersweet feeling </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7276127673838095662" rel="alternate"/>
+    <published>2023-09-07T16:51:42+00:00</published>
   </entry>
 </feed>
