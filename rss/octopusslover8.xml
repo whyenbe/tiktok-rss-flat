@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-09-07T03:59:37+00:00</updated>
+  <updated>2023-09-07T04:44:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7275544222160276778</id>
-    <title>TTN (time to nym)</title>
-    <updated>2023-09-06T03:07:39+00:00</updated>
-    <content>TTN (time to nym)</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7275544222160276778" rel="alternate"/>
-    <published>2023-09-06T03:07:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7275794255396818219</id>
     <title>I am NO (not ok)</title>
@@ -51,5 +43,13 @@
     <content>Hump day puss 🐙 #passthatpuss </content>
     <link href="https://tiktok.com/@octopusslover8/video/7275928674921221419" rel="alternate"/>
     <published>2023-09-07T03:59:37+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7275940335027506478</id>
+    <title>P (poetry)</title>
+    <updated>2023-09-07T04:44:47+00:00</updated>
+    <content>P (poetry)</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7275940335027506478" rel="alternate"/>
+    <published>2023-09-07T04:44:47+00:00</published>
   </entry>
 </feed>
