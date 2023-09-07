@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-09-07T02:02:23+00:00</updated>
+  <updated>2023-09-07T03:59:37+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -19,14 +19,6 @@
     <content>TTN (time to nym)</content>
     <link href="https://tiktok.com/@octopusslover8/video/7275544222160276778" rel="alternate"/>
     <published>2023-09-06T03:07:39+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7275560253381496110</id>
-    <title>Replying to @ella </title>
-    <updated>2023-09-06T04:09:57+00:00</updated>
-    <content>Replying to @ella </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7275560253381496110" rel="alternate"/>
-    <published>2023-09-06T04:09:57+00:00</published>
   </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7275794255396818219</id>
@@ -51,5 +43,13 @@
     <content>Replying to @Samantha </content>
     <link href="https://tiktok.com/@octopusslover8/video/7275898507339304234" rel="alternate"/>
     <published>2023-09-07T02:02:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7275928674921221419</id>
+    <title>Hump day puss 🐙 #passthatpuss </title>
+    <updated>2023-09-07T03:59:37+00:00</updated>
+    <content>Hump day puss 🐙 #passthatpuss </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7275928674921221419" rel="alternate"/>
+    <published>2023-09-07T03:59:37+00:00</published>
   </entry>
 </feed>
