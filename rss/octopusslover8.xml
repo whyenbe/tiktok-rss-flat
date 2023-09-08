@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-09-08T05:02:35+00:00</updated>
+  <updated>2023-09-08T17:29:29+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7276127673838095662</id>
-    <title>the most bittersweet feeling </title>
-    <updated>2023-09-07T16:51:42+00:00</updated>
-    <content>the most bittersweet feeling </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7276127673838095662" rel="alternate"/>
-    <published>2023-09-07T16:51:42+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7276148005516971310</id>
     <title>and that’s what she did</title>
@@ -51,5 +43,13 @@
     <content>this song just changed my life #GUTS </content>
     <link href="https://tiktok.com/@octopusslover8/video/7276316029498707243" rel="alternate"/>
     <published>2023-09-08T05:02:35+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7276508512589565230</id>
+    <title>I’m not ok </title>
+    <updated>2023-09-08T17:29:29+00:00</updated>
+    <content>I’m not ok </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7276508512589565230" rel="alternate"/>
+    <published>2023-09-08T17:29:29+00:00</published>
   </entry>
 </feed>
