@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-09-09T18:45:02+00:00</updated>
+  <updated>2023-09-09T21:39:50+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7276316029498707243</id>
-    <title>this song just changed my life #GUTS </title>
-    <updated>2023-09-08T05:02:35+00:00</updated>
-    <content>this song just changed my life #GUTS </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7276316029498707243" rel="alternate"/>
-    <published>2023-09-08T05:02:35+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7276508512589565230</id>
-    <title>I’m not ok </title>
-    <updated>2023-09-08T17:29:29+00:00</updated>
-    <content>I’m not ok </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7276508512589565230" rel="alternate"/>
-    <published>2023-09-08T17:29:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7276692404139330858</id>
     <title>happy Friday pussies</title>
@@ -51,5 +35,21 @@
     <content>I had just watched Infinity War</content>
     <link href="https://tiktok.com/@octopusslover8/video/7276899064132685102" rel="alternate"/>
     <published>2023-09-09T18:45:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7276940788737510698</id>
+    <title>comment songs you want us to sing or scenes to act out from a movie</title>
+    <updated>2023-09-09T21:27:01+00:00</updated>
+    <content>comment songs you want us to sing or scenes to act out from a movie</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7276940788737510698" rel="alternate"/>
+    <published>2023-09-09T21:27:01+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7276944093224160558</id>
+    <title>waiting for reputation TV</title>
+    <updated>2023-09-09T21:39:50+00:00</updated>
+    <content>waiting for reputation TV</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7276944093224160558" rel="alternate"/>
+    <published>2023-09-09T21:39:50+00:00</published>
   </entry>
 </feed>
