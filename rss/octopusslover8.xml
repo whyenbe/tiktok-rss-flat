@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-09-09T05:23:14+00:00</updated>
+  <updated>2023-09-09T17:20:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7276234254462340398</id>
-    <title>ILMM (I love my meds)</title>
-    <updated>2023-09-07T23:45:13+00:00</updated>
-    <content>ILMM (I love my meds)</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7276234254462340398" rel="alternate"/>
-    <published>2023-09-07T23:45:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7276286085456497962</id>
     <title>got a new sweatsuit don’t know how to act</title>
@@ -51,5 +43,13 @@
     <content>happy Friday pussies</content>
     <link href="https://tiktok.com/@octopusslover8/video/7276692404139330858" rel="alternate"/>
     <published>2023-09-09T05:23:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7276877286803131691</id>
+    <title>Last friday nym</title>
+    <updated>2023-09-09T17:20:36+00:00</updated>
+    <content>Last friday nym</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7276877286803131691" rel="alternate"/>
+    <published>2023-09-09T17:20:36+00:00</published>
   </entry>
 </feed>
