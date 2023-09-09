@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-09-09T21:39:50+00:00</updated>
+  <updated>2023-09-09T22:50:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7276692404139330858</id>
-    <title>happy Friday pussies</title>
-    <updated>2023-09-09T05:23:14+00:00</updated>
-    <content>happy Friday pussies</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7276692404139330858" rel="alternate"/>
-    <published>2023-09-09T05:23:14+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7276877286803131691</id>
     <title>Last friday nym</title>
@@ -51,5 +43,13 @@
     <content>waiting for reputation TV</content>
     <link href="https://tiktok.com/@octopusslover8/video/7276944093224160558" rel="alternate"/>
     <published>2023-09-09T21:39:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7276962402048970026</id>
+    <title>Replying to @Brynlee </title>
+    <updated>2023-09-09T22:50:51+00:00</updated>
+    <content>Replying to @Brynlee </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7276962402048970026" rel="alternate"/>
+    <published>2023-09-09T22:50:51+00:00</published>
   </entry>
 </feed>
