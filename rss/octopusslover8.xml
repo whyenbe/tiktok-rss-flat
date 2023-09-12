@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-09-12T04:10:19+00:00</updated>
+  <updated>2023-09-12T05:14:06+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7277410331805093162</id>
-    <title>angel hair always</title>
-    <updated>2023-09-11T03:49:03+00:00</updated>
-    <content>angel hair always</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7277410331805093162" rel="alternate"/>
-    <published>2023-09-11T03:49:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7277428006098865451</id>
     <title>the nee film from A24 “ft”</title>
@@ -51,5 +43,13 @@
     <content>#stitch with @M </content>
     <link href="https://tiktok.com/@octopusslover8/video/7277786875505560874" rel="alternate"/>
     <published>2023-09-12T04:10:19+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7277803296272747819</id>
+    <title>she is everything to me</title>
+    <updated>2023-09-12T05:14:06+00:00</updated>
+    <content>she is everything to me</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7277803296272747819" rel="alternate"/>
+    <published>2023-09-12T05:14:06+00:00</published>
   </entry>
 </feed>
