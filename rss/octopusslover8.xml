@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-09-13T19:06:22+00:00</updated>
+  <updated>2023-09-13T21:30:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -37,19 +37,19 @@
     <published>2023-09-13T07:39:20+00:00</published>
   </entry>
   <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7278364650700426538</id>
-    <title>late night thoughts</title>
-    <updated>2023-09-13T17:32:33+00:00</updated>
-    <content>late night thoughts</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7278364650700426538" rel="alternate"/>
-    <published>2023-09-13T17:32:33+00:00</published>
-  </entry>
-  <entry>
     <id>https://tiktok.com/@octopusslover8/video/7278388838916099374</id>
     <title>#duet with @Oscar #nickiminaj </title>
     <updated>2023-09-13T19:06:22+00:00</updated>
     <content>#duet with @Oscar #nickiminaj </content>
     <link href="https://tiktok.com/@octopusslover8/video/7278388838916099374" rel="alternate"/>
     <published>2023-09-13T19:06:22+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7278425906484497707</id>
+    <title>And the winner is… @vitaminwater #vitaminwaterAmbassador </title>
+    <updated>2023-09-13T21:30:02+00:00</updated>
+    <content>And the winner is… @vitaminwater #vitaminwaterAmbassador </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7278425906484497707" rel="alternate"/>
+    <published>2023-09-13T21:30:02+00:00</published>
   </entry>
 </feed>
