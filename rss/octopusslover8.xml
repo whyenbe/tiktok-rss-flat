@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-09-13T06:04:32+00:00</updated>
+  <updated>2023-09-13T07:39:20+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7277786875505560874</id>
-    <title>#stitch with @M </title>
-    <updated>2023-09-12T04:10:19+00:00</updated>
-    <content>#stitch with @M </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7277786875505560874" rel="alternate"/>
-    <published>2023-09-12T04:10:19+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7277803296272747819</id>
     <title>she is everything to me</title>
@@ -51,5 +43,13 @@
     <content>Replying to @Anna </content>
     <link href="https://tiktok.com/@octopusslover8/video/7278187333436837166" rel="alternate"/>
     <published>2023-09-13T06:04:32+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7278211654309989674</id>
+    <title>originally posted this on my story but wanted to open up the dialogue here </title>
+    <updated>2023-09-13T07:39:20+00:00</updated>
+    <content>originally posted this on my story but wanted to open up the dialogue here </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7278211654309989674" rel="alternate"/>
+    <published>2023-09-13T07:39:20+00:00</published>
   </entry>
 </feed>
