@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-09-13T17:32:33+00:00</updated>
+  <updated>2023-09-13T19:06:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7278053404096695595</id>
-    <title>we pregamed the puss 🐙 #passthatpuss </title>
-    <updated>2023-09-12T21:24:31+00:00</updated>
-    <content>we pregamed the puss 🐙 #passthatpuss </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7278053404096695595" rel="alternate"/>
-    <published>2023-09-12T21:24:31+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7278174077561490730</id>
     <title>our TV is finally working</title>
@@ -51,5 +43,13 @@
     <content>late night thoughts</content>
     <link href="https://tiktok.com/@octopusslover8/video/7278364650700426538" rel="alternate"/>
     <published>2023-09-13T17:32:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7278388838916099374</id>
+    <title>#duet with @Oscar #nickiminaj </title>
+    <updated>2023-09-13T19:06:22+00:00</updated>
+    <content>#duet with @Oscar #nickiminaj </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7278388838916099374" rel="alternate"/>
+    <published>2023-09-13T19:06:22+00:00</published>
   </entry>
 </feed>
