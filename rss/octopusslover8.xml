@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-09-14T00:56:52+00:00</updated>
+  <updated>2023-09-14T03:52:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7278211654309989674</id>
-    <title>originally posted this on my story but wanted to open up the dialogue here </title>
-    <updated>2023-09-13T07:39:20+00:00</updated>
-    <content>originally posted this on my story but wanted to open up the dialogue here </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7278211654309989674" rel="alternate"/>
-    <published>2023-09-13T07:39:20+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7278388838916099374</id>
     <title>#duet with @Oscar #nickiminaj </title>
@@ -51,5 +43,13 @@
     <content>didn’t even watch one game but the tik tok edits are INSANE</content>
     <link href="https://tiktok.com/@octopusslover8/video/7278479232794185003" rel="alternate"/>
     <published>2023-09-14T00:56:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7278524576722668842</id>
+    <title>you better work puss</title>
+    <updated>2023-09-14T03:52:51+00:00</updated>
+    <content>you better work puss</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7278524576722668842" rel="alternate"/>
+    <published>2023-09-14T03:52:51+00:00</published>
   </entry>
 </feed>
