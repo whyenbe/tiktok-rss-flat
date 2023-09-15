@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-09-15T21:14:46+00:00</updated>
+  <updated>2023-09-15T21:40:44+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7278479232794185003</id>
-    <title>didn’t even watch one game but the tik tok edits are INSANE</title>
-    <updated>2023-09-14T00:56:52+00:00</updated>
-    <content>didn’t even watch one game but the tik tok edits are INSANE</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7278479232794185003" rel="alternate"/>
-    <published>2023-09-14T00:56:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7278524576722668842</id>
     <title>you better work puss</title>
@@ -51,5 +43,13 @@
     <content>#stitch with @Dr. Sable | Orthodontist </content>
     <link href="https://tiktok.com/@octopusslover8/video/7279164141003148590" rel="alternate"/>
     <published>2023-09-15T21:14:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7279170826400812331</id>
+    <title>from the sound of a puss who loves you</title>
+    <updated>2023-09-15T21:40:44+00:00</updated>
+    <content>from the sound of a puss who loves you</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7279170826400812331" rel="alternate"/>
+    <published>2023-09-15T21:40:44+00:00</published>
   </entry>
 </feed>
