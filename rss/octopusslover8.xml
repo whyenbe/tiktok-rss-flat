@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-09-15T01:01:14+00:00</updated>
+  <updated>2023-09-15T06:54:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7278425906484497707</id>
-    <title>And the winner is… @vitaminwater #vitaminwaterAmbassador </title>
-    <updated>2023-09-13T21:30:02+00:00</updated>
-    <content>And the winner is… @vitaminwater #vitaminwaterAmbassador </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7278425906484497707" rel="alternate"/>
-    <published>2023-09-13T21:30:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7278449786083118378</id>
     <title>watching true crime docs</title>
@@ -51,5 +43,13 @@
     <content>class is in session 🐙</content>
     <link href="https://tiktok.com/@octopusslover8/video/7278851443677777195" rel="alternate"/>
     <published>2023-09-15T01:01:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7278942482820255019</id>
+    <title>TO ALL THE UK PUSSIES 🐙</title>
+    <updated>2023-09-15T06:54:51+00:00</updated>
+    <content>TO ALL THE UK PUSSIES 🐙</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7278942482820255019" rel="alternate"/>
+    <published>2023-09-15T06:54:51+00:00</published>
   </entry>
 </feed>
