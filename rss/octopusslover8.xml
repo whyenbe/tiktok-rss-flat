@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-09-19T05:26:46+00:00</updated>
+  <updated>2023-09-19T14:11:16+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7279891737487641899</id>
-    <title>love you @tate mcrae </title>
-    <updated>2023-09-17T20:18:12+00:00</updated>
-    <content>love you @tate mcrae </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7279891737487641899" rel="alternate"/>
-    <published>2023-09-17T20:18:12+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7279904408526228778</id>
     <title>I am fucking sobbing </title>
@@ -51,5 +43,13 @@
     <content>and I have to wake up early</content>
     <link href="https://tiktok.com/@octopusslover8/video/7280404197877550378" rel="alternate"/>
     <published>2023-09-19T05:26:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7280539366408146218</id>
+    <title>fit check with my favorite smoothie in the world</title>
+    <updated>2023-09-19T14:11:16+00:00</updated>
+    <content>fit check with my favorite smoothie in the world</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7280539366408146218" rel="alternate"/>
+    <published>2023-09-19T14:11:16+00:00</published>
   </entry>
 </feed>
