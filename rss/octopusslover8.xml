@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-09-19T14:11:16+00:00</updated>
+  <updated>2023-09-20T15:13:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7279904408526228778</id>
-    <title>I am fucking sobbing </title>
-    <updated>2023-09-17T21:07:24+00:00</updated>
-    <content>I am fucking sobbing </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7279904408526228778" rel="alternate"/>
-    <published>2023-09-17T21:07:24+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7279949569876561194</id>
-    <title>I repeat the rest of the meal was AMAZING 🐙 #passthatpuss </title>
-    <updated>2023-09-18T00:02:34+00:00</updated>
-    <content>I repeat the rest of the meal was AMAZING 🐙 #passthatpuss </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7279949569876561194" rel="alternate"/>
-    <published>2023-09-18T00:02:34+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7280247557786275115</id>
     <title>just say ok or something</title>
@@ -51,5 +35,21 @@
     <content>fit check with my favorite smoothie in the world</content>
     <link href="https://tiktok.com/@octopusslover8/video/7280539366408146218" rel="alternate"/>
     <published>2023-09-19T14:11:16+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7280916082435689770</id>
+    <title>channeling our inner tube girl @Sabrina Bahsoon </title>
+    <updated>2023-09-20T14:33:08+00:00</updated>
+    <content>channeling our inner tube girl @Sabrina Bahsoon </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7280916082435689770" rel="alternate"/>
+    <published>2023-09-20T14:33:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7280926557277785387</id>
+    <title>#stitch with @⸆⸉ this is the greatest moment of my life. </title>
+    <updated>2023-09-20T15:13:46+00:00</updated>
+    <content>#stitch with @⸆⸉ this is the greatest moment of my life. </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7280926557277785387" rel="alternate"/>
+    <published>2023-09-20T15:13:46+00:00</published>
   </entry>
 </feed>
