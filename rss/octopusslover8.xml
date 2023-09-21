@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-09-21T21:02:34+00:00</updated>
+  <updated>2023-09-21T22:28:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7280404197877550378</id>
-    <title>and I have to wake up early</title>
-    <updated>2023-09-19T05:26:46+00:00</updated>
-    <content>and I have to wake up early</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7280404197877550378" rel="alternate"/>
-    <published>2023-09-19T05:26:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7280539366408146218</id>
     <title>fit check with my favorite smoothie in the world</title>
@@ -51,5 +43,13 @@
     <content>theme song</content>
     <link href="https://tiktok.com/@octopusslover8/video/7281387540995640622" rel="alternate"/>
     <published>2023-09-21T21:02:34+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7281409655153184042</id>
+    <title>THE QUEEN OF THE NORTH AND THE PUSS 🐙</title>
+    <updated>2023-09-21T22:28:23+00:00</updated>
+    <content>THE QUEEN OF THE NORTH AND THE PUSS 🐙</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7281409655153184042" rel="alternate"/>
+    <published>2023-09-21T22:28:23+00:00</published>
   </entry>
 </feed>
