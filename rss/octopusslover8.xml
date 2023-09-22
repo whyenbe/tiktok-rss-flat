@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-09-22T03:13:33+00:00</updated>
+  <updated>2023-09-22T05:37:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7280916082435689770</id>
-    <title>channeling our inner tube girl @Sabrina Bahsoon </title>
-    <updated>2023-09-20T14:33:08+00:00</updated>
-    <content>channeling our inner tube girl @Sabrina Bahsoon </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7280916082435689770" rel="alternate"/>
-    <published>2023-09-20T14:33:08+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7280926557277785387</id>
-    <title>#stitch with @⸆⸉ this is the greatest moment of my life. </title>
-    <updated>2023-09-20T15:13:46+00:00</updated>
-    <content>#stitch with @⸆⸉ this is the greatest moment of my life. </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7280926557277785387" rel="alternate"/>
-    <published>2023-09-20T15:13:46+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7281387540995640622</id>
     <title>theme song</title>
@@ -51,5 +35,21 @@
     <content>NYMING TIME </content>
     <link href="https://tiktok.com/@octopusslover8/video/7281483123559238955" rel="alternate"/>
     <published>2023-09-22T03:13:33+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7281514337309560106</id>
+    <title>I know my sink is dirty whatever</title>
+    <updated>2023-09-22T05:14:47+00:00</updated>
+    <content>I know my sink is dirty whatever</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7281514337309560106" rel="alternate"/>
+    <published>2023-09-22T05:14:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7281520241694231850</id>
+    <title>IM ON MY WAY</title>
+    <updated>2023-09-22T05:37:49+00:00</updated>
+    <content>IM ON MY WAY</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7281520241694231850" rel="alternate"/>
+    <published>2023-09-22T05:37:49+00:00</published>
   </entry>
 </feed>
