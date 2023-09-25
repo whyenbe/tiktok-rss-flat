@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-09-25T02:55:11+00:00</updated>
+  <updated>2023-09-25T04:13:07+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7282154225948282155</id>
-    <title>got bored and made nyming merch</title>
-    <updated>2023-09-23T22:37:52+00:00</updated>
-    <content>got bored and made nyming merch</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7282154225948282155" rel="alternate"/>
-    <published>2023-09-23T22:37:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7282256998211603758</id>
-    <title>thinking about this</title>
-    <updated>2023-09-24T05:16:37+00:00</updated>
-    <content>thinking about this</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7282256998211603758" rel="alternate"/>
-    <published>2023-09-24T05:16:37+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7282447939505786158</id>
     <title>what about the mountain</title>
@@ -51,5 +35,21 @@
     <content>if anyone is curious to see the video where Julia and Alice recieved this from the restaurant let me know </content>
     <link href="https://tiktok.com/@octopusslover8/video/7282591652584213806" rel="alternate"/>
     <published>2023-09-25T02:55:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7282603130838142250</id>
+    <title>WHIPPED BUTTER</title>
+    <updated>2023-09-25T03:39:43+00:00</updated>
+    <content>WHIPPED BUTTER</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7282603130838142250" rel="alternate"/>
+    <published>2023-09-25T03:39:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7282611718423874858</id>
+    <title>a cover by me </title>
+    <updated>2023-09-25T04:13:07+00:00</updated>
+    <content>a cover by me </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7282611718423874858" rel="alternate"/>
+    <published>2023-09-25T04:13:07+00:00</published>
   </entry>
 </feed>
