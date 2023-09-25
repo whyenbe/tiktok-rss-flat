@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-09-24T21:48:02+00:00</updated>
+  <updated>2023-09-25T02:55:11+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7282093445743709482</id>
-    <title>happy saturday pussies 🐙 #passthatpuss </title>
-    <updated>2023-09-23T18:41:56+00:00</updated>
-    <content>happy saturday pussies 🐙 #passthatpuss </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7282093445743709482" rel="alternate"/>
-    <published>2023-09-23T18:41:56+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7282154225948282155</id>
     <title>got bored and made nyming merch</title>
@@ -51,5 +43,13 @@
     <content>“we’re friends”</content>
     <link href="https://tiktok.com/@octopusslover8/video/7282512500480937259" rel="alternate"/>
     <published>2023-09-24T21:48:02+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7282591652584213806</id>
+    <title>if anyone is curious to see the video where Julia and Alice recieved this from the restaurant let me know </title>
+    <updated>2023-09-25T02:55:11+00:00</updated>
+    <content>if anyone is curious to see the video where Julia and Alice recieved this from the restaurant let me know </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7282591652584213806" rel="alternate"/>
+    <published>2023-09-25T02:55:11+00:00</published>
   </entry>
 </feed>
