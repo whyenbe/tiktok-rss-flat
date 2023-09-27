@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-09-27T16:21:51+00:00</updated>
+  <updated>2023-09-27T19:15:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7282928757407730990</id>
-    <title>Replying to @KYLE MARISA ROTH you want more??? I’ll give you more!! I feel like the first note was definately passed in jersey </title>
-    <updated>2023-09-26T00:43:21+00:00</updated>
-    <content>Replying to @KYLE MARISA ROTH you want more??? I’ll give you more!! I feel like the first note was definately passed in jersey </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7282928757407730990" rel="alternate"/>
-    <published>2023-09-26T00:43:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7282995618786626862</id>
     <title>#duet with @DEVOURPOWER #devourpower </title>
@@ -51,5 +43,13 @@
     <content>what did I just make </content>
     <link href="https://tiktok.com/@octopusslover8/video/7283541698347633951" rel="alternate"/>
     <published>2023-09-27T16:21:51+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7283586541488819487</id>
+    <title>this is me ranting</title>
+    <updated>2023-09-27T19:15:52+00:00</updated>
+    <content>this is me ranting</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7283586541488819487" rel="alternate"/>
+    <published>2023-09-27T19:15:52+00:00</published>
   </entry>
 </feed>
