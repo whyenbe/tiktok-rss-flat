@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-09-28T18:39:54+00:00</updated>
+  <updated>2023-09-28T21:18:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7283586541488819487</id>
-    <title>this is me ranting</title>
-    <updated>2023-09-27T19:15:52+00:00</updated>
-    <content>this is me ranting</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7283586541488819487" rel="alternate"/>
-    <published>2023-09-27T19:15:52+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7283605429614120222</id>
     <title>I AM FREAKING OUT. BEND THE KNEE TO THE QUEEN OF THE NORTH</title>
@@ -51,5 +43,13 @@
     <content>not an ad. I just love iced mochas.</content>
     <link href="https://tiktok.com/@octopusslover8/video/7283948355787459870" rel="alternate"/>
     <published>2023-09-28T18:39:54+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7283989137256992031</id>
+    <title>RJBPWU (rate Jake’s Bumble profile with us)!!! 🐙 #bumblepartner #greenscreen </title>
+    <updated>2023-09-28T21:18:10+00:00</updated>
+    <content>RJBPWU (rate Jake’s Bumble profile with us)!!! 🐙 #bumblepartner #greenscreen </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7283989137256992031" rel="alternate"/>
+    <published>2023-09-28T21:18:10+00:00</published>
   </entry>
 </feed>
