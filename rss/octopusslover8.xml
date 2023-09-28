@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-09-27T20:29:13+00:00</updated>
+  <updated>2023-09-28T03:32:02+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7283211550553279786</id>
-    <title>felt the need to explain this more</title>
-    <updated>2023-09-26T19:00:50+00:00</updated>
-    <content>felt the need to explain this more</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7283211550553279786" rel="alternate"/>
-    <published>2023-09-26T19:00:50+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7283332634325814570</id>
     <title>#stitch with @dazed </title>
@@ -51,5 +43,13 @@
     <content>I AM FREAKING OUT. BEND THE KNEE TO THE QUEEN OF THE NORTH</content>
     <link href="https://tiktok.com/@octopusslover8/video/7283605429614120222" rel="alternate"/>
     <published>2023-09-27T20:29:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7283714396596030750</id>
+    <title>#stitch with @Kerry Washington </title>
+    <updated>2023-09-28T03:32:02+00:00</updated>
+    <content>#stitch with @Kerry Washington </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7283714396596030750" rel="alternate"/>
+    <published>2023-09-28T03:32:02+00:00</published>
   </entry>
 </feed>
