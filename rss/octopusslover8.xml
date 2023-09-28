@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-09-28T17:28:45+00:00</updated>
+  <updated>2023-09-28T18:39:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7283541698347633951</id>
-    <title>what did I just make </title>
-    <updated>2023-09-27T16:21:51+00:00</updated>
-    <content>what did I just make </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7283541698347633951" rel="alternate"/>
-    <published>2023-09-27T16:21:51+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7283586541488819487</id>
     <title>this is me ranting</title>
@@ -51,5 +43,13 @@
     <content>it’s not my birthday it’s the release of 1989 TV</content>
     <link href="https://tiktok.com/@octopusslover8/video/7283930014532242718" rel="alternate"/>
     <published>2023-09-28T17:28:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7283948355787459870</id>
+    <title>not an ad. I just love iced mochas.</title>
+    <updated>2023-09-28T18:39:54+00:00</updated>
+    <content>not an ad. I just love iced mochas.</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7283948355787459870" rel="alternate"/>
+    <published>2023-09-28T18:39:54+00:00</published>
   </entry>
 </feed>
