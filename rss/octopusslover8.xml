@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-09-29T03:01:28+00:00</updated>
+  <updated>2023-09-29T05:01:23+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7283948355787459870</id>
-    <title>not an ad. I just love iced mochas.</title>
-    <updated>2023-09-28T18:39:54+00:00</updated>
-    <content>not an ad. I just love iced mochas.</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7283948355787459870" rel="alternate"/>
-    <published>2023-09-28T18:39:54+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7283989137256992031</id>
     <title>RJBPWU (rate Jake’s Bumble profile with us)!!! 🐙 #bumblepartner #greenscreen </title>
@@ -51,5 +43,13 @@
     <content>Replying to @HaileyPalombo </content>
     <link href="https://tiktok.com/@octopusslover8/video/7284077604397780254" rel="alternate"/>
     <published>2023-09-29T03:01:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7284108468833881374</id>
+    <title>dun dun</title>
+    <updated>2023-09-29T05:01:23+00:00</updated>
+    <content>dun dun</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7284108468833881374" rel="alternate"/>
+    <published>2023-09-29T05:01:23+00:00</published>
   </entry>
 </feed>
