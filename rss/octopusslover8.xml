@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-10-02T00:22:39+00:00</updated>
+  <updated>2023-10-02T15:58:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7284108468833881374</id>
-    <title>dun dun</title>
-    <updated>2023-09-29T05:01:23+00:00</updated>
-    <content>dun dun</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7284108468833881374" rel="alternate"/>
-    <published>2023-09-29T05:01:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7284300209348234526</id>
     <title>#stitch with @Sapozhnikov </title>
@@ -51,5 +43,13 @@
     <content>I wish she could pack herself into the suitcase </content>
     <link href="https://tiktok.com/@octopusslover8/video/7285149929239039263" rel="alternate"/>
     <published>2023-10-02T00:22:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7285390926392888607</id>
+    <title>you could not escape this meal </title>
+    <updated>2023-10-02T15:58:01+00:00</updated>
+    <content>you could not escape this meal </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7285390926392888607" rel="alternate"/>
+    <published>2023-10-02T15:58:01+00:00</published>
   </entry>
 </feed>
