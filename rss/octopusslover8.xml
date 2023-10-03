@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-10-02T20:56:58+00:00</updated>
+  <updated>2023-10-03T15:55:46+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7284506037053345054</id>
-    <title>#stitch with @Sterling Fournier </title>
-    <updated>2023-09-30T06:44:22+00:00</updated>
-    <content>#stitch with @Sterling Fournier </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7284506037053345054" rel="alternate"/>
-    <published>2023-09-30T06:44:22+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7285149929239039263</id>
     <title>I wish she could pack herself into the suitcase </title>
@@ -51,5 +43,13 @@
     <content>he saw a Dorito and you want me to believe ET is phoning home</content>
     <link href="https://tiktok.com/@octopusslover8/video/7285467989082721567" rel="alternate"/>
     <published>2023-10-02T20:56:58+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7285761423731330334</id>
+    <title>nyming with @Claudia Oshry because IM ON THE TOAST!! </title>
+    <updated>2023-10-03T15:55:46+00:00</updated>
+    <content>nyming with @Claudia Oshry because IM ON THE TOAST!! </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7285761423731330334" rel="alternate"/>
+    <published>2023-10-03T15:55:46+00:00</published>
   </entry>
 </feed>
