@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-10-05T22:03:43+00:00</updated>
+  <updated>2023-10-06T19:08:31+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7286517025017466142</id>
-    <title>I love Lana so much</title>
-    <updated>2023-10-05T16:47:48+00:00</updated>
-    <content>I love Lana so much</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7286517025017466142" rel="alternate"/>
-    <published>2023-10-05T16:47:48+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7286548704280988959</id>
     <title>this is me brushing my teeth</title>
@@ -51,5 +43,13 @@
     <content>back at Cass’ apt </content>
     <link href="https://tiktok.com/@octopusslover8/video/7286598459711360287" rel="alternate"/>
     <published>2023-10-05T22:03:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7286924381639511326</id>
+    <title>EPISODE 2: FREUD #passthatpuss </title>
+    <updated>2023-10-06T19:08:31+00:00</updated>
+    <content>EPISODE 2: FREUD #passthatpuss </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7286924381639511326" rel="alternate"/>
+    <published>2023-10-06T19:08:31+00:00</published>
   </entry>
 </feed>
