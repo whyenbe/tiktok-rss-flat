@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-10-08T20:18:43+00:00</updated>
+  <updated>2023-10-08T21:57:58+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7287304618953035039</id>
-    <title>nothing better than my room</title>
-    <updated>2023-10-07T19:44:00+00:00</updated>
-    <content>nothing better than my room</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7287304618953035039" rel="alternate"/>
-    <published>2023-10-07T19:44:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7287314462250372383</id>
     <title>that’s life</title>
@@ -51,5 +43,13 @@
     <content>GO BIRDS 🦅</content>
     <link href="https://tiktok.com/@octopusslover8/video/7287684656005270814" rel="alternate"/>
     <published>2023-10-08T20:18:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7287710235693796638</id>
+    <title>No Title</title>
+    <updated>2023-10-08T21:57:58+00:00</updated>
+    <content>No Description</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7287710235693796638" rel="alternate"/>
+    <published>2023-10-08T21:57:58+00:00</published>
   </entry>
 </feed>
