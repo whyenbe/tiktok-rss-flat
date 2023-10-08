@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-10-07T20:29:28+00:00</updated>
+  <updated>2023-10-08T20:18:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7287255627439574302</id>
-    <title>put this all on my Snapchat story last night </title>
-    <updated>2023-10-07T16:33:54+00:00</updated>
-    <content>put this all on my Snapchat story last night </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7287255627439574302" rel="alternate"/>
-    <published>2023-10-07T16:33:54+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7287287653551099167</id>
-    <title>No Title</title>
-    <updated>2023-10-07T18:38:05+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7287287653551099167" rel="alternate"/>
-    <published>2023-10-07T18:38:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7287304618953035039</id>
     <title>nothing better than my room</title>
@@ -51,5 +35,21 @@
     <content>Replying to @Abs </content>
     <link href="https://tiktok.com/@octopusslover8/video/7287316352367381791" rel="alternate"/>
     <published>2023-10-07T20:29:28+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7287653090545749278</id>
+    <title>it fucking haunts me</title>
+    <updated>2023-10-08T18:16:13+00:00</updated>
+    <content>it fucking haunts me</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7287653090545749278" rel="alternate"/>
+    <published>2023-10-08T18:16:13+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7287684656005270814</id>
+    <title>GO BIRDS 🦅</title>
+    <updated>2023-10-08T20:18:43+00:00</updated>
+    <content>GO BIRDS 🦅</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7287684656005270814" rel="alternate"/>
+    <published>2023-10-08T20:18:43+00:00</published>
   </entry>
 </feed>
