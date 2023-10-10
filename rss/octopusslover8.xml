@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-10-10T16:53:52+00:00</updated>
+  <updated>2023-10-10T18:04:38+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7287653090545749278</id>
-    <title>it fucking haunts me</title>
-    <updated>2023-10-08T18:16:13+00:00</updated>
-    <content>it fucking haunts me</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7287653090545749278" rel="alternate"/>
-    <published>2023-10-08T18:16:13+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7287684656005270814</id>
     <title>GO BIRDS 🦅</title>
@@ -51,5 +43,13 @@
     <content>grind time</content>
     <link href="https://tiktok.com/@octopusslover8/video/7288374052412984606" rel="alternate"/>
     <published>2023-10-10T16:53:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7288392288307285278</id>
+    <title>god bless my tentacles </title>
+    <updated>2023-10-10T18:04:38+00:00</updated>
+    <content>god bless my tentacles </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7288392288307285278" rel="alternate"/>
+    <published>2023-10-10T18:04:38+00:00</published>
   </entry>
 </feed>
