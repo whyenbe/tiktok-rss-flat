@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-10-14T03:19:40+00:00</updated>
+  <updated>2023-10-14T22:15:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7289179895723248927</id>
-    <title>so fun</title>
-    <updated>2023-10-12T21:01:00+00:00</updated>
-    <content>so fun</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7289179895723248927" rel="alternate"/>
-    <published>2023-10-12T21:01:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7289196372488752415</id>
     <title>Fia gets me ready for a @Bumble date #bumblepartner</title>
@@ -51,5 +43,13 @@
     <content>we’ve never been so excited </content>
     <link href="https://tiktok.com/@octopusslover8/video/7289648581177249055" rel="alternate"/>
     <published>2023-10-14T03:19:40+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7289941319013698847</id>
+    <title>how does the instructor not start laughing</title>
+    <updated>2023-10-14T22:15:45+00:00</updated>
+    <content>how does the instructor not start laughing</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7289941319013698847" rel="alternate"/>
+    <published>2023-10-14T22:15:45+00:00</published>
   </entry>
 </feed>
