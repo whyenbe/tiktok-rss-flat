@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-10-15T23:14:45+00:00</updated>
+  <updated>2023-10-16T00:05:52+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7289617666967391518</id>
-    <title>#stitch with @Fidelon I’ve never seen a hotter person</title>
-    <updated>2023-10-14T01:19:45+00:00</updated>
-    <content>#stitch with @Fidelon I’ve never seen a hotter person</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7289617666967391518" rel="alternate"/>
-    <published>2023-10-14T01:19:45+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7289648581177249055</id>
     <title>we’ve never been so excited </title>
@@ -51,5 +43,13 @@
     <content>I never get tired of it</content>
     <link href="https://tiktok.com/@octopusslover8/video/7290327616702270750" rel="alternate"/>
     <published>2023-10-15T23:14:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7290340800741870879</id>
+    <title>can’t think of anything today</title>
+    <updated>2023-10-16T00:05:52+00:00</updated>
+    <content>can’t think of anything today</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7290340800741870879" rel="alternate"/>
+    <published>2023-10-16T00:05:52+00:00</published>
   </entry>
 </feed>
