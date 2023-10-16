@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-10-16T02:34:11+00:00</updated>
+  <updated>2023-10-16T03:36:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7289941319013698847</id>
-    <title>how does the instructor not start laughing</title>
-    <updated>2023-10-14T22:15:45+00:00</updated>
-    <content>how does the instructor not start laughing</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7289941319013698847" rel="alternate"/>
-    <published>2023-10-14T22:15:45+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7289951612628389150</id>
-    <title>had to do it</title>
-    <updated>2023-10-14T22:55:39+00:00</updated>
-    <content>had to do it</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7289951612628389150" rel="alternate"/>
-    <published>2023-10-14T22:55:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7290327616702270750</id>
     <title>I never get tired of it</title>
@@ -51,5 +35,21 @@
     <content>one of my favorite songs ever #taylorswift #evermore #swiftie #passthatpuss </content>
     <link href="https://tiktok.com/@octopusslover8/video/7290379003955907870" rel="alternate"/>
     <published>2023-10-16T02:34:11+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7290392416132025631</id>
+    <title>wait they’re so good</title>
+    <updated>2023-10-16T03:26:14+00:00</updated>
+    <content>wait they’re so good</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7290392416132025631" rel="alternate"/>
+    <published>2023-10-16T03:26:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7290395113719647518</id>
+    <title>this just came to me</title>
+    <updated>2023-10-16T03:36:40+00:00</updated>
+    <content>this just came to me</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7290395113719647518" rel="alternate"/>
+    <published>2023-10-16T03:36:40+00:00</published>
   </entry>
 </feed>
