@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-10-17T18:15:15+00:00</updated>
+  <updated>2023-10-18T03:58:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,30 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7290379003955907870</id>
-    <title>one of my favorite songs ever #taylorswift #evermore #swiftie #passthatpuss </title>
-    <updated>2023-10-16T02:34:11+00:00</updated>
-    <content>one of my favorite songs ever #taylorswift #evermore #swiftie #passthatpuss </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7290379003955907870" rel="alternate"/>
-    <published>2023-10-16T02:34:11+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7290392416132025631</id>
-    <title>wait they’re so good</title>
-    <updated>2023-10-16T03:26:14+00:00</updated>
-    <content>wait they’re so good</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7290392416132025631" rel="alternate"/>
-    <published>2023-10-16T03:26:14+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7290395113719647518</id>
-    <title>this just came to me</title>
-    <updated>2023-10-16T03:36:40+00:00</updated>
-    <content>this just came to me</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7290395113719647518" rel="alternate"/>
-    <published>2023-10-16T03:36:40+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7290782592540888351</id>
     <title>No Title</title>
@@ -51,5 +27,29 @@
     <content>#duet with @Ewan Oui no one knew how to handle the power of Snooki </content>
     <link href="https://tiktok.com/@octopusslover8/video/7290992599006006558" rel="alternate"/>
     <published>2023-10-17T18:15:15+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7291136654843104542</id>
+    <title>linger (puss’ version)</title>
+    <updated>2023-10-18T03:34:07+00:00</updated>
+    <content>linger (puss’ version)</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7291136654843104542" rel="alternate"/>
+    <published>2023-10-18T03:34:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7291138893435505951</id>
+    <title>dc: me</title>
+    <updated>2023-10-18T03:42:49+00:00</updated>
+    <content>dc: me</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7291138893435505951" rel="alternate"/>
+    <published>2023-10-18T03:42:49+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7291142974203890974</id>
+    <title>like why am I so impressed that I did that</title>
+    <updated>2023-10-18T03:58:40+00:00</updated>
+    <content>like why am I so impressed that I did that</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7291142974203890974" rel="alternate"/>
+    <published>2023-10-18T03:58:40+00:00</published>
   </entry>
 </feed>
