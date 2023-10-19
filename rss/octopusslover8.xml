@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-10-18T17:21:08+00:00</updated>
+  <updated>2023-10-19T04:16:45+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7290992599006006558</id>
-    <title>#duet with @Ewan Oui no one knew how to handle the power of Snooki </title>
-    <updated>2023-10-17T18:15:15+00:00</updated>
-    <content>#duet with @Ewan Oui no one knew how to handle the power of Snooki </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7290992599006006558" rel="alternate"/>
-    <published>2023-10-17T18:15:15+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7291136654843104542</id>
-    <title>linger (puss’ version)</title>
-    <updated>2023-10-18T03:34:07+00:00</updated>
-    <content>linger (puss’ version)</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7291136654843104542" rel="alternate"/>
-    <published>2023-10-18T03:34:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7291138893435505951</id>
     <title>dc: me</title>
@@ -51,5 +35,21 @@
     <content>back at it </content>
     <link href="https://tiktok.com/@octopusslover8/video/7291349760705891615" rel="alternate"/>
     <published>2023-10-18T17:21:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7291510301822848286</id>
+    <title>it’s spooky season</title>
+    <updated>2023-10-19T03:44:06+00:00</updated>
+    <content>it’s spooky season</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7291510301822848286" rel="alternate"/>
+    <published>2023-10-19T03:44:06+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7291518701604523295</id>
+    <title>was trying to sit and be like sexy</title>
+    <updated>2023-10-19T04:16:45+00:00</updated>
+    <content>was trying to sit and be like sexy</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7291518701604523295" rel="alternate"/>
+    <published>2023-10-19T04:16:45+00:00</published>
   </entry>
 </feed>
