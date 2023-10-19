@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-10-19T04:16:45+00:00</updated>
+  <updated>2023-10-19T06:46:22+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7291138893435505951</id>
-    <title>dc: me</title>
-    <updated>2023-10-18T03:42:49+00:00</updated>
-    <content>dc: me</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7291138893435505951" rel="alternate"/>
-    <published>2023-10-18T03:42:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7291142974203890974</id>
     <title>like why am I so impressed that I did that</title>
@@ -51,5 +43,13 @@
     <content>was trying to sit and be like sexy</content>
     <link href="https://tiktok.com/@octopusslover8/video/7291518701604523295" rel="alternate"/>
     <published>2023-10-19T04:16:45+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7291557161874820383</id>
+    <title>#stitch with @Jake Shane #Halloween </title>
+    <updated>2023-10-19T06:46:22+00:00</updated>
+    <content>#stitch with @Jake Shane #Halloween </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7291557161874820383" rel="alternate"/>
+    <published>2023-10-19T06:46:22+00:00</published>
   </entry>
 </feed>
