@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-10-20T04:21:25+00:00</updated>
+  <updated>2023-10-20T04:29:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7291349760705891615</id>
-    <title>back at it </title>
-    <updated>2023-10-18T17:21:08+00:00</updated>
-    <content>back at it </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7291349760705891615" rel="alternate"/>
-    <published>2023-10-18T17:21:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7291510301822848286</id>
     <title>it’s spooky season</title>
@@ -51,5 +43,13 @@
     <content>it’s because I’m insecure and need the validation of everyone else</content>
     <link href="https://tiktok.com/@octopusslover8/video/7291891006214049055" rel="alternate"/>
     <published>2023-10-20T04:21:25+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7291893205103070494</id>
+    <title>I’m sorry I can’t control it</title>
+    <updated>2023-10-20T04:29:56+00:00</updated>
+    <content>I’m sorry I can’t control it</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7291893205103070494" rel="alternate"/>
+    <published>2023-10-20T04:29:56+00:00</published>
   </entry>
 </feed>
