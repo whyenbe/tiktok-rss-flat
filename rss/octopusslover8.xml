@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-10-20T04:29:56+00:00</updated>
+  <updated>2023-10-20T06:11:49+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7291510301822848286</id>
-    <title>it’s spooky season</title>
-    <updated>2023-10-19T03:44:06+00:00</updated>
-    <content>it’s spooky season</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7291510301822848286" rel="alternate"/>
-    <published>2023-10-19T03:44:06+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7291518701604523295</id>
     <title>was trying to sit and be like sexy</title>
@@ -51,5 +43,13 @@
     <content>I’m sorry I can’t control it</content>
     <link href="https://tiktok.com/@octopusslover8/video/7291893205103070494" rel="alternate"/>
     <published>2023-10-20T04:29:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7291919433545682206</id>
+    <title>#stitch with @Quiropraxia Asmr </title>
+    <updated>2023-10-20T06:11:49+00:00</updated>
+    <content>#stitch with @Quiropraxia Asmr </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7291919433545682206" rel="alternate"/>
+    <published>2023-10-20T06:11:49+00:00</published>
   </entry>
 </feed>
