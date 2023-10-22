@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-10-21T20:38:44+00:00</updated>
+  <updated>2023-10-22T19:19:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7292122104957340958</id>
-    <title>AVAILABLE MONDAY 10/23 AT 12 PM PST / 3 PM EST</title>
-    <updated>2023-10-20T19:18:17+00:00</updated>
-    <content>AVAILABLE MONDAY 10/23 AT 12 PM PST / 3 PM EST</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7292122104957340958" rel="alternate"/>
-    <published>2023-10-20T19:18:17+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7292220521029094686</id>
     <title>addicted</title>
@@ -51,5 +43,13 @@
     <content>it’s also 1 PM</content>
     <link href="https://tiktok.com/@octopusslover8/video/7292513932420369694" rel="alternate"/>
     <published>2023-10-21T20:38:44+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7292864711421332767</id>
+    <title>COB (come on Barbie)</title>
+    <updated>2023-10-22T19:19:56+00:00</updated>
+    <content>COB (come on Barbie)</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7292864711421332767" rel="alternate"/>
+    <published>2023-10-22T19:19:56+00:00</published>
   </entry>
 </feed>
