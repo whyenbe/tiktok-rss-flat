@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-10-22T19:19:56+00:00</updated>
+  <updated>2023-10-23T00:40:21+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7292220521029094686</id>
-    <title>addicted</title>
-    <updated>2023-10-21T01:40:31+00:00</updated>
-    <content>addicted</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7292220521029094686" rel="alternate"/>
-    <published>2023-10-21T01:40:31+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7292449722810338590</id>
-    <title>coolest thing ever </title>
-    <updated>2023-10-21T16:29:39+00:00</updated>
-    <content>coolest thing ever </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7292449722810338590" rel="alternate"/>
-    <published>2023-10-21T16:29:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7292484048293842206</id>
     <title>No Title</title>
@@ -51,5 +35,21 @@
     <content>COB (come on Barbie)</content>
     <link href="https://tiktok.com/@octopusslover8/video/7292864711421332767" rel="alternate"/>
     <published>2023-10-22T19:19:56+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7292930087635176735</id>
+    <title>dc: me</title>
+    <updated>2023-10-22T23:33:38+00:00</updated>
+    <content>dc: me</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7292930087635176735" rel="alternate"/>
+    <published>2023-10-22T23:33:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7292947286001192223</id>
+    <title>raw puss was not the move in vegas 🐙 #passthatpuss </title>
+    <updated>2023-10-23T00:40:21+00:00</updated>
+    <content>raw puss was not the move in vegas 🐙 #passthatpuss </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7292947286001192223" rel="alternate"/>
+    <published>2023-10-23T00:40:21+00:00</published>
   </entry>
 </feed>
