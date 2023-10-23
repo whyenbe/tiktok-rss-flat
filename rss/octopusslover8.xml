@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-10-23T00:40:21+00:00</updated>
+  <updated>2023-10-23T05:18:41+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7292484048293842206</id>
-    <title>No Title</title>
-    <updated>2023-10-21T18:42:49+00:00</updated>
-    <content>No Description</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7292484048293842206" rel="alternate"/>
-    <published>2023-10-21T18:42:49+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7292513932420369694</id>
     <title>it’s also 1 PM</title>
@@ -51,5 +43,13 @@
     <content>raw puss was not the move in vegas 🐙 #passthatpuss </content>
     <link href="https://tiktok.com/@octopusslover8/video/7292947286001192223" rel="alternate"/>
     <published>2023-10-23T00:40:21+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7293018975577885983</id>
+    <title>gotta finish the PSA sorry 🐙</title>
+    <updated>2023-10-23T05:18:41+00:00</updated>
+    <content>gotta finish the PSA sorry 🐙</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7293018975577885983" rel="alternate"/>
+    <published>2023-10-23T05:18:41+00:00</published>
   </entry>
 </feed>
