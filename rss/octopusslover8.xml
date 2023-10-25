@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-10-25T06:03:04+00:00</updated>
+  <updated>2023-10-25T18:15:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7293607056777415966</id>
-    <title>it’s not at all</title>
-    <updated>2023-10-24T19:20:38+00:00</updated>
-    <content>it’s not at all</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7293607056777415966" rel="alternate"/>
-    <published>2023-10-24T19:20:38+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7293710987314711838</id>
-    <title>PAP (pills and potions)</title>
-    <updated>2023-10-25T02:03:57+00:00</updated>
-    <content>PAP (pills and potions)</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7293710987314711838" rel="alternate"/>
-    <published>2023-10-25T02:03:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7293714845466135838</id>
     <title>sorry I’m so insecure that I need to talk about myself all the time</title>
@@ -51,5 +35,21 @@
     <content>#stitch with @E! News </content>
     <link href="https://tiktok.com/@octopusslover8/video/7293772550608391454" rel="alternate"/>
     <published>2023-10-25T06:03:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7293949328899591454</id>
+    <title>this was a wake up call</title>
+    <updated>2023-10-25T17:28:50+00:00</updated>
+    <content>this was a wake up call</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7293949328899591454" rel="alternate"/>
+    <published>2023-10-25T17:28:50+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7293961436420656414</id>
+    <title>#stitch with @Hannah Berner </title>
+    <updated>2023-10-25T18:15:54+00:00</updated>
+    <content>#stitch with @Hannah Berner </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7293961436420656414" rel="alternate"/>
+    <published>2023-10-25T18:15:54+00:00</published>
   </entry>
 </feed>
