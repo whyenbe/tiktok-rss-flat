@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-10-25T02:18:53+00:00</updated>
+  <updated>2023-10-25T02:39:19+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7293338923198074142</id>
-    <title>Replying to @Sofia Richie Grainge</title>
-    <updated>2023-10-24T02:00:03+00:00</updated>
-    <content>Replying to @Sofia Richie Grainge</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7293338923198074142" rel="alternate"/>
-    <published>2023-10-24T02:00:03+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7293594465091013918</id>
     <title>GO RAZORPUSS 🐙 #passthatpuss </title>
@@ -51,5 +43,13 @@
     <content>sorry I’m so insecure that I need to talk about myself all the time</content>
     <link href="https://tiktok.com/@octopusslover8/video/7293714845466135838" rel="alternate"/>
     <published>2023-10-25T02:18:53+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7293720103491751198</id>
+    <title>still staring at it</title>
+    <updated>2023-10-25T02:39:19+00:00</updated>
+    <content>still staring at it</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7293720103491751198" rel="alternate"/>
+    <published>2023-10-25T02:39:19+00:00</published>
   </entry>
 </feed>
