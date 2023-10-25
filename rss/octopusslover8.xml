@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-10-24T19:20:38+00:00</updated>
+  <updated>2023-10-25T02:18:53+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7293262322053745950</id>
-    <title>IM IN ARKANSAS PUSSIES #passthatpuss </title>
-    <updated>2023-10-23T21:02:53+00:00</updated>
-    <content>IM IN ARKANSAS PUSSIES #passthatpuss </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7293262322053745950" rel="alternate"/>
-    <published>2023-10-23T21:02:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7293323240942931230</id>
-    <title>TENTS UP ARKANSAS 🐙 I FUCKING LOVE YOU GUYS 😭 #passthatpuss </title>
-    <updated>2023-10-24T00:59:33+00:00</updated>
-    <content>TENTS UP ARKANSAS 🐙 I FUCKING LOVE YOU GUYS 😭 #passthatpuss </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7293323240942931230" rel="alternate"/>
-    <published>2023-10-24T00:59:33+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7293338923198074142</id>
     <title>Replying to @Sofia Richie Grainge</title>
@@ -51,5 +35,21 @@
     <content>it’s not at all</content>
     <link href="https://tiktok.com/@octopusslover8/video/7293607056777415966" rel="alternate"/>
     <published>2023-10-24T19:20:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7293710987314711838</id>
+    <title>PAP (pills and potions)</title>
+    <updated>2023-10-25T02:03:57+00:00</updated>
+    <content>PAP (pills and potions)</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7293710987314711838" rel="alternate"/>
+    <published>2023-10-25T02:03:57+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7293714845466135838</id>
+    <title>sorry I’m so insecure that I need to talk about myself all the time</title>
+    <updated>2023-10-25T02:18:53+00:00</updated>
+    <content>sorry I’m so insecure that I need to talk about myself all the time</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7293714845466135838" rel="alternate"/>
+    <published>2023-10-25T02:18:53+00:00</published>
   </entry>
 </feed>
