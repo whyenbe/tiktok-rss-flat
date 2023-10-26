@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-10-26T18:21:31+00:00</updated>
+  <updated>2023-10-26T21:50:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7293772550608391454</id>
-    <title>#stitch with @E! News </title>
-    <updated>2023-10-25T06:03:04+00:00</updated>
-    <content>#stitch with @E! News </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7293772550608391454" rel="alternate"/>
-    <published>2023-10-25T06:03:04+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7293949328899591454</id>
     <title>this was a wake up call</title>
@@ -51,5 +43,13 @@
     <content>ITS TAYLOR DAY EVERYONE MOVE</content>
     <link href="https://tiktok.com/@octopusslover8/video/7294333998250102062" rel="alternate"/>
     <published>2023-10-26T18:21:31+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7294387910399364395</id>
+    <title>the cup. </title>
+    <updated>2023-10-26T21:50:42+00:00</updated>
+    <content>the cup. </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7294387910399364395" rel="alternate"/>
+    <published>2023-10-26T21:50:42+00:00</published>
   </entry>
 </feed>
