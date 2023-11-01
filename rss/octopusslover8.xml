@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-11-01T02:44:10+00:00</updated>
+  <updated>2023-11-01T03:45:32+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7295231537459563822</id>
-    <title>night 2</title>
-    <updated>2023-10-29T04:24:26+00:00</updated>
-    <content>night 2</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7295231537459563822" rel="alternate"/>
-    <published>2023-10-29T04:24:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7295874525357542699</id>
     <title>this weekend ruined my life</title>
@@ -51,5 +43,13 @@
     <content>Replying to @Snooki 2.0 </content>
     <link href="https://tiktok.com/@octopusslover8/video/7296318965586988334" rel="alternate"/>
     <published>2023-11-01T02:44:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7296334761352531246</id>
+    <title>like this goes so hard #taylorswift #1989taylorsversion </title>
+    <updated>2023-11-01T03:45:32+00:00</updated>
+    <content>like this goes so hard #taylorswift #1989taylorsversion </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7296334761352531246" rel="alternate"/>
+    <published>2023-11-01T03:45:32+00:00</published>
   </entry>
 </feed>
