@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-11-04T08:09:07+00:00</updated>
+  <updated>2023-11-04T16:33:30+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7297315588228042027</id>
-    <title>2.5 MILLION PUSSIES? There aren’t words to describe the love I have for you guys. You let me come on here and just be myself every day no matter how annoying, loud, or anxious. I would move mountains for you pussies. I love you more than anything. Thank y</title>
-    <updated>2023-11-03T19:11:44+00:00</updated>
-    <content>2.5 MILLION PUSSIES? There aren’t words to describe the love I have for you guys. You let me come on here and just be myself every day no matter how annoying, loud, or anxious. I would move mountains for you pussies. I love you more than anything. Thank you for all that you’ve done, I hope I can give you guys even a little of what you’ve given me 😭 TENTS UP FOREVER 🐙 #passthatpuss </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7297315588228042027" rel="alternate"/>
-    <published>2023-11-03T19:11:44+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7297325330686037290</id>
     <title>Replying to @Lorelei Marie </title>
@@ -51,5 +43,13 @@
     <content>This is gonna be sick</content>
     <link href="https://tiktok.com/@octopusslover8/video/7297515812426976555" rel="alternate"/>
     <published>2023-11-04T08:09:07+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7297645915840449834</id>
+    <title>happy Saturday pussies</title>
+    <updated>2023-11-04T16:33:30+00:00</updated>
+    <content>happy Saturday pussies</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7297645915840449834" rel="alternate"/>
+    <published>2023-11-04T16:33:30+00:00</published>
   </entry>
 </feed>
