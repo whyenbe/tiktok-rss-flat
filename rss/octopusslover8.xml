@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-11-05T22:32:04+00:00</updated>
+  <updated>2023-11-06T01:30:51+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7297515812426976555</id>
-    <title>This is gonna be sick</title>
-    <updated>2023-11-04T08:09:07+00:00</updated>
-    <content>This is gonna be sick</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7297515812426976555" rel="alternate"/>
-    <published>2023-11-04T08:09:07+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7297645915840449834</id>
     <title>happy Saturday pussies</title>
@@ -51,5 +43,13 @@
     <content>Replying to @Aidan Prendergast388 </content>
     <link href="https://tiktok.com/@octopusslover8/video/7298109394384866603" rel="alternate"/>
     <published>2023-11-05T22:32:04+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7298155483821690158</id>
+    <title>George Washington spotted leaving a secret photoshoot earlier today in Los Angeles, CA </title>
+    <updated>2023-11-06T01:30:51+00:00</updated>
+    <content>George Washington spotted leaving a secret photoshoot earlier today in Los Angeles, CA </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7298155483821690158" rel="alternate"/>
+    <published>2023-11-06T01:30:51+00:00</published>
   </entry>
 </feed>
