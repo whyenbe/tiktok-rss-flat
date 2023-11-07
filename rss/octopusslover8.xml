@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-11-07T18:03:12+00:00</updated>
+  <updated>2023-11-07T20:56:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7298544819872402734</id>
-    <title>Replying to @Taser Face </title>
-    <updated>2023-11-07T02:41:36+00:00</updated>
-    <content>Replying to @Taser Face </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7298544819872402734" rel="alternate"/>
-    <published>2023-11-07T02:41:36+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7298587974021827883</id>
-    <title>dc: me with help from @Jake Clark </title>
-    <updated>2023-11-07T05:29:08+00:00</updated>
-    <content>dc: me with help from @Jake Clark </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7298587974021827883" rel="alternate"/>
-    <published>2023-11-07T05:29:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7298589827132427566</id>
     <title>Replying to @carly (taylor’s version) </title>
@@ -51,5 +35,21 @@
     <content>and I wouldn’t do it with anyone else </content>
     <link href="https://tiktok.com/@octopusslover8/video/7298782305185795370" rel="alternate"/>
     <published>2023-11-07T18:03:12+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7298818170645941550</id>
+    <title>Replying to @American Eagle IISF (it is so frigid) thank you @American Eagle for keeping me warm #AEJeans #AEPartner </title>
+    <updated>2023-11-07T20:22:24+00:00</updated>
+    <content>Replying to @American Eagle IISF (it is so frigid) thank you @American Eagle for keeping me warm #AEJeans #AEPartner </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7298818170645941550" rel="alternate"/>
+    <published>2023-11-07T20:22:24+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7298826866033577259</id>
+    <title>ib: @Paige Owen #taylorswift #1989taylorsversion </title>
+    <updated>2023-11-07T20:56:08+00:00</updated>
+    <content>ib: @Paige Owen #taylorswift #1989taylorsversion </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7298826866033577259" rel="alternate"/>
+    <published>2023-11-07T20:56:08+00:00</published>
   </entry>
 </feed>
