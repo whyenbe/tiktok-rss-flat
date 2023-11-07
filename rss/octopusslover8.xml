@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-11-06T20:21:38+00:00</updated>
+  <updated>2023-11-07T00:18:33+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7298081795818442027</id>
-    <title>we weren’t moving dw </title>
-    <updated>2023-11-05T20:44:57+00:00</updated>
-    <content>we weren’t moving dw </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7298081795818442027" rel="alternate"/>
-    <published>2023-11-05T20:44:57+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7298109394384866603</id>
     <title>Replying to @Aidan Prendergast388 </title>
@@ -51,5 +43,13 @@
     <content>Replying to @meliSSA everyone has difficult days</content>
     <link href="https://tiktok.com/@octopusslover8/video/7298446850875559211" rel="alternate"/>
     <published>2023-11-06T20:21:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7298507931039943982</id>
+    <title>#duet with @Ellen Weatherford 🐾 #linguistics </title>
+    <updated>2023-11-07T00:18:33+00:00</updated>
+    <content>#duet with @Ellen Weatherford 🐾 #linguistics </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7298507931039943982" rel="alternate"/>
+    <published>2023-11-07T00:18:33+00:00</published>
   </entry>
 </feed>
