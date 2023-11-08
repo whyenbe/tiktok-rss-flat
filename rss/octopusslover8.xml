@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-11-08T02:36:42+00:00</updated>
+  <updated>2023-11-08T18:14:10+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7298818170645941550</id>
-    <title>Replying to @American Eagle IISF (it is so frigid) thank you @American Eagle for keeping me warm #AEJeans #AEPartner </title>
-    <updated>2023-11-07T20:22:24+00:00</updated>
-    <content>Replying to @American Eagle IISF (it is so frigid) thank you @American Eagle for keeping me warm #AEJeans #AEPartner </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7298818170645941550" rel="alternate"/>
-    <published>2023-11-07T20:22:24+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7298826866033577259</id>
     <title>ib: @Paige Owen #taylorswift #1989taylorsversion </title>
@@ -51,5 +43,13 @@
     <content>Replying to @Brooklyn </content>
     <link href="https://tiktok.com/@octopusslover8/video/7298914619303742766" rel="alternate"/>
     <published>2023-11-08T02:36:42+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7299156189277867306</id>
+    <title>HOW IS THIS REAL. THANK YOU SO MUCH @People Magazine </title>
+    <updated>2023-11-08T18:14:10+00:00</updated>
+    <content>HOW IS THIS REAL. THANK YOU SO MUCH @People Magazine </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7299156189277867306" rel="alternate"/>
+    <published>2023-11-08T18:14:10+00:00</published>
   </entry>
 </feed>
