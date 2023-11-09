@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-11-09T01:10:08+00:00</updated>
+  <updated>2023-11-09T03:55:54+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7298893255092063530</id>
-    <title>Replying to @brit </title>
-    <updated>2023-11-08T01:13:41+00:00</updated>
-    <content>Replying to @brit </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7298893255092063530" rel="alternate"/>
-    <published>2023-11-08T01:13:41+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7298898558940466474</id>
-    <title>Replying to @. This one didn’t make it past the first draft</title>
-    <updated>2023-11-08T01:34:18+00:00</updated>
-    <content>Replying to @. This one didn’t make it past the first draft</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7298898558940466474" rel="alternate"/>
-    <published>2023-11-08T01:34:18+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7298914619303742766</id>
     <title>Replying to @Brooklyn </title>
@@ -51,5 +35,21 @@
     <content>this was a cannon event </content>
     <link href="https://tiktok.com/@octopusslover8/video/7299263424461114667" rel="alternate"/>
     <published>2023-11-09T01:10:08+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7299300404024724778</id>
+    <title>Replying to @forcejump5 </title>
+    <updated>2023-11-09T03:33:41+00:00</updated>
+    <content>Replying to @forcejump5 </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7299300404024724778" rel="alternate"/>
+    <published>2023-11-09T03:33:41+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7299306133993311531</id>
+    <title>Replying to @Brooks </title>
+    <updated>2023-11-09T03:55:54+00:00</updated>
+    <content>Replying to @Brooks </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7299306133993311531" rel="alternate"/>
+    <published>2023-11-09T03:55:54+00:00</published>
   </entry>
 </feed>
