@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-11-08T18:14:10+00:00</updated>
+  <updated>2023-11-09T01:10:08+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7298826866033577259</id>
-    <title>ib: @Paige Owen #taylorswift #1989taylorsversion </title>
-    <updated>2023-11-07T20:56:08+00:00</updated>
-    <content>ib: @Paige Owen #taylorswift #1989taylorsversion </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7298826866033577259" rel="alternate"/>
-    <published>2023-11-07T20:56:08+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7298893255092063530</id>
     <title>Replying to @brit </title>
@@ -51,5 +43,13 @@
     <content>HOW IS THIS REAL. THANK YOU SO MUCH @People Magazine </content>
     <link href="https://tiktok.com/@octopusslover8/video/7299156189277867306" rel="alternate"/>
     <published>2023-11-08T18:14:10+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7299263424461114667</id>
+    <title>this was a cannon event </title>
+    <updated>2023-11-09T01:10:08+00:00</updated>
+    <content>this was a cannon event </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7299263424461114667" rel="alternate"/>
+    <published>2023-11-09T01:10:08+00:00</published>
   </entry>
 </feed>
