@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-11-11T18:25:23+00:00</updated>
+  <updated>2023-11-11T21:06:42+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7300014674802871598</id>
-    <title>#stitch with @alix earle </title>
-    <updated>2023-11-11T01:45:29+00:00</updated>
-    <content>#stitch with @alix earle </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7300014674802871598" rel="alternate"/>
-    <published>2023-11-11T01:45:29+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7300032060482440494</id>
     <title>Replying to @The Murphy Fam ❤️ </title>
@@ -51,5 +43,13 @@
     <content>Replying to @The Murphy Fam ❤️ </content>
     <link href="https://tiktok.com/@octopusslover8/video/7300272331321134379" rel="alternate"/>
     <published>2023-11-11T18:25:23+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7300313925139041582</id>
+    <title>happy Saturday pussies 🐙</title>
+    <updated>2023-11-11T21:06:42+00:00</updated>
+    <content>happy Saturday pussies 🐙</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7300313925139041582" rel="alternate"/>
+    <published>2023-11-11T21:06:42+00:00</published>
   </entry>
 </feed>
