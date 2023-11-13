@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-11-13T01:13:46+00:00</updated>
+  <updated>2023-11-13T06:31:01+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7300339291325058347</id>
-    <title>Replying to @Christie </title>
-    <updated>2023-11-11T22:45:15+00:00</updated>
-    <content>Replying to @Christie </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7300339291325058347" rel="alternate"/>
-    <published>2023-11-11T22:45:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7300407082971303211</id>
     <title>no words.</title>
@@ -51,5 +43,13 @@
     <content>we need to be put down IB: @Macy Thompson </content>
     <link href="https://tiktok.com/@octopusslover8/video/7300748664018980138" rel="alternate"/>
     <published>2023-11-13T01:13:46+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7300830329433066794</id>
+    <title>Replying to @Adriennesmeal </title>
+    <updated>2023-11-13T06:31:01+00:00</updated>
+    <content>Replying to @Adriennesmeal </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7300830329433066794" rel="alternate"/>
+    <published>2023-11-13T06:31:01+00:00</published>
   </entry>
 </feed>
