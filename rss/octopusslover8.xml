@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-11-14T23:24:05+00:00</updated>
+  <updated>2023-11-15T06:19:55+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7301091215666122027</id>
-    <title>Replying to @willow (by taylor swift) </title>
-    <updated>2023-11-13T23:23:02+00:00</updated>
-    <content>Replying to @willow (by taylor swift) </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7301091215666122027" rel="alternate"/>
-    <published>2023-11-13T23:23:02+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7301162215346867499</id>
     <title>Replying to @Laneyy </title>
@@ -51,5 +43,13 @@
     <content>LGA (let's get @away) #awaypartner</content>
     <link href="https://tiktok.com/@octopusslover8/video/7301462560421760298" rel="alternate"/>
     <published>2023-11-14T23:24:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7301569729523928366</id>
+    <title>Replying to @Ria Julia and I were really proud of this one</title>
+    <updated>2023-11-15T06:19:55+00:00</updated>
+    <content>Replying to @Ria Julia and I were really proud of this one</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7301569729523928366" rel="alternate"/>
+    <published>2023-11-15T06:19:55+00:00</published>
   </entry>
 </feed>
