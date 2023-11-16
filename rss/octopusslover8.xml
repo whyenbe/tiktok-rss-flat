@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-11-16T22:15:33+00:00</updated>
+  <updated>2023-11-16T18:37:35+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,6 +12,14 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7301214336670813482</id>
+    <title>dc: me</title>
+    <updated>2023-11-14T07:20:50+00:00</updated>
+    <content>dc: me</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7301214336670813482" rel="alternate"/>
+    <published>2023-11-14T07:20:50+00:00</published>
+  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7301390178818592043</id>
     <title>today was intense </title>
@@ -43,13 +51,5 @@
     <content>Replying to @Keurig #ad thanks to @Keurig ‘s Breaks The Ice AI Generator for giving me pointers on how to ask out my high school crush! go to keurigbreakstheice.com to get help with those awkward moments on Thanksgiving </content>
     <link href="https://tiktok.com/@octopusslover8/video/7302130802366745899" rel="alternate"/>
     <published>2023-11-16T18:37:35+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7302187078287117610</id>
-    <title>sorry</title>
-    <updated>2023-11-16T22:15:33+00:00</updated>
-    <content>sorry</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7302187078287117610" rel="alternate"/>
-    <published>2023-11-16T22:15:33+00:00</published>
   </entry>
 </feed>
