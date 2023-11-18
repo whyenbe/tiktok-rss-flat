@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-11-18T17:59:09+00:00</updated>
+  <updated>2023-11-18T18:24:40+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7302511605776993578</id>
-    <title>every time</title>
-    <updated>2023-11-17T19:15:00+00:00</updated>
-    <content>every time</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7302511605776993578" rel="alternate"/>
-    <published>2023-11-17T19:15:00+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7302556903341608234</id>
     <title>Replying to @soph.s </title>
@@ -51,5 +43,13 @@
     <content>karma is Brett scaring me</content>
     <link href="https://tiktok.com/@octopusslover8/video/7302863150620396846" rel="alternate"/>
     <published>2023-11-18T17:59:09+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7302869729260342574</id>
+    <title>Replying to @Giuli Paniza </title>
+    <updated>2023-11-18T18:24:40+00:00</updated>
+    <content>Replying to @Giuli Paniza </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7302869729260342574" rel="alternate"/>
+    <published>2023-11-18T18:24:40+00:00</published>
   </entry>
 </feed>
