@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-11-20T06:25:59+00:00</updated>
+  <updated>2023-11-20T23:06:36+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7302964786159947051</id>
-    <title>ib: @jack wright </title>
-    <updated>2023-11-19T00:33:23+00:00</updated>
-    <content>ib: @jack wright </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7302964786159947051" rel="alternate"/>
-    <published>2023-11-19T00:33:23+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7303252489678130475</id>
     <title>I would swim across the ocean for you guys. Thank you for making my dreams come true just by letting me make you guys laugh 🥹 TENTS UP FOREVER 🐙 #passthatpuss </title>
@@ -51,5 +43,13 @@
     <content>#stitch with @Robert Carpenter </content>
     <link href="https://tiktok.com/@octopusslover8/video/7303426665416445230" rel="alternate"/>
     <published>2023-11-20T06:25:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7303684563321113898</id>
+    <title>help</title>
+    <updated>2023-11-20T23:06:36+00:00</updated>
+    <content>help</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7303684563321113898" rel="alternate"/>
+    <published>2023-11-20T23:06:36+00:00</published>
   </entry>
 </feed>
