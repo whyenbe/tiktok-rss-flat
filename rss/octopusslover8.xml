@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-11-21T00:36:14+00:00</updated>
+  <updated>2023-11-21T07:34:39+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7303422750234938670</id>
-    <title>#duet with @Projeto Arte</title>
-    <updated>2023-11-20T06:10:52+00:00</updated>
-    <content>#duet with @Projeto Arte</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7303422750234938670" rel="alternate"/>
-    <published>2023-11-20T06:10:52+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7303426665416445230</id>
-    <title>#stitch with @Robert Carpenter </title>
-    <updated>2023-11-20T06:25:59+00:00</updated>
-    <content>#stitch with @Robert Carpenter </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7303426665416445230" rel="alternate"/>
-    <published>2023-11-20T06:25:59+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7303684563321113898</id>
     <title>help</title>
@@ -51,5 +35,21 @@
     <content>happy Monday pussies </content>
     <link href="https://tiktok.com/@octopusslover8/video/7303707698976132394" rel="alternate"/>
     <published>2023-11-21T00:36:14+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7303811441432284458</id>
+    <title>I’m traumatized </title>
+    <updated>2023-11-21T07:18:52+00:00</updated>
+    <content>I’m traumatized </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7303811441432284458" rel="alternate"/>
+    <published>2023-11-21T07:18:52+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7303815505196911915</id>
+    <title>no words for this one</title>
+    <updated>2023-11-21T07:34:39+00:00</updated>
+    <content>no words for this one</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7303815505196911915" rel="alternate"/>
+    <published>2023-11-21T07:34:39+00:00</published>
   </entry>
 </feed>
