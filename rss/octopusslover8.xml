@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-11-21T07:34:39+00:00</updated>
+  <updated>2023-11-21T20:29:13+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7303684563321113898</id>
-    <title>help</title>
-    <updated>2023-11-20T23:06:36+00:00</updated>
-    <content>help</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7303684563321113898" rel="alternate"/>
-    <published>2023-11-20T23:06:36+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7303697662014983466</id>
     <title>admit I’m kinda getting strong</title>
@@ -51,5 +43,13 @@
     <content>no words for this one</content>
     <link href="https://tiktok.com/@octopusslover8/video/7303815505196911915" rel="alternate"/>
     <published>2023-11-21T07:34:39+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7304015113202191658</id>
+    <title>holiday nyms </title>
+    <updated>2023-11-21T20:29:13+00:00</updated>
+    <content>holiday nyms </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7304015113202191658" rel="alternate"/>
+    <published>2023-11-21T20:29:13+00:00</published>
   </entry>
 </feed>
