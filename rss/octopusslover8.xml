@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-11-20T23:06:36+00:00</updated>
+  <updated>2023-11-21T00:36:14+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7303252489678130475</id>
-    <title>I would swim across the ocean for you guys. Thank you for making my dreams come true just by letting me make you guys laugh 🥹 TENTS UP FOREVER 🐙 #passthatpuss </title>
-    <updated>2023-11-19T19:09:53+00:00</updated>
-    <content>I would swim across the ocean for you guys. Thank you for making my dreams come true just by letting me make you guys laugh 🥹 TENTS UP FOREVER 🐙 #passthatpuss </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7303252489678130475" rel="alternate"/>
-    <published>2023-11-19T19:09:53+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7303321147049856299</id>
-    <title>happy Sunday pussies 🐙</title>
-    <updated>2023-11-19T23:36:21+00:00</updated>
-    <content>happy Sunday pussies 🐙</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7303321147049856299" rel="alternate"/>
-    <published>2023-11-19T23:36:21+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7303422750234938670</id>
     <title>#duet with @Projeto Arte</title>
@@ -51,5 +35,21 @@
     <content>help</content>
     <link href="https://tiktok.com/@octopusslover8/video/7303684563321113898" rel="alternate"/>
     <published>2023-11-20T23:06:36+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7303697662014983466</id>
+    <title>admit I’m kinda getting strong</title>
+    <updated>2023-11-20T23:57:26+00:00</updated>
+    <content>admit I’m kinda getting strong</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7303697662014983466" rel="alternate"/>
+    <published>2023-11-20T23:57:26+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7303707698976132394</id>
+    <title>happy Monday pussies </title>
+    <updated>2023-11-21T00:36:14+00:00</updated>
+    <content>happy Monday pussies </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7303707698976132394" rel="alternate"/>
+    <published>2023-11-21T00:36:14+00:00</published>
   </entry>
 </feed>
