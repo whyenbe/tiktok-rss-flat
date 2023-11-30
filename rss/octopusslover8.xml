@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-11-29T14:48:38+00:00</updated>
+  <updated>2023-11-30T15:48:47+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7306690582112374058</id>
-    <title>Replying to @LB </title>
-    <updated>2023-11-29T01:31:26+00:00</updated>
-    <content>Replying to @LB </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7306690582112374058" rel="alternate"/>
-    <published>2023-11-29T01:31:26+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7306737943606136110</id>
     <title>Replying to @Sarah </title>
@@ -51,5 +43,13 @@
     <content>it’s like she knew #taylorswift #yourelosingme </content>
     <link href="https://tiktok.com/@octopusslover8/video/7306895951958936878" rel="alternate"/>
     <published>2023-11-29T14:48:38+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7307282578094951723</id>
+    <title>PAYTON HAS ARRIVED </title>
+    <updated>2023-11-30T15:48:47+00:00</updated>
+    <content>PAYTON HAS ARRIVED </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7307282578094951723" rel="alternate"/>
+    <published>2023-11-30T15:48:47+00:00</published>
   </entry>
 </feed>
