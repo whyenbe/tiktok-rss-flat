@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-12-02T01:52:59+00:00</updated>
+  <updated>2023-12-02T07:55:43+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,22 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7307664152301030699</id>
-    <title>how is this real</title>
-    <updated>2023-12-01T16:29:20+00:00</updated>
-    <content>how is this real</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7307664152301030699" rel="alternate"/>
-    <published>2023-12-01T16:29:20+00:00</published>
-  </entry>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7307716530664426795</id>
-    <title>They’ll talk about this comeback for ages </title>
-    <updated>2023-12-01T19:52:39+00:00</updated>
-    <content>They’ll talk about this comeback for ages </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7307716530664426795" rel="alternate"/>
-    <published>2023-12-01T19:52:39+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7307743682348780843</id>
     <title>SYRACUSE IM HERE 💙🧡</title>
@@ -51,5 +35,21 @@
     <content>GO ORANGE 💙🧡</content>
     <link href="https://tiktok.com/@octopusslover8/video/7307809403267468590" rel="alternate"/>
     <published>2023-12-02T01:52:59+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7307895249601318187</id>
+    <title>late november with a touch of december 🐙</title>
+    <updated>2023-12-02T07:26:27+00:00</updated>
+    <content>late november with a touch of december 🐙</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7307895249601318187" rel="alternate"/>
+    <published>2023-12-02T07:26:27+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7307902814326361386</id>
+    <title>I love my friends so much. </title>
+    <updated>2023-12-02T07:55:43+00:00</updated>
+    <content>I love my friends so much. </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7307902814326361386" rel="alternate"/>
+    <published>2023-12-02T07:55:43+00:00</published>
   </entry>
 </feed>
