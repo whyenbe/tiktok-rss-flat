@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-12-02T07:55:43+00:00</updated>
+  <updated>2023-12-02T14:55:26+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7307743682348780843</id>
-    <title>SYRACUSE IM HERE 💙🧡</title>
-    <updated>2023-12-01T21:37:58+00:00</updated>
-    <content>SYRACUSE IM HERE 💙🧡</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7307743682348780843" rel="alternate"/>
-    <published>2023-12-01T21:37:58+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7307756452393864490</id>
     <title>WHY DID I AGE SO FAST</title>
@@ -51,5 +43,13 @@
     <content>I love my friends so much. </content>
     <link href="https://tiktok.com/@octopusslover8/video/7307902814326361386" rel="alternate"/>
     <published>2023-12-02T07:55:43+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7308011012756737323</id>
+    <title>SYRACUSE THANK YOU FOR A SOLD OUT SHOW 💙🧡</title>
+    <updated>2023-12-02T14:55:26+00:00</updated>
+    <content>SYRACUSE THANK YOU FOR A SOLD OUT SHOW 💙🧡</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7308011012756737323" rel="alternate"/>
+    <published>2023-12-02T14:55:26+00:00</published>
   </entry>
 </feed>
