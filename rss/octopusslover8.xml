@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-12-04T00:32:05+00:00</updated>
+  <updated>2023-12-04T02:35:12+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7307902814326361386</id>
-    <title>I love my friends so much. </title>
-    <updated>2023-12-02T07:55:43+00:00</updated>
-    <content>I love my friends so much. </content>
-    <link href="https://tiktok.com/@octopusslover8/video/7307902814326361386" rel="alternate"/>
-    <published>2023-12-02T07:55:43+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7308011012756737323</id>
     <title>SYRACUSE THANK YOU FOR A SOLD OUT SHOW 💙🧡</title>
@@ -51,5 +43,13 @@
     <content>happy Sunday pussies 🐙</content>
     <link href="https://tiktok.com/@octopusslover8/video/7308530723349155114" rel="alternate"/>
     <published>2023-12-04T00:32:05+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7308562433080347950</id>
+    <title>#duet with @Bethany #TaylorSwift </title>
+    <updated>2023-12-04T02:35:12+00:00</updated>
+    <content>#duet with @Bethany #TaylorSwift </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7308562433080347950" rel="alternate"/>
+    <published>2023-12-04T02:35:12+00:00</published>
   </entry>
 </feed>
