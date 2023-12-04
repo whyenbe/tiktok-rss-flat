@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-12-04T19:06:47+00:00</updated>
+  <updated>2023-12-04T23:16:00+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7308045777799073070</id>
-    <title>#duet with @E! News</title>
-    <updated>2023-12-02T17:10:15+00:00</updated>
-    <content>#duet with @E! News</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7308045777799073070" rel="alternate"/>
-    <published>2023-12-02T17:10:15+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7308112657301818670</id>
     <title>this is the coolest store I’ve ever been to</title>
@@ -51,5 +43,13 @@
     <content>the moaning</content>
     <link href="https://tiktok.com/@octopusslover8/video/7308817945214373166" rel="alternate"/>
     <published>2023-12-04T19:06:47+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7308882197639859498</id>
+    <title>#stitch with @ethan </title>
+    <updated>2023-12-04T23:16:00+00:00</updated>
+    <content>#stitch with @ethan </content>
+    <link href="https://tiktok.com/@octopusslover8/video/7308882197639859498" rel="alternate"/>
+    <published>2023-12-04T23:16:00+00:00</published>
   </entry>
 </feed>
