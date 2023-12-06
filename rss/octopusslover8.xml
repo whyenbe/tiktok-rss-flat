@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://tiktok.com/@octopusslover8</id>
   <title>octopusslover8 TikTok</title>
-  <updated>2023-12-06T18:12:18+00:00</updated>
+  <updated>2023-12-06T19:50:56+00:00</updated>
   <author>
     <name>Conor ONeill</name>
     <email>conor@conoroneill.com</email>
@@ -12,14 +12,6 @@
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <logo>https://whyenbe.github.io/toktok-rss-flat.com/tiktok-rss.png</logo>
   <subtitle>OK Boomer, all the latest TikToks from octopusslover8</subtitle>
-  <entry>
-    <id>https://tiktok.com/@octopusslover8/video/7308530723349155114</id>
-    <title>happy Sunday pussies 🐙</title>
-    <updated>2023-12-04T00:32:05+00:00</updated>
-    <content>happy Sunday pussies 🐙</content>
-    <link href="https://tiktok.com/@octopusslover8/video/7308530723349155114" rel="alternate"/>
-    <published>2023-12-04T00:32:05+00:00</published>
-  </entry>
   <entry>
     <id>https://tiktok.com/@octopusslover8/video/7308562433080347950</id>
     <title>#duet with @Bethany #TaylorSwift </title>
@@ -51,5 +43,13 @@
     <content>imagine explaining this to a pilgrim </content>
     <link href="https://tiktok.com/@octopusslover8/video/7309546113147800878" rel="alternate"/>
     <published>2023-12-06T18:12:18+00:00</published>
+  </entry>
+  <entry>
+    <id>https://tiktok.com/@octopusslover8/video/7309571500825152814</id>
+    <title>imagine explaining this to king george the third</title>
+    <updated>2023-12-06T19:50:56+00:00</updated>
+    <content>imagine explaining this to king george the third</content>
+    <link href="https://tiktok.com/@octopusslover8/video/7309571500825152814" rel="alternate"/>
+    <published>2023-12-06T19:50:56+00:00</published>
   </entry>
 </feed>
